@@ -1,0 +1,336 @@
+---
+title: "FOOTBALL COLOSSEUM"
+subtitle: "A R-Shiny App for Football Data Representation and Visualization"
+editor: visual
+format: pdf    
+author: "Ashmit Bathla, Piyush Kumar, Tattwa Shiwani, Ved Patil Vinay"
+knitr: 
+  opts_chunk: 
+    warning: FALSE
+    message: FALSE
+---
+
+------------------------------------------------------------------------
+
+The shiny app developed in the project provides a one stop comprehensive place to easily view and visualize Both players specific and club specific football statistics From the 2020 to 2024 seasons of the five major European leagues, namely: - English Primer League - Serie A - Bundesliga - Laliga - French League 1
+
+# Insights to the Application
+
+The R-shiny app serves multiple purposes, and offers the following features:
+
+> -   **Squad/Player Analytics** : The most fundamental feature, this part of the app allows a user to view data for a particular club (player) for a specific season. The detailed data is segregated according to the possibles roles a personal takes on the field, these include '**Attack**', '**Defense**', '**Advance**' (general term for what is company called midfield) '**Fair Play**', '**General**' (Only for player specific analysis, includes statistics of the players appearances and time spent on the field.) and '**Win Loss**' (Only for club specific analysis, mainly includes the final league standing of the league for that perticular season.) The user will be prompted to select a season, league, a club or a player and then the kind of statistics he is interested in.
+
+> -   **Player Comparison** The app facilitates visual comparison of up to 3 players for a given season. The comparisons can be again made according to the the roles which a player can take up, as detailed above. An interesting note to make is that the since the app allows a user to choose any player Irrespective of his position in the squad and the kind of statistic to compare the players, It is possible to make Unorthodox comparisons, like comparing the defensive actions of 2 center forwards, Since they could also be expected to perform defensive duties in case the they are playing with 10 pairs of foots on the field.
+
+# Data
+
+# Obtaining the Data
+
+# Identifying any Biases in the Data
+
+In analyzing data from the 2020 to 2024 seasons of the top five European football leagues—**English Premier League**, **Serie A**, **Bundesliga**, **LaLiga**, and **French Ligue 1**—several potential biases could affect the accuracy and fairness of insights. Below are some key biases to consider:
+
+## 1. Selection Bias
+
+-   **Description**: The data only covers the most recent five years, potentially excluding historical trends, long-term player performance, or older market influences.
+-   **Impact**: Insights may be less applicable to players whose peak years or significant impacts occurred before 2020.
+
+## 2. Survivorship Bias
+
+-   **Description**: Focusing on players who were active from 2020 to 2024 may overlook those who transferred to other leagues or retired during this period.
+-   **Impact**: This could skew the analysis by making some players look better or worse due to natural player turnover not reflected in the data.
+
+## 3. Market Value Prediction Bias
+
+-   **Description**: Market values are influenced by factors beyond performance (e.g., media attention, club reputation, and market trends), which might not be fully captured by performance metrics.
+-   **Impact**: Predictions could be biased toward high-profile players or leagues, potentially inflating or undervaluing players based on external factors not reflected in the data.
+
+## 4. Position-Specific Bias
+
+-   **Description**: Comparing players across all positions can inherently favor certain positions (e.g., forwards who score more goals) over others (e.g., defenders or goalkeepers).
+-   **Impact**: This could lead to skewed analysis if players in less "visible" roles are not compared within their specific positions.
+
+## 5. League-Specific Bias
+
+-   **Description**: Each league has unique styles of play, competitive levels, and tactical approaches, impacting player and team statistics.
+-   **Impact**: Direct comparisons across leagues may introduce bias, as player stats might vary due to league
+
+# Interesting Questions to ask from the Data
+
+Analyzing data from the 2020 to 2024 seasons of the major European leagues provides insights into various aspects of team and player performance. Below are some key questions this data can help answer:
+
+1.  **Player Performance**
+    -   Who are the top-performing players across different positions in each league?
+    -   Which players have shown the most improvement over the last five seasons?
+2.  **Team Dynamics and Strength**
+    -   Which teams have consistently ranked at the top across the five seasons?
+    -   How do teams compare in terms of offensive and defensive statistics?
+3.  **Market Value Trends**
+    -   How has the market value of individual players evolved over the past five years?
+    -   Are there noticeable trends in market values for certain positions or nationalities?
+4.  **League Comparisons**
+    -   How do player and team statistics vary across the five major leagues?
+    -   Which league demonstrates the highest average player performance or team efficiency?
+5.  **Player Comparison**
+    -   How do individual players compare in terms of performance metrics such as goals, assists, and defensive actions?
+    -   Which players have the highest influence on their team’s success?
+
+# Visualizations
+
+A scatter plot visualizes statistics from the past five league seasons, allowing for clearer visual interpretation of trends and patterns. Also, we can adjust the variables at X and Y-axis so that we can observe the patterns and relation between any two stats for any season and any League
+
+```{r echo=FALSE}
+library(ggplot2)
+
+pl24<- read.csv("../Data/Premier_League/Premier_League_24/Squad/Attack.csv")
+
+pl23<- read.csv("../Data/Premier_League/Premier_League_23/Squad/Attack.csv")
+
+
+seriea23<- read.csv("../Data/Serie_A/Serie_A_23/Squad/Attack.csv")
+
+seriea24<- read.csv("../Data/Serie_A/Serie_A_24/Squad/Attack.csv")
+
+pl24$DataSet <- "Premier_League_24"
+pl23$DataSet <- "Premier_League_23"
+seriea23$DataSet <- "Serie_A_23"
+seriea24$DataSet <- "Serie_A_24"
+
+data <- rbind(pl24, pl23, seriea23, seriea24)
+
+ggplot(data, aes(x = Shots, y = Total_Goals_Scored, colour = DataSet )) +
+  geom_point() +
+  labs(
+    title = "Shots Vs Total Goals Scored",
+    x = "Shots",
+    y = "Total Goals Scored"
+  ) +
+  theme_minimal()
+
+```
+
+A spider chart allows us to understand the attributes of a player for any player of any Club for any Season and League in a very efficient way
+
+```{r echo=FALSE}
+# Load necessary libraries
+
+library(fmsb)
+library(dplyr)
+# Load the data
+
+dataset<- read.csv("../Data/Bundesliga/Bundesliga_24/Player/Advance.csv") 
+
+dataset1<- subset(dataset, Player=="Aleksandar Pavlovic")
+
+
+
+# Selecting only the columns needed for the radar plot
+
+radar_data <- dataset1[ , c("Total_Pass_Percentage", "Take_Ons_Tackled_Percentage", 
+                       "Take_On_Win_Percentage", "Medium_Pass_Percentage", 
+                       "Long_Pass_Percentage", "Short_Pass_Percentage")]
+
+
+data<- data.frame(Total_Pass_Percentage=c(100,0,radar_data$Total_Pass_Percentage),
+                  Take_Ons_Tackled_Percentage=c(100,0,radar_data$Take_Ons_Tackled_Percentage),
+                  Take_On_Win_Percentage=c(100,0,radar_data$Take_On_Win_Percentage),
+                  Medium_Pass_Percentage=c(100,0,radar_data$Medium_Pass_Percentage),
+                  Long_Pass_Percentage=c(100,0,radar_data$Long_Pass_Percentage),
+                  Short_Pass_Percentage=c(100,0,radar_data$Short_Pass_Percentage),
+                  row.names=c("max", "min", "Player")
+                  )
+
+
+
+
+
+# Plot radar chart
+radarchart(data, axistype = 1,
+           # Customize the plot appearance
+           pcol = rgb(0.2, 0.5, 0.8, 0.9),  # Point color
+           pfcol = rgb(0.2, 0.5, 0.8, 0.5),  # Fill color
+           plwd = 2,  # Line width (single value)
+           cglcol = "grey30",  # Color of the grid lines
+           cglty = 1,  # Type of grid lines
+           axislabcol = "grey10",  # Axis label color
+           cglwd = 0.5,  # Width of grid lines
+           vlcex = 0.5,  # Axis label font size
+           calcex = 0.5,
+           palcex = 0.5,
+)
+
+
+# Add title for the plot
+title(main = "Aleksandar Pavlovic")
+
+
+```
+
+We can also compare the performance of any three players from matches across the past five seasons and from any club
+
+```{r echo=FALSE}
+library(dplyr)
+library(fmsb)
+
+# Attack comparision for 3 players: 
+type = 'Attack'
+# 1. Jude Bellingham for season 2021 Bundesliga: 
+league1 = 'Bundesliga'
+season1 = 2021 
+player1 = "Jude Bellingham"
+# 2. Harry Kane for 2024 Bundesliga 
+league2 = 'Bundesliga'
+season2 = 2024
+player2 = "Harry Kane"
+# 3. Amad Diallo 2024 Premier League 
+league3 = 'Premier_League'
+season3 = 2024 
+player3 = 'Amad Diallo'
+
+# inititate data frame : 
+Data = data.frame()
+
+# Add player 1 data : 
+dat = read.csv( paste0("../Data/", league1, "/", league1
+                       , "_", substring( season1 , first =3 )
+                       , "/Player/", type , ".csv" ) ) 
+dat = dat %>% filter( Player == player1 ) %>% 
+  select( Player , Goals.Assists , 
+          Shots_on_Target_Percentage ,
+          Goals_per_Shot ,
+          Shot_Creating_Actions ,
+          Live_Pass_Goal_Creation  ) %>% 
+  mutate( Season = season1 )
+Data = rbind( Data , dat )
+# Add player2 Data: 
+dat = read.csv( paste0("../Data/", league2, "/", league2
+                       , "_", substring( season2 , first =3 )
+                       , "/Player/", type , ".csv" ) ) 
+dat = dat %>% filter( Player == player2 ) %>% 
+  select( Player , Goals.Assists , 
+          Shots_on_Target_Percentage ,
+          Goals_per_Shot ,
+          Shot_Creating_Actions ,
+          Live_Pass_Goal_Creation ) %>% 
+  mutate( Season = season2 )
+Data = rbind( Data , dat )
+# Add player3 Data: 
+dat = read.csv( paste0("../Data/", league3, "/", league3
+                       , "_", substring( season3 , first =3 )
+                       , "/Player/", type , ".csv" ) ) 
+dat = dat %>% filter( Player == player3 ) %>% 
+  select( Player , Goals.Assists , 
+          Shots_on_Target_Percentage ,
+          Goals_per_Shot ,
+          Shot_Creating_Actions ,
+          Live_Pass_Goal_Creation ) %>% 
+  mutate( Season = season3 )
+Data = rbind( Data , dat )
+
+radar_data = Data %>% select( -Player , -Season )
+
+radar_data <- rbind(rep(max(radar_data), ncol(radar_data)), rep(0, ncol(radar_data)), radar_data)
+
+# Colors for radar chart
+colors_border <- c("#40c9a252", "#a056b256", "#ffd16677")
+colors_in <- c(rgb(0.25, 0.78, 0.64, 0.45), rgb(0.63, 0.34, 0.7, 0.45), rgb(1, 0.87, 0.34, 0.5))
+
+
+
+# Plot radar chart
+radarchart(
+  radar_data, axistype = 1, cex = 0.8,
+  pcol = colors_border, pfcol = colors_in, plwd = 4, plty = 1,
+  cglcol = "grey30", cglty = 1, axislabcol = "grey15",
+  cglwd = 0.6,
+  calcex = 0.5,
+  palcex = 0.5,
+  vlcex = 0.5
+)
+
+# Add legend
+legend_labels <- paste(Data$Player, Data$Season, sep = " - ")
+legend( x = "right" , legend = legend_labels, bty = "n", pch = 20, 
+       col = colors_in, text.col = "grey10", pt.cex = 1, cex = 0.5)
+
+
+```
+
+We also have plotted the market value of each Football player across the past five seasons, which helps us predict the future market value of the player by the next or following seasons. It also helps us in better understanding how players have performed and how their market value has affected in the past seasons
+
+```{r echo=FALSE}
+load("../Data/dat.Rdata")
+
+
+marketval<- dat
+
+marketval[6:38] <- lapply(marketval[6:38], function(x) x / max(x, na.rm = TRUE))
+
+marketval<- subset(marketval, Player=="Jude Bellingham")
+
+value<-56.67083 +  # Intercept
+  marketval$Total_Pass_Percentage * 12.39480 +
+  marketval$Passes_Into_Penalty_Area * 10.36908 +
+  marketval$Take_Ons_Wins * -9.18903 +
+  marketval$Shots_on_Target_Percentage * 10.09618 +
+  marketval$Shot_Creating_Actions * 36.49170 +
+  marketval$Tackles_Win_Percentage * 1.71398 +
+  marketval$Total_Blocks * 28.13582 +
+  marketval$Fouls * -0.05927 +
+  marketval$Age * -74.08313 +
+  marketval$Progression_Carries * -33.24323 +
+  marketval$Touches * 23.45878 +
+  marketval$Goals.Assists * 63.62505 +
+  marketval$Goals_per_Shot * -28.57321 +
+  marketval$Goal_Creating_Actions * -27.10123 +
+  marketval$Challenges * -54.04256 +
+  marketval$Total_Passes_Completed * -44.67468 +
+  marketval$Key_Passes * -25.51366 +
+  marketval$Take_Ons_Attempted * 15.29182 +
+  marketval$Shots * -7.91063 +
+  marketval$Goals_per_Shot_on_Target * 21.08068 +
+  marketval$Tackles * 56.78303 +
+  marketval$Challenges_Percentage * 3.48653 +
+  marketval$Interceptions * -0.89116 +
+  marketval$Clearances * 22.13257
+
+filtered_data<- mutate(marketval, value)
+
+
+ggplot(filtered_data, aes(x = season, y = value)) +
+  geom_line(color = "#E74C3C", size = 1) +
+  geom_point(color = "#3498DB", size = 3) +
+  labs(title = "Market Value Trend", x = "Season", y = "Market Value") +
+  theme_minimal()
+
+
+```
+
+# Final Conclusions
+
+## Summary of Insights
+
+Our analysis of the 2020 to 2024 seasons across the five major European football leagues—**English Premier League**, **Serie A**, **Bundesliga**, **LaLiga**, and **French Ligue 1**—has provided valuable insights into team performance, player dynamics, and market value trends. Through various visualizations and statistical comparisons, we gained a clearer understanding of:
+
+-   **Player Performance**: Identifying standout players in each position, as well as those with consistent improvement over multiple seasons.
+-   **Team Comparisons**: Highlighting teams with strong offensive and defensive records and analyzing their consistency across seasons.
+-   **Market Value Trends**: Observing the factors influencing player market values, including position, nationality, and league, and predicting future trends.
+
+## Future Directions
+
+This project opens up several avenues for further analysis and potential improvements, including:
+
+-   **Longitudinal Analysis**: Expanding the dataset to include more seasons could help capture long-term trends and reduce recency bias.
+-   **Advanced Predictive Models**: Refining prediction models for player market value using machine learning techniques could enhance accuracy and reveal new influencing factors.
+
+## Conclusion
+
+Overall, this project highlights the power of data-driven analysis in sports, providing both fans and analysts with a deeper understanding of European football leagues. Our findings can aid teams, scouts, and investors in making informed decisions and may also serve as a foundation for further research into the evolving world of football.
+
+As football continues to grow and evolve, data analysis will play an increasingly critical role in understanding player and team performance, enhancing the fan experience, and driving strategic decisions across the industry.
+
+# References
+
+1.  [FBref](https://fbref.com/en/) - this source contains all the data of past seasons of the five major European leagues of Football
+2.  [transfermarkt](https://www.transfermarkt.com/) - this source contains data required to predict the market value of the players
+3.  For Shiny App, we used information available on these sites : <https://shiny.posit.co/py/components/>, <https://shiny.posit.co/py/templates/> and <https://shiny.posit.co/py/layouts/>
