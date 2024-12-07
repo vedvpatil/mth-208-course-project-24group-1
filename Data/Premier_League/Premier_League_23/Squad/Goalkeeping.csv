@@ -1,0 +1,21 @@
+"Squad","Goalkeepers_Used","Goals_Conceded","Saves","Saves_Percentage","Clean_Sheets","Clean_Sheets_Percentage","Penalty_Kicks_Saves","Penalty_Kicks_Save_Percentage"
+"Arsenal",1,43,94,70.6,14,36.8,0,0
+"Aston Villa",2,46,108,72.8,12,31.6,1,16.7
+"Bournemouth",2,71,136,68.1,8,21.1,0,0
+"Brentford",1,46,154,77.7,12,31.6,0,0
+"Brighton",2,53,82,64.1,12,31.6,2,25
+"Chelsea",2,47,115,71.1,10,26.3,0,0
+"Crystal Palace",3,49,114,71.9,9,23.7,0,0
+"Everton",2,57,127,71.9,9,23.7,1,16.7
+"Fulham",2,53,144,76.5,9,23.7,1,12.5
+"Leeds United",2,78,108,60.5,5,13.2,0,0
+"Leicester City",2,68,113,64,7,18.4,1,20
+"Liverpool",2,47,111,71.3,14,36.8,1,33.3
+"Manchester City",2,33,60,67.4,13,34.2,0,0
+"Manchester Utd",1,43,99,71.1,17,44.7,1,33.3
+"Newcastle Utd",2,33,94,75.6,14,36.8,2,50
+"Nott'ham Forest",3,68,112,65.9,8,21.1,2,25
+"Southampton",2,73,81,52.7,4,10.5,1,33.3
+"Tottenham",2,63,109,65.1,10,26.3,1,25
+"West Ham",2,55,115,70,9,23.7,1,20
+"Wolves",2,58,115,67.8,11,28.9,2,50

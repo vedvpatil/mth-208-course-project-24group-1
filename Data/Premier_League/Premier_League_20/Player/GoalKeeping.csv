@@ -1,0 +1,27 @@
+"Player","Squad","Nation","Pos","Pos2","Age","Wins","Draws","Losses","Goals_Conceded","Saves","Saves_Percentage","Clean_Sheets","Clean_Sheets_Percentage","Penalty_Kicks_Saves","Penalty_Kicks_Save_Percentage"
+"Alisson","Liverpool","BRA","GK",NA,26,23,3,3,23,58,72.5,13,44.8,0,0
+"Kepa Arrizabalaga","Chelsea","ESP","GK",NA,24,18,4,11,47,54,54.5,8,24.2,0,0
+"Martin Dúbravka","Newcastle Utd","SVK","GK",NA,30,11,11,16,58,139,71.3,11,28.9,0,0
+"Ederson","Manchester City","BRA","GK",NA,25,24,3,8,28,68,73.7,16,45.7,0,0
+"Łukasz Fabiański","West Ham","POL","GK",NA,34,8,7,10,34,71,70.2,5,20,1,25
+"Ben Foster","Watford","ENG","GK",NA,36,8,10,20,64,116,68.5,9,23.7,1,11.1
+"Paulo Gazzaniga","Tottenham","ARG","GK",NA,27,5,5,7,26,56,72,2,11.8,1,25
+"David de Gea","Manchester Utd","ESP","GK",NA,28,18,12,8,36,96,74.8,13,34.2,0,0
+"Angus Gunn","Southampton","SCO","GK",NA,23,2,2,6,25,30,58.2,2,20,0,0
+"Tom Heaton","Aston Villa","ENG","GK",NA,33,6,3,11,35,68,68.6,4,20,0,0
+"Dean Henderson","Sheffield Utd","ENG","GK",NA,22,14,11,11,33,94,75,13,36.1,1,50
+"Tim Krul","Norwich City","NED","GK",NA,31,5,6,25,68,128,66.7,5,13.9,2,40
+"Bernd Leno","Arsenal","GER","GK",NA,27,9,13,8,39,111,78.1,7,23.3,1,14.3
+"Hugo Lloris","Tottenham","FRA","GK",NA,32,11,6,4,21,78,80.8,6,28.6,1,33.3
+"Emiliano Martínez","Arsenal","ARG","GK",NA,26,5,1,2,9,33,81,3,37.5,0,0
+"Alex McCarthy","Southampton","ENG","GK",NA,29,13,5,10,35,78,69.9,7,25,1,50
+"Michael McGovern","Norwich City","NIR","GK",NA,35,0,0,1,6,6,53.8,0,0,1,100
+"Rui Patrício","Wolves","POR","GK",NA,31,15,14,9,40,88,69.8,13,34.2,2,66.7
+"Jordan Pickford","Everton","ENG","GK",NA,25,13,10,15,56,94,63.9,9,23.7,0,0
+"Nick Pope","Burnley","ENG","GK",NA,27,15,9,14,50,117,72.5,15,39.5,1,20
+"Aaron Ramsdale","Bournemouth","ENG","GK",NA,21,9,7,21,62,124,69.5,5,13.5,1,16.7
+"Darren Randolph","West Ham","IRL","GK",NA,32,0,1,1,5,6,63.6,0,0,0,0
+"Pepe Reina","Aston Villa","ESP","GK",NA,36,3,3,6,20,32,66,2,16.7,1,33.3
+"Roberto","West Ham","ESP","GK",NA,33,0,1,6,17,35,68.6,0,0,0,0
+"Mathew Ryan","Brighton","AUS","GK",NA,27,9,14,15,54,116,69,9,23.7,0,0
+"Kasper Schmeichel","Leicester City","DEN","GK",NA,32,18,8,12,41,94,75.6,13,34.2,2,20

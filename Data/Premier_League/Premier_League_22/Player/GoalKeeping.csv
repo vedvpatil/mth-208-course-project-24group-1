@@ -1,0 +1,27 @@
+"Player","Squad","Nation","Pos","Pos2","Age","Wins","Draws","Losses","Goals_Conceded","Saves","Saves_Percentage","Clean_Sheets","Clean_Sheets_Percentage","Penalty_Kicks_Saves","Penalty_Kicks_Save_Percentage"
+"Daniel Bachmann","Watford","AUT","GK",NA,27,1,0,11,28,46,65.3,0,0,0,0
+"Asmir Begović","Everton","BIH","GK",NA,34,1,0,2,8,11,61.1,1,33.3,0,0
+"Jack Butland","Crystal Palace","ENG","GK",NA,28,2,4,2,13,16,53.6,1,12.5,1,100
+"Karl Darlow","Newcastle Utd","WAL","GK",NA,30,0,5,3,15,23,64.9,0,0,0,0
+"Martin Dúbravka","Newcastle Utd","SVK","GK",NA,32,13,4,9,35,72,67.9,8,30.8,0,0
+"Ederson","Manchester City","BRA","GK",NA,27,28,6,3,26,57,69.9,20,54.1,0,0
+"Łukasz Fabiański","West Ham","POL","GK",NA,36,16,8,13,50,111,70.4,8,21.6,3,60
+"Álvaro Fernández","Brentford","ESP","GK",NA,23,3,2,7,24,47,66.7,1,8.3,0,0
+"Fraser Forster","Southampton","ENG","GK",NA,33,6,5,8,35,68,67.3,3,15.8,0,0
+"Ben Foster","Watford","ENG","GK",NA,38,5,5,16,49,67,60.3,4,15.4,1,25
+"David de Gea","Manchester Utd","ESP","GK",NA,30,16,10,12,57,124,70,8,21.1,2,40
+"Vicente Guaita","Crystal Palace","ESP","GK",NA,34,9,11,10,33,83,74.1,11,36.7,0,0
+"Angus Gunn","Norwich City","SCO","GK",NA,25,1,2,6,22,34,64.9,1,11.1,1,33.3
+"Tim Krul","Norwich City","NED","GK",NA,33,4,5,20,62,105,66.7,5,17.2,0,0
+"Hugo Lloris","Tottenham","FRA","GK",NA,34,22,5,11,40,98,72.3,16,42.1,0,0
+"Emiliano Martínez","Aston Villa","ARG","GK",NA,28,13,6,17,48,93,68.6,11,30.6,1,20
+"Edouard Mendy","Chelsea","SEN","GK",NA,29,19,10,5,31,72,75.5,14,41.2,0,0
+"Illan Meslier","Leeds United","FRA","GK",NA,21,9,11,18,79,142,66.4,5,13.2,0,0
+"Jordan Pickford","Everton","ENG","GK",NA,27,10,6,19,58,116,66.5,7,20,0,0
+"Nick Pope","Burnley","ENG","GK",NA,29,7,14,15,47,119,74.5,9,25,0,0
+"Aaron Ramsdale","Arsenal","ENG","GK",NA,23,21,3,10,39,90,73.4,12,35.3,0,0
+"David Raya","Brentford","ESP","GK",NA,25,10,5,9,27,76,77.7,8,33.3,0,0
+"José Sá","Wolves","POR","GK",NA,28,15,5,17,40,121,80.6,11,29.7,0,0
+"Robert Sánchez","Brighton","ESP","GK",NA,23,12,15,10,42,99,72.3,11,29.7,0,0
+"Kasper Schmeichel","Leicester City","DEN","GK",NA,34,13,10,14,58,128,72.7,7,18.9,2,22.2
+"Freddie Woodman","Newcastle Utd","ENG","GK",NA,24,0,1,3,12,9,54.5,0,0,1,33.3

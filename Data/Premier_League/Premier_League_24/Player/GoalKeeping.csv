@@ -1,0 +1,30 @@
+"Player","Squad","Nation","Pos","Pos2","Age","Wins","Draws","Losses","Goals_Conceded","Saves","Saves_Percentage","Clean_Sheets","Clean_Sheets_Percentage","Penalty_Kicks_Saves","Penalty_Kicks_Save_Percentage"
+"Alisson","Liverpool","BRA","GK",NA,30,16,8,4,30,80,73.4,8,28.6,0,0
+"Alphonse Areola","West Ham","FRA","GK",NA,30,11,9,11,53,136,74.5,4,12.9,2,28.6
+"Martin Dúbravka","Newcastle Utd","SVK","GK",NA,34,9,4,9,42,87,70.8,5,22.7,1,20
+"Ederson","Manchester City","BRA","GK",NA,29,24,6,3,27,56,70.7,10,30.3,0,0
+"Łukasz Fabiański","West Ham","POL","GK",NA,38,3,1,3,21,33,66,1,14.3,0,0
+"Mark Flekken","Brentford","NED","GK",NA,30,10,9,18,63,113,65.3,7,18.9,0,0
+"Wes Foderingham","Sheffield Utd","ENG","GK",NA,32,3,4,22,79,130,63.7,1,3.4,0,0
+"Dean Henderson","Crystal Palace","ENG","GK",NA,26,8,4,6,30,57,66.3,4,22.2,0,0
+"Sam Johnstone","Crystal Palace","ENG","GK",NA,30,5,6,9,27,41,62.7,6,30,0,0
+"Thomas Kaminski","Luton Town","BEL","GK",NA,30,6,8,24,85,140,63.3,2,5.3,0,0
+"Bernd Leno","Fulham","GER","GK",NA,31,13,8,17,61,133,72.1,10,26.3,0,0
+"Emiliano Martínez","Aston Villa","ARG","GK",NA,30,19,8,7,48,95,66.2,8,23.5,0,0
+"Arijanet Muric","Burnley","KVX","GK",NA,24,2,4,4,16,62,80.8,0,0,1,50
+"Neto","Bournemouth","BRA","GK",NA,34,10,9,13,55,110,69.7,7,21.9,1,16.7
+"Robin Olsen","Aston Villa","SWE","GK",NA,33,1,0,3,13,20,61.8,0,0,1,100
+"André Onana","Manchester Utd","CMR","GK",NA,27,18,6,14,58,146,74.9,9,23.7,0,0
+"Đorđe Petrović","Chelsea","SRB","GK",NA,23,13,5,4,38,73,65.7,5,22.7,0,0
+"Jordan Pickford","Everton","ENG","GK",NA,29,13,9,16,51,117,73.9,13,34.2,0,0
+"David Raya","Arsenal","ESP","GK",NA,27,23,4,5,24,45,68.1,16,50,1,33.3
+"José Sá","Wolves","POR","GK",NA,30,12,7,16,58,131,73.4,4,11.4,0,0
+"Robert Sánchez","Chelsea","ESP","GK",NA,25,5,4,7,25,52,70.5,3,18.8,1,33.3
+"Matz Sels","Nott'ham Forest","BEL","GK",NA,31,4,4,8,27,36,57.4,1,6.3,0,0
+"Jason Steele","Brighton","ENG","GK",NA,32,5,4,8,34,42,58.1,2,11.8,0,0
+"James Trafford","Burnley","ENG","GK",NA,20,3,5,20,62,106,65.7,2,7.1,0,0
+"Mark Travers","Bournemouth","IRL","GK",NA,24,2,0,2,5,13,77.8,2,50,0,0
+"Matt Turner","Nott'ham Forest","USA","GK",NA,29,4,5,8,28,52,67.5,2,11.8,0,0
+"Bart Verbruggen","Brighton","NED","GK",NA,20,7,8,6,28,63,72.5,4,19,0,0
+"Guglielmo Vicario","Tottenham","ITA","GK",NA,26,20,6,12,61,109,67.7,7,18.4,0,0
+"Odisseas Vlachodimos","Nott'ham Forest","GRE","GK",NA,29,1,0,4,12,10,50,1,20,0,0

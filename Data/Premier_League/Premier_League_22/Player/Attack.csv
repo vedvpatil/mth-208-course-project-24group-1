@@ -1,0 +1,589 @@
+"Player","Squad","Nation","Pos","Pos2","Age","Assists","Goals+Assists","Penalty_Attempted","Penalty_Scored","Shots","Shots_on_Target","Shots_on_Target_Percentage","Goals_per_Shot","Goals_per_Shot_on_Target","Average_Shot_Distance","Free_Kick_Shots","Shot_Creating_Actions","Live_Pass_Shot_Creation","Other_Type_Shot_Creation","Goal_Creating_Actions","Live_Pass_Goal_Creation","Other_Type_Goal_Creation"
+"Aaron Connolly","Brighton","IRL","FW","MF",21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,2,0,0,0,0
+"Aaron Cresswell","West Ham","ENG","DF",NA,31,3,5,0,0,18,3,16.7,0.11,0.67,20.5,8,53,31,22,6,2,4
+"Aaron Lennon","Burnley","ENG","MF","FW",34,0,2,0,0,12,4,33.3,0.17,0.5,20.1,0,33,21,12,4,1,3
+"Aaron Ramsdale","Arsenal","ENG","GK",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,0,2,0,0,0
+"Aaron Wan-Bissaka","Manchester Utd","ENG","DF",NA,23,0,0,0,0,5,1,20,0,0,14.1,0,35,29,6,1,1,0
+"Abdoulaye Doucouré","Everton","MLI","MF",NA,28,4,6,0,0,34,11,32.4,0.06,0.18,17.9,0,57,50,7,7,5,2
+"Adam Armstrong","Southampton","ENG","FW",NA,24,2,4,0,0,47,14,29.8,0.04,0.14,17.2,0,36,22,14,3,2,1
+"Adam Forshaw","Leeds United","ENG","MF",NA,29,1,1,0,0,14,4,28.6,0,0,25,1,35,31,4,2,2,0
+"Adam Idah","Norwich City","IRL","FW","MF",20,1,2,0,0,14,4,28.6,0.07,0.25,13.9,0,17,10,7,1,1,0
+"Adam Lallana","Brighton","ENG","MF",NA,33,1,1,0,0,19,4,21.1,0,0,19.8,0,28,24,4,4,4,0
+"Adam Masina","Watford","MAR","DF",NA,27,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,13,9,4,1,1,0
+"Adam Webster","Brighton","ENG","DF",NA,26,0,2,0,0,8,2,25,0.25,1,11.2,0,18,17,1,3,2,1
+"Adama Traoré","Wolves","ESP","FW","MF",25,0,1,0,0,23,5,21.7,0.04,0.2,19.7,0,60,32,28,2,1,1
+"Ademola Lookman","Leicester City","NGA","FW","MF",23,0,6,0,0,26,12,46.2,0.23,0.5,15,0,46,35,11,3,2,1
+"Ainsley Maitland-Niles","Arsenal","ENG","MF",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,7,5,2,0,0,0
+"Albert Sambi Lokonga","Arsenal","BEL","MF",NA,21,0,0,0,0,20,8,40,0,0,26.8,0,39,36,3,0,0,0
+"Alejandro Garnacho","Manchester Utd","ARG","FW","MF",17,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Alex Iwobi","Everton","NGA","MF","DF",25,2,4,0,0,24,6,25,0.08,0.33,16.4,0,66,59,7,7,6,1
+"Alex Král","West Ham","CZE","MF",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Alex McCarthy","Southampton","ENG","GK",NA,31,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,1,1,0,0,0
+"Alex Oxlade-Chamberlain","Liverpool","ENG","MF","FW",27,1,3,0,0,21,3,14.3,0.1,0.67,21.5,0,25,22,3,1,1,0
+"Alex Telles","Manchester Utd","BRA","DF",NA,28,4,4,0,0,10,3,30,0,0,23.1,4,51,27,24,5,0,5
+"Alexandre Lacazette","Arsenal","FRA","FW",NA,30,7,11,3,2,43,12,27.9,0.05,0.17,15.4,1,71,49,22,9,6,3
+"Alexis Mac Allister","Brighton","ARG","MF","FW",22,2,7,3,2,57,9,15.8,0.05,0.33,22,4,83,57,26,5,2,3
+"Alisson","Liverpool","BRA","GK",NA,28,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,2,2,0,1,1,0
+"Allan","Everton","BRA","MF",NA,30,2,2,0,0,7,3,42.9,0,0,24.5,0,38,35,3,7,5,2
+"Allan Saint-Maximin","Newcastle Utd","FRA","FW","MF",24,5,10,0,0,64,26,40.6,0.08,0.19,19.7,0,130,84,46,11,8,3
+"Alphonse Areola","West Ham","FRA","GK",NA,28,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Álvaro Fernández","Brentford","ESP","GK",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"André Gomes","Everton","POR","MF",NA,28,1,1,0,0,14,4,28.6,0,0,23.5,0,21,14,7,3,2,1
+"Andreas Christensen","Chelsea","DEN","DF",NA,25,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,9,8,1,0,0,0
+"Andrew Omobamidele","Norwich City","IRL","DF",NA,19,0,1,0,0,2,1,50,0.5,1,8.3,0,3,3,0,0,0,0
+"Andrew Robertson","Liverpool","SCO","DF",NA,27,10,13,0,0,18,8,44.4,0.17,0.38,16.9,0,112,81,31,17,14,3
+"Andriy Yarmolenko","West Ham","UKR","FW","MF",31,0,1,0,0,11,5,45.5,0.09,0.2,15.2,0,9,6,3,0,0,0
+"Andros Townsend","Everton","ENG","MF","FW",30,2,5,1,1,20,9,45,0.1,0.22,22.1,4,55,39,16,4,4,0
+"Angelo Ogbonna","West Ham","ITA","DF",NA,33,0,1,0,0,3,1,33.3,0.33,1,12.6,0,3,2,1,1,1,0
+"Angus Gunn","Norwich City","SCO","GK",NA,25,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Anthony Elanga","Manchester Utd","SWE","FW",NA,19,2,4,0,0,21,7,33.3,0.1,0.29,15.7,0,21,12,9,5,2,3
+"Anthony Gordon","Everton","ENG","MF","FW",20,2,6,0,0,44,18,40.9,0.09,0.22,18.8,5,77,38,39,5,1,4
+"Anthony Martial","Manchester Utd","FRA","FW",NA,25,0,1,0,0,5,2,40,0.2,0.5,13,0,5,4,1,1,1,0
+"Antonio Rüdiger","Chelsea","GER","DF",NA,28,0,3,0,0,48,13,27.1,0.06,0.23,19.9,0,45,38,7,9,6,3
+"Anwar El Ghazi","Everton","NED","FW","MF",26,0,0,0,0,7,2,28.6,0,0,22.3,0,11,8,3,2,2,0
+"Anwar El Ghazi","Everton","NED","FW","MF",26,0,0,0,0,7,2,28.6,0,0,22.3,0,0,0,0,0,0,0
+"Anwar El Ghazi","Aston Villa","NED","FW","MF",26,1,2,1,1,7,2,28.6,0,0,22.3,0,11,8,3,2,2,0
+"Anwar El Ghazi","Aston Villa","NED","FW","MF",26,1,2,1,1,7,2,28.6,0,0,22.3,0,0,0,0,0,0,0
+"Armando Broja","Southampton","ALB","FW",NA,19,0,6,0,0,45,19,42.2,0.13,0.32,13,0,38,19,19,4,0,4
+"Arthur Masuaku","West Ham","COD","DF","FW",27,1,2,0,0,4,1,25,0.25,1,26.5,0,7,6,1,2,1,1
+"Ashley Barnes","Burnley","ENG","FW",NA,31,0,1,1,1,15,5,33.3,0,0,17.3,0,18,12,6,1,1,0
+"Ashley Fletcher","Watford","ENG","FW",NA,25,0,0,0,0,2,1,50,0,0,17.6,0,2,1,1,0,0,0
+"Ashley Westwood","Burnley","ENG","MF",NA,31,3,3,0,0,14,1,7.1,0,0,21,0,64,41,23,8,6,2
+"Ashley Young","Aston Villa","ENG","DF","FW",36,2,2,0,0,10,3,30,0,0,21.2,1,31,20,11,4,2,2
+"Asmir Begović","Everton","BIH","GK",NA,34,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Axel Tuanzebe","Aston Villa","COD","DF",NA,23,0,0,0,0,2,1,50,0,0,10.1,0,2,2,0,0,0,0
+"Aymeric Laporte","Manchester City","ESP","DF",NA,27,0,4,0,0,35,7,20,0.11,0.57,11.6,0,40,34,6,6,3,3
+"Ayoze Pérez","Leicester City","ESP","MF","FW",28,3,5,0,0,11,6,54.5,0.18,0.33,15.3,0,20,16,4,2,2,0
+"Bali Mumba","Norwich City","ENG","DF",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Ben Chilwell","Chelsea","ENG","DF",NA,24,1,4,0,0,13,6,46.2,0.23,0.5,17.7,0,18,10,8,1,0,1
+"Ben Davies","Tottenham","WAL","DF",NA,28,1,2,0,0,18,7,38.9,0.06,0.14,17.1,0,30,28,2,3,2,1
+"Ben Foster","Watford","ENG","GK",NA,38,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,8,8,0,1,1,0
+"Ben Gibson","Norwich City","ENG","DF",NA,28,0,0,0,0,8,4,50,0,0,10.6,0,14,13,1,1,1,0
+"Ben Godfrey","Everton","ENG","DF",NA,23,0,0,0,0,18,6,33.3,0,0,17.2,0,32,25,7,2,1,1
+"Ben Johnson","West Ham","ENG","DF",NA,21,0,1,0,0,5,1,20,0.2,1,21.7,0,24,19,5,3,2,1
+"Ben Mee","Burnley","ENG","DF",NA,31,0,3,0,0,19,4,21.1,0.16,0.75,8.7,0,13,8,5,0,0,0
+"Ben White","Arsenal","ENG","DF",NA,23,0,0,0,0,12,3,25,0,0,15.2,0,33,25,8,4,2,2
+"Benjamin Mendy","Manchester City","FRA","DF",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,5,5,0,0,0,0
+"Bernardo Silva","Manchester City","POR","MF","FW",26,4,12,0,0,47,19,40.4,0.17,0.42,12.6,0,137,110,27,17,13,4
+"Bernd Leno","Arsenal","GER","GK",NA,29,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Bertrand Traoré","Aston Villa","BFA","MF","FW",25,0,0,0,0,8,1,12.5,0,0,18.5,0,11,6,5,2,0,2
+"Billy Gilmour","Norwich City","SCO","MF",NA,20,1,1,0,0,18,3,16.7,0,0,23.3,2,55,30,25,2,1,1
+"Boubakary Soumaré","Leicester City","FRA","MF",NA,22,1,1,0,0,6,2,33.3,0,0,18.6,0,18,14,4,2,2,0
+"Brandon Williams","Norwich City","ENG","DF",NA,20,1,1,0,0,4,1,25,0,0,21.2,0,44,35,9,2,1,1
+"Bruno Fernandes","Manchester Utd","POR","MF",NA,26,6,16,2,0,87,29,33.3,0.11,0.34,21.9,6,155,115,40,11,8,3
+"Bruno Guimarães","Newcastle Utd","BRA","MF",NA,23,1,6,0,0,23,12,52.2,0.22,0.42,18,0,31,22,9,4,1,3
+"Bryan Gil","Tottenham","ESP","FW","MF",20,0,0,0,0,1,1,100,0,0,15.6,0,5,4,1,1,1,0
+"Bryan Mbeumo","Brentford","CMR","FW",NA,21,7,11,1,1,76,19,25,0.04,0.16,16.3,4,86,53,33,12,10,2
+"Bukayo Saka","Arsenal","ENG","FW","MF",19,7,18,2,2,95,29,30.5,0.09,0.31,17.1,0,158,108,50,18,9,9
+"Çağlar Söyüncü","Leicester City","TUR","DF",NA,25,0,1,0,0,8,1,12.5,0.13,1,12,0,14,13,1,0,0,0
+"Callum Hudson-Odoi","Chelsea","ENG","MF","FW",20,2,3,0,0,18,7,38.9,0.06,0.14,13.3,0,55,41,14,6,2,4
+"Callum Wilson","Newcastle Utd","ENG","FW",NA,29,0,8,2,2,33,12,36.4,0.18,0.5,14.2,0,25,17,8,0,0,0
+"Calum Chambers","Aston Villa","ENG","DF",NA,26,0,1,0,0,3,1,33.3,0.33,1,14.6,0,1,1,0,0,0,0
+"Calum Chambers","Aston Villa","ENG","DF",NA,26,0,1,0,0,3,1,33.3,0.33,1,14.6,0,11,10,1,1,1,0
+"Calum Chambers","Arsenal","ENG","DF",NA,26,0,0,0,0,3,1,33.3,0.33,1,14.6,0,1,1,0,0,0,0
+"Calum Chambers","Arsenal","ENG","DF",NA,26,0,0,0,0,3,1,33.3,0.33,1,14.6,0,11,10,1,1,1,0
+"Cameron Archer","Aston Villa","ENG","FW","MF",20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Caoimhín Kelleher","Liverpool","IRL","GK",NA,22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Carney Chukwuemeka","Aston Villa","ENG","MF","FW",17,1,1,0,0,4,1,25,0,0,17.1,0,5,5,0,2,2,0
+"Cédric Soares","Arsenal","POR","DF",NA,29,1,2,0,0,12,1,8.3,0.08,1,22.1,2,37,27,10,3,2,1
+"Cenk Tosun","Everton","TUR","MF",NA,30,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"César Azpilicueta","Chelsea","ESP","DF",NA,31,2,3,0,0,11,4,36.4,0.09,0.25,14.7,0,48,43,5,8,6,2
+"Charlie Cresswell","Leeds United","ENG","DF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,2,0,0,0,0
+"Charlie Goode","Brentford","ENG","DF",NA,25,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,12,2,10,0,0,0
+"Charlie Taylor","Burnley","ENG","DF",NA,27,3,3,0,0,NA,NA,NA,NA,NA,NA,NA,52,39,13,8,5,3
+"Che Adams","Southampton","SCO","FW",NA,25,3,10,0,0,49,24,49,0.14,0.29,13.3,0,51,32,19,5,3,2
+"Cheikhou Kouyaté","Crystal Palace","SEN","MF",NA,31,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,15,13,2,1,1,0
+"Chem Campbell","Wolves","WAL","MF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Chiquinho","Wolves","POR","DF","FW",21,3,3,0,0,5,2,40,0,0,9,0,10,6,4,3,3,0
+"Chris Wood","Burnley","NZL","FW",NA,29,0,3,0,0,30,11,36.7,0.1,0.27,12.7,0,25,18,7,2,1,1
+"Chris Wood","Burnley","NZL","FW",NA,29,0,3,0,0,30,11,36.7,0.1,0.27,12.7,0,21,17,4,2,2,0
+"Chris Wood","Burnley","NZL","FW",NA,29,0,3,0,0,20,6,30,0.05,0.17,12,0,25,18,7,2,1,1
+"Chris Wood","Burnley","NZL","FW",NA,29,0,3,0,0,20,6,30,0.05,0.17,12,0,21,17,4,2,2,0
+"Chris Wood","Newcastle Utd","NZL","FW",NA,29,0,2,1,1,30,11,36.7,0.1,0.27,12.7,0,25,18,7,2,1,1
+"Chris Wood","Newcastle Utd","NZL","FW",NA,29,0,2,1,1,30,11,36.7,0.1,0.27,12.7,0,21,17,4,2,2,0
+"Chris Wood","Newcastle Utd","NZL","FW",NA,29,0,2,1,1,20,6,30,0.05,0.17,12,0,25,18,7,2,1,1
+"Chris Wood","Newcastle Utd","NZL","FW",NA,29,0,2,1,1,20,6,30,0.05,0.17,12,0,21,17,4,2,2,0
+"Christian Benteke","Crystal Palace","BEL","FW",NA,30,1,5,0,0,39,13,33.3,0.1,0.31,12.5,0,23,19,4,2,1,1
+"Christian Eriksen","Brentford","DEN","MF",NA,29,4,5,0,0,22,8,36.4,0.05,0.13,24.6,5,57,26,31,7,2,5
+"Christian Kabasele","Watford","BEL","DF",NA,30,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,3,1,0,0,0
+"Christian Nørgaard","Brentford","DEN","MF",NA,27,4,7,0,0,27,8,29.6,0.11,0.38,14.1,0,58,50,8,6,6,0
+"Christian Pulisic","Chelsea","USA","MF","FW",22,2,8,0,0,28,11,39.3,0.21,0.55,13.2,0,36,24,12,5,4,1
+"Christoph Zimmermann","Norwich City","GER","DF",NA,28,0,0,0,0,2,1,50,0,0,21.6,0,1,0,1,0,0,0
+"Christos Tzolis","Norwich City","GRE","FW","MF",19,0,0,0,0,6,2,33.3,0,0,18.5,0,12,12,0,0,0,0
+"Ciaran Clark","Newcastle Utd","IRL","DF",NA,31,1,1,0,0,7,1,14.3,0,0,7.8,0,8,7,1,1,1,0
+"CJ Egan-Riley","Manchester City","ENG","DF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Cody Drameh","Leeds United","ENG","DF","MF",19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,2,0,0,0,0
+"Cole Palmer","Manchester City","ENG","FW","MF",19,0,0,0,0,4,1,25,0,0,21.6,0,7,4,3,1,0,1
+"Connor Roberts","Burnley","WAL","DF",NA,25,1,2,0,0,6,4,66.7,0.17,0.25,21.7,0,29,24,5,1,1,0
+"Conor Coady","Wolves","ENG","DF",NA,28,0,4,0,0,12,4,33.3,0.33,1,12.5,0,8,8,0,0,0,0
+"Conor Gallagher","Crystal Palace","ENG","MF",NA,21,3,11,0,0,52,22,42.3,0.15,0.36,17.5,4,91,48,43,10,7,3
+"Craig Cathcart","Watford","NIR","DF",NA,32,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,6,6,0,0,0,0
+"Craig Dawson","West Ham","ENG","DF",NA,31,2,4,0,0,25,5,20,0.08,0.4,8.5,0,18,12,6,5,3,2
+"Cristian Romero","Tottenham","ARG","DF",NA,23,0,1,0,0,6,2,33.3,0.17,0.5,13.9,0,19,16,3,2,1,1
+"Cristiano Ronaldo","Manchester Utd","POR","FW",NA,36,3,21,3,3,107,39,36.4,0.14,0.38,15.5,8,82,62,20,9,4,5
+"Crysencio Summerville","Leeds United","NED","MF","FW",19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,3,0,0,0,0
+"Cucho","Watford","COL","FW","MF",22,2,7,0,0,34,10,29.4,0.15,0.5,19,5,44,26,18,5,3,2
+"Curtis Jones","Liverpool","ENG","MF",NA,20,1,2,0,0,20,7,35,0.05,0.14,23.2,0,28,17,11,3,2,1
+"Dale Stephens","Burnley","ENG","MF",NA,32,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Dan Burn","Newcastle Utd","ENG","DF",NA,29,1,1,0,0,11,1,9.1,0,0,10.3,0,7,6,1,0,0,0
+"Dan Burn","Newcastle Utd","ENG","DF",NA,29,1,1,0,0,11,1,9.1,0,0,10.3,0,6,6,0,1,1,0
+"Dan Burn","Newcastle Utd","ENG","DF",NA,29,1,1,0,0,7,3,42.9,0.14,0.33,8.4,0,7,6,1,0,0,0
+"Dan Burn","Newcastle Utd","ENG","DF",NA,29,1,1,0,0,7,3,42.9,0.14,0.33,8.4,0,6,6,0,1,1,0
+"Dan Burn","Brighton","ENG","DF",NA,29,0,1,0,0,11,1,9.1,0,0,10.3,0,7,6,1,0,0,0
+"Dan Burn","Brighton","ENG","DF",NA,29,0,1,0,0,11,1,9.1,0,0,10.3,0,6,6,0,1,1,0
+"Dan Burn","Brighton","ENG","DF",NA,29,0,1,0,0,7,3,42.9,0.14,0.33,8.4,0,7,6,1,0,0,0
+"Dan Burn","Brighton","ENG","DF",NA,29,0,1,0,0,7,3,42.9,0.14,0.33,8.4,0,6,6,0,1,1,0
+"Dan Gosling","Watford","ENG","MF",NA,31,0,1,0,0,2,1,50,0.5,1,16.6,0,2,1,1,0,0,0
+"Dane Scarlett","Tottenham","ENG","MF",NA,17,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Daniel Amartey","Leicester City","GHA","DF",NA,26,0,0,0,0,2,1,50,0,0,34.1,0,18,18,0,1,1,0
+"Daniel Bachmann","Watford","AUT","GK",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Daniel Chesters","West Ham","ENG","MF",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Daniel James","Leeds United","WAL","FW","MF",23,4,8,0,0,4,1,25,0,0,15.7,0,54,35,19,5,2,3
+"Daniel James","Leeds United","WAL","FW","MF",23,4,8,0,0,4,1,25,0,0,15.7,0,3,2,1,0,0,0
+"Daniel James","Leeds United","WAL","FW","MF",23,4,8,0,0,50,15,30,0.08,0.27,15.3,0,54,35,19,5,2,3
+"Daniel James","Leeds United","WAL","FW","MF",23,4,8,0,0,50,15,30,0.08,0.27,15.3,0,3,2,1,0,0,0
+"Daniel James","Manchester Utd","WAL","FW",NA,23,0,0,0,0,4,1,25,0,0,15.7,0,54,35,19,5,2,3
+"Daniel James","Manchester Utd","WAL","FW",NA,23,0,0,0,0,4,1,25,0,0,15.7,0,3,2,1,0,0,0
+"Daniel James","Manchester Utd","WAL","FW",NA,23,0,0,0,0,50,15,30,0.08,0.27,15.3,0,54,35,19,5,2,3
+"Daniel James","Manchester Utd","WAL","FW",NA,23,0,0,0,0,50,15,30,0.08,0.27,15.3,0,3,2,1,0,0,0
+"Daniel Podence","Wolves","POR","FW","MF",25,3,5,0,0,35,15,42.9,0.06,0.13,22,1,66,50,16,5,3,2
+"Danny Ings","Aston Villa","ENG","FW",NA,29,6,13,1,1,48,17,35.4,0.13,0.35,13.6,0,32,25,7,9,9,0
+"Danny Rose","Watford","ENG","DF",NA,31,0,0,0,0,4,1,25,0,0,20.6,0,15,11,4,1,0,1
+"Danny Ward","Leicester City","WAL","GK",NA,28,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Danny Welbeck","Brighton","ENG","FW","MF",30,2,8,0,0,43,21,48.8,0.14,0.29,12.8,0,38,28,10,3,1,2
+"David de Gea","Manchester Utd","ESP","GK",NA,30,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,3,0,0,0,0
+"David Raya","Brentford","ESP","GK",NA,25,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,7,6,1,1,1,0
+"Davinson Sánchez","Tottenham","COL","DF",NA,25,0,2,0,0,13,3,23.1,0.15,0.67,9.6,0,20,19,1,1,1,0
+"Declan Rice","West Ham","ENG","MF",NA,22,4,5,0,0,26,8,30.8,0.04,0.13,22.8,1,78,67,11,9,9,0
+"Dejan Kulusevski","Tottenham","SWE","MF","FW",21,8,13,0,0,26,9,34.6,0.19,0.56,16.9,0,51,39,12,13,11,2
+"Dele Alli","Tottenham","ENG","MF",NA,25,0,1,1,1,3,2,66.7,0,0,21.4,0,13,12,1,1,1,0
+"Dele Alli","Tottenham","ENG","MF",NA,25,0,1,1,1,3,2,66.7,0,0,21.4,0,7,4,3,1,0,1
+"Dele Alli","Everton","ENG","MF","FW",25,0,0,0,0,3,2,66.7,0,0,21.4,0,13,12,1,1,1,0
+"Dele Alli","Everton","ENG","MF","FW",25,0,0,0,0,3,2,66.7,0,0,21.4,0,7,4,3,1,0,1
+"Demarai Gray","Everton","JAM","MF","FW",25,4,9,0,0,65,17,26.2,0.08,0.29,20.5,4,88,50,38,5,3,2
+"Diego Llorente","Leeds United","ESP","DF",NA,27,0,3,0,0,10,3,30,0.3,1,10.6,0,9,7,2,0,0,0
+"Dimitris Giannoulis","Norwich City","GRE","DF",NA,25,1,1,0,0,2,1,50,0,0,16.2,0,22,18,4,2,2,0
+"Diogo Dalot","Manchester Utd","POR","DF",NA,22,0,0,0,0,13,4,30.8,0,0,21,0,42,37,5,5,5,0
+"Diogo Jota","Liverpool","POR","FW",NA,24,4,19,0,0,90,32,35.6,0.17,0.47,12.3,0,98,63,35,13,7,6
+"Divock Origi","Liverpool","BEL","FW",NA,26,0,3,0,0,10,5,50,0.3,0.6,14.9,0,3,1,2,2,1,1
+"Dominic Calvert-Lewin","Everton","ENG","FW",NA,24,2,7,3,2,30,11,36.7,0.1,0.27,13.8,0,30,22,8,4,3,1
+"Dominic Thompson","Brentford","ENG","DF",NA,21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,0
+"Donny van de Beek","Manchester Utd","NED","MF",NA,24,0,1,0,0,2,1,50,0.5,1,9,0,6,5,1,1,1,0
+"Donny van de Beek","Manchester Utd","NED","MF",NA,24,0,1,0,0,2,1,50,0.5,1,9,0,8,7,1,0,0,0
+"Donny van de Beek","Manchester Utd","NED","MF",NA,24,0,1,0,0,5,1,20,0.2,1,20.5,0,6,5,1,1,1,0
+"Donny van de Beek","Manchester Utd","NED","MF",NA,24,0,1,0,0,5,1,20,0.2,1,20.5,0,8,7,1,0,0,0
+"Donny van de Beek","Everton","NED","MF",NA,24,0,1,0,0,2,1,50,0.5,1,9,0,6,5,1,1,1,0
+"Donny van de Beek","Everton","NED","MF",NA,24,0,1,0,0,2,1,50,0.5,1,9,0,8,7,1,0,0,0
+"Donny van de Beek","Everton","NED","MF",NA,24,0,1,0,0,5,1,20,0.2,1,20.5,0,6,5,1,1,1,0
+"Donny van de Beek","Everton","NED","MF",NA,24,0,1,0,0,5,1,20,0.2,1,20.5,0,8,7,1,0,0,0
+"Douglas Luiz","Aston Villa","BRA","MF",NA,23,3,5,0,0,23,8,34.8,0.09,0.25,25.3,8,89,60,29,9,6,3
+"Dwight Gayle","Newcastle Utd","ENG","FW","DF",30,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,3,0,0,0,0
+"Dwight McNeil","Burnley","ENG","MF",NA,21,1,1,0,0,52,15,28.8,0,0,22.8,4,112,62,50,6,4,2
+"Eberechi Eze","Crystal Palace","ENG","MF","FW",23,1,2,0,0,10,1,10,0.1,1,20.8,1,24,12,12,2,1,1
+"Eddie Nketiah","Arsenal","ENG","FW",NA,22,1,6,0,0,29,13,44.8,0.17,0.38,14.6,0,26,17,9,2,1,1
+"Ederson","Manchester City","BRA","GK",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,2,0,1,1,0
+"Edinson Cavani","Manchester Utd","URU","FW",NA,34,1,3,0,0,18,6,33.3,0.11,0.33,12.6,0,11,8,3,2,1,1
+"Edo Kayembe","Watford","COD","MF",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,16,13,3,0,0,0
+"Edouard Mendy","Chelsea","SEN","GK",NA,29,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Ellis Simms","Everton","ENG","FW",NA,20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Emerson","Tottenham","BRA","DF","MF",22,1,2,0,0,15,4,26.7,0.07,0.25,14.6,0,50,42,8,4,4,0
+"Emerson Palmieri","Chelsea","ITA","DF",NA,26,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Emi Buendía","Aston Villa","ARG","MF","FW",24,6,10,0,0,44,13,29.5,0.09,0.31,17.9,0,83,65,18,10,7,3
+"Emil Krafth","Newcastle Utd","SWE","DF",NA,26,1,1,0,0,6,1,16.7,0,0,20.4,0,19,11,8,2,2,0
+"Emile Smith Rowe","Arsenal","ENG","MF","FW",21,2,12,0,0,40,23,57.5,0.25,0.43,15.8,0,67,52,15,6,5,1
+"Emiliano Martínez","Aston Villa","ARG","GK",NA,28,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,5,3,2,1,1,0
+"Emmanuel Dennis","Watford","NGA","FW","MF",23,6,16,0,0,60,26,43.3,0.17,0.38,15.5,7,85,52,33,12,7,5
+"Enock Mwepu","Brighton","ZAM","MF",NA,23,4,6,0,0,19,8,42.1,0.11,0.25,20,0,26,18,8,7,6,1
+"Eric Bailly","Manchester Utd","CIV","DF",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Eric Dier","Tottenham","ENG","DF",NA,27,0,0,0,0,13,4,30.8,0,0,14.4,4,30,25,5,5,3,2
+"Erik Pieters","Burnley","NED","DF",NA,32,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,12,8,4,1,1,0
+"Ethan Pinnock","Brentford","JAM","DF",NA,28,1,2,0,0,16,8,50,0.06,0.13,10,0,31,22,9,4,2,2
+"Evan Ferguson","Brighton","IRL","MF",NA,16,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Ezri Konsa","Aston Villa","ENG","DF",NA,23,0,2,0,0,15,6,40,0.13,0.33,8.1,0,13,11,2,0,0,0
+"Fabian Delph","Everton","ENG","MF",NA,31,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,6,5,1,0,0,0
+"Fabian Schär","Newcastle Utd","SUI","DF",NA,29,2,4,0,0,21,8,38.1,0.1,0.25,19.5,4,31,18,13,4,3,1
+"Fabinho","Liverpool","BRA","MF",NA,27,1,6,2,2,19,7,36.8,0.16,0.43,19.9,2,53,42,11,5,3,2
+"Fábio Silva","Wolves","POR","FW",NA,19,0,0,0,0,19,5,26.3,0,0,13.7,0,16,9,7,2,1,1
+"Federico Fernández","Newcastle Utd","ARG","DF",NA,32,0,0,0,0,6,1,16.7,0,0,10.2,0,4,1,3,1,0,1
+"Fernandinho","Manchester City","BRA","MF","DF",36,1,3,0,0,18,3,16.7,0.11,0.67,16.7,0,30,23,7,4,4,0
+"Fernando Marçal","Wolves","BRA","MF","DF",32,0,0,0,0,11,1,9.1,0,0,23.3,0,22,19,3,2,0,2
+"Ferrán Torres","Manchester City","ESP","FW",NA,21,1,3,0,0,13,4,30.8,0.15,0.5,14.2,0,5,4,1,2,2,0
+"Finley Stevens","Brentford","WAL","DF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Folarin Balogun","Arsenal","USA","FW",NA,20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Francisco Sierralta","Watford","CHI","DF",NA,24,0,0,0,0,1,1,100,0,0,10,0,2,2,0,0,0,0
+"Francisco Trincão","Wolves","POR","FW","MF",21,1,3,0,0,32,13,40.6,0.06,0.15,18.6,1,44,28,16,2,2,0
+"Frank Onyeka","Brentford","NGA","MF",NA,23,0,0,0,0,16,5,31.3,0,0,18,0,17,11,6,1,0,1
+"Fraser Forster","Southampton","ENG","GK",NA,33,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,1,2,0,0,0
+"Fred","Manchester Utd","BRA","MF",NA,28,4,8,0,0,15,9,60,0.27,0.44,21.3,0,56,52,4,9,8,1
+"Freddie Woodman","Newcastle Utd","ENG","GK",NA,24,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Gabriel Jesus","Manchester City","BRA","FW",NA,24,8,16,1,1,63,20,31.7,0.11,0.35,13.8,0,85,56,29,18,11,7
+"Gabriel Magalhães","Arsenal","BRA","DF",NA,23,0,5,0,0,29,12,41.4,0.17,0.42,11.2,0,22,19,3,1,1,0
+"Gabriel Martinelli","Arsenal","BRA","FW","MF",20,6,12,1,1,51,15,29.4,0.1,0.33,14.7,0,72,48,24,13,6,7
+"Giovani Lo Celso","Tottenham","ARG","MF","FW",25,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,10,5,5,0,0,0
+"Granit Xhaka","Arsenal","SUI","MF","DF",28,2,3,0,0,27,5,18.5,0.04,0.2,23.4,1,87,80,7,5,5,0
+"Grant Hanley","Norwich City","SCO","DF",NA,29,0,1,0,0,20,4,20,0.05,0.25,9.2,0,14,9,5,0,0,0
+"Hakim Ziyech","Chelsea","MAR","MF","FW",28,3,7,0,0,52,19,36.5,0.08,0.21,21.2,3,67,48,19,6,6,0
+"Hamza Choudhury","Leicester City","ENG","DF","MF",23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,1,2,0,0,0
+"Hannibal Mejbri","Manchester Utd","TUN","FW",NA,18,0,0,0,0,1,1,100,0,0,22.9,0,0,0,0,0,0,0
+"Harrison Ashby","West Ham","SCO","DF",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Harry Kane","Tottenham","ENG","FW",NA,28,9,26,4,4,129,49,38,0.1,0.27,17.3,8,128,94,34,21,17,4
+"Harry Maguire","Manchester Utd","ENG","DF",NA,28,0,1,0,0,23,10,43.5,0.04,0.1,12.8,0,24,14,10,0,0,0
+"Harry Winks","Tottenham","ENG","MF",NA,25,1,1,0,0,3,1,33.3,0,0,26.6,0,29,22,7,4,4,0
+"Harvey Barnes","Leicester City","ENG","FW","MF",23,10,16,0,0,66,24,36.4,0.09,0.25,16.1,0,63,48,15,13,11,2
+"Harvey Elliott","Liverpool","ENG","MF",NA,18,0,0,0,0,10,1,10,0,0,18.5,0,25,18,7,2,2,0
+"Hassane Kamara","Watford","CIV","DF",NA,27,0,1,0,0,5,1,20,0.2,1,25.7,0,18,16,2,0,0,0
+"Hélder Costa","Leeds United","ANG","MF",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,0
+"Hugo Lloris","Tottenham","FRA","GK",NA,34,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,6,6,0,3,3,0
+"Hwang Hee-chan","Wolves","KOR","FW","MF",25,1,6,0,0,27,12,44.4,0.19,0.42,15.4,0,37,26,11,2,1,1
+"Ibrahima Diallo","Southampton","FRA","MF",NA,22,2,2,0,0,8,4,50,0,0,21.3,0,30,24,6,3,3,0
+"Ibrahima Konaté","Liverpool","FRA","DF",NA,22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,6,5,1,3,3,0
+"İlkay Gündoğan","Manchester City","GER","MF",NA,30,4,12,0,0,55,18,32.7,0.15,0.44,14.5,2,84,60,24,9,7,2
+"Illan Meslier","Leeds United","FRA","GK",NA,21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,2,1,0,0,0
+"Imran Louza","Watford","MAR","MF",NA,22,0,0,0,0,17,4,23.5,0,0,27.5,6,34,16,18,2,2,0
+"Isaac Hayden","Newcastle Utd","ENG","MF","DF",26,0,1,0,0,5,1,20,0.2,1,14.1,0,6,6,0,1,1,0
+"Isaac Price","Everton","NIR","MF",NA,17,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Ismaila Sarr","Watford","SEN","FW","MF",23,2,7,1,0,39,15,38.5,0.13,0.33,18.3,0,52,38,14,4,3,1
+"Issa Diop","West Ham","FRA","DF",NA,24,1,1,0,0,2,2,100,0,0,9.9,0,2,2,0,1,1,0
+"Ivan Toney","Brentford","ENG","FW",NA,25,5,17,5,5,83,24,28.9,0.08,0.29,15.8,0,94,57,37,10,5,5
+"Jack Butland","Crystal Palace","ENG","GK",NA,28,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Jack Cork","Burnley","ENG","MF",NA,32,0,1,0,0,7,1,14.3,0.14,1,18,0,11,10,1,0,0,0
+"Jack Grealish","Manchester City","ENG","FW",NA,25,3,6,0,0,45,16,35.6,0.07,0.19,14.6,0,119,98,21,6,6,0
+"Jack Harrison","Leeds United","ENG","FW","MF",24,1,9,0,0,43,17,39.5,0.19,0.47,17.2,0,86,55,31,4,1,3
+"Jack Stephens","Southampton","ENG","DF",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,6,6,0,0,0,0
+"Jacob Murphy","Newcastle Utd","ENG","FW","DF",26,2,3,0,0,27,5,18.5,0.04,0.2,19.3,1,46,34,12,6,3,3
+"Jacob Ramsey","Aston Villa","ENG","MF",NA,20,1,7,0,0,34,11,32.4,0.18,0.55,18.3,0,75,55,20,6,5,1
+"Jaden Philogene Bidace","Aston Villa","ENG","FW",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,0
+"Jadon Sancho","Manchester Utd","ENG","FW","MF",21,3,6,0,0,26,9,34.6,0.12,0.33,14.1,0,88,73,15,9,7,2
+"Jaïro Riedewald","Crystal Palace","NED","MF",NA,24,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,2,2,0,0,0
+"Jakob Sørensen","Norwich City","DEN","MF","DF",23,0,0,0,0,5,1,20,0,0,16.5,0,5,3,2,0,0,0
+"Jakub Moder","Brighton","POL","MF",NA,22,3,3,0,0,28,6,21.4,0,0,16.6,2,41,27,14,4,3,1
+"Jamaal Lascelles","Newcastle Utd","ENG","DF",NA,27,0,1,0,0,17,4,23.5,0.06,0.25,10.2,0,10,9,1,1,1,0
+"Jamal Lewis","Newcastle Utd","NIR","DF",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,2,0,1,1,0
+"James Justin","Leicester City","ENG","DF",NA,23,0,0,0,0,5,1,20,0,0,11.1,0,17,16,1,2,2,0
+"James Maddison","Leicester City","ENG","MF","FW",24,8,20,0,0,72,33,45.8,0.17,0.36,20.7,13,106,65,41,18,13,5
+"James McArthur","Crystal Palace","SCO","MF",NA,33,3,3,0,0,9,3,33.3,0,0,20.9,0,35,30,5,4,4,0
+"James Mcatee","Manchester City","ENG","MF","FW",18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"James Milner","Liverpool","ENG","MF","DF",35,1,1,0,0,10,2,20,0,0,23.8,0,40,29,11,2,1,1
+"James Tarkowski","Burnley","ENG","DF",NA,28,2,3,0,0,22,6,27.3,0.05,0.17,11.3,0,28,24,4,2,2,0
+"James Tomkins","Crystal Palace","ENG","DF",NA,32,0,1,0,0,4,2,50,0.25,0.5,13.7,0,3,3,0,0,0,0
+"James Ward-Prowse","Southampton","ENG","MF",NA,26,5,15,4,4,51,20,39.2,0.12,0.3,27.9,23,132,71,61,7,3,4
+"Jamie Shackleton","Leeds United","ENG","DF","MF",21,0,0,0,0,4,1,25,0,0,18.3,0,10,8,2,1,0,1
+"Jamie Vardy","Leicester City","ENG","FW",NA,34,2,17,0,0,54,25,46.3,0.28,0.6,12.4,0,39,29,10,6,2,4
+"Jan Bednarek","Southampton","POL","DF",NA,25,0,4,0,0,19,7,36.8,0.21,0.57,8.9,0,22,16,6,1,1,0
+"Jannik Vestergaard","Leicester City","DEN","DF",NA,28,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,3,0,0,0,0
+"Japhet Tanganga","Tottenham","ENG","DF",NA,22,0,0,0,0,7,2,28.6,0,0,13.3,0,3,2,1,0,0,0
+"Jarrad Branthwaite","Everton","ENG","DF",NA,19,0,1,0,0,3,2,66.7,0.33,0.5,14,0,0,0,0,0,0,0
+"Jarrod Bowen","West Ham","ENG","FW",NA,24,10,22,0,0,79,34,43,0.15,0.35,15.7,0,98,56,42,19,9,10
+"Jason Steele","Brighton","ENG","GK",NA,30,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Javier Manquillo","Newcastle Utd","ESP","DF",NA,27,2,3,0,0,4,2,50,0.25,0.5,15.2,0,13,11,2,4,3,1
+"Jay Rodriguez","Burnley","ENG","FW",NA,32,2,4,0,0,41,11,26.8,0.05,0.18,15.1,0,29,18,11,4,2,2
+"Jean-Philippe Gbamin","Everton","CIV","MF",NA,25,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Jean-Philippe Mateta","Crystal Palace","FRA","FW",NA,24,1,6,0,0,37,18,48.6,0.14,0.28,11.2,0,20,14,6,2,1,1
+"Jed Steer","Aston Villa","ENG","GK",NA,28,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Jeff Hendrick","Newcastle Utd","IRL","MF",NA,29,0,1,0,0,1,1,100,1,1,28.1,0,1,1,0,0,0,0
+"Jeffrey Schlupp","Crystal Palace","GHA","MF","FW",28,1,5,0,0,33,9,27.3,0.12,0.44,14.3,0,46,33,13,7,3,4
+"Jeremy Ngakia","Watford","ENG","DF",NA,20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,16,8,8,2,1,1
+"Jeremy Sarmiento","Brighton","ECU","FW","MF",19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Jesse Lingard","Manchester Utd","ENG","FW","MF",28,0,2,0,0,8,6,75,0.25,0.33,18.6,0,16,13,3,1,0,1
+"Jesurun Rak Sakyi","Crystal Palace","ENG","FW","MF",18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Joachim Andersen","Crystal Palace","DEN","DF",NA,25,3,3,0,0,8,3,37.5,0,0,15.3,1,33,30,3,4,3,1
+"João Cancelo","Manchester City","POR","DF",NA,27,7,8,0,0,81,23,28.4,0.01,0.04,22,1,126,98,28,18,13,5
+"João Moutinho","Wolves","POR","MF",NA,34,1,3,0,0,20,7,35,0.1,0.29,24.3,4,82,53,29,4,3,1
+"João Pedro","Watford","BRA","FW","MF",19,1,4,0,0,47,16,34,0.06,0.19,16.3,1,60,38,22,4,3,1
+"Joe Gelhardt","Leeds United","ENG","FW","MF",19,2,4,0,0,23,9,39.1,0.09,0.22,15.4,0,26,16,10,6,2,4
+"Joe Gomez","Liverpool","ENG","DF",NA,24,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,7,6,1,2,2,0
+"Joe Rodon","Tottenham","WAL","DF",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Joe Willock","Newcastle Utd","ENG","MF",NA,21,0,2,0,0,35,11,31.4,0.06,0.18,17.2,0,51,33,18,4,1,3
+"Joël Matip","Liverpool","CMR","DF",NA,29,3,6,0,0,35,7,20,0.09,0.43,9.9,0,42,33,9,9,7,2
+"Joël Veltman","Brighton","NED","DF",NA,29,1,2,0,0,12,2,16.7,0.08,0.5,18.1,0,44,33,11,2,2,0
+"Joel Ward","Crystal Palace","ENG","DF",NA,31,0,0,0,0,10,1,10,0,0,20.4,0,18,16,2,2,2,0
+"Joelinton","Newcastle Utd","BRA","MF","FW",24,1,5,0,0,45,14,31.1,0.09,0.29,17.6,0,67,49,18,5,4,1
+"Jóhann Berg Guðmundsson","Burnley","ISL","MF",NA,30,1,1,0,0,19,5,26.3,0,0,19.9,2,23,16,7,2,2,0
+"John McGinn","Aston Villa","SCO","MF",NA,26,4,7,0,0,43,16,37.2,0.07,0.19,25.1,0,103,72,31,6,4,2
+"John Ruddy","Wolves","ENG","GK",NA,34,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"John Stones","Manchester City","ENG","DF",NA,27,0,1,0,0,9,5,55.6,0.11,0.2,13.2,0,13,12,1,1,0,1
+"Jon Rowe","Norwich City","ENG","FW","MF",18,1,1,0,0,3,2,66.7,0,0,16.1,0,8,4,4,0,0,0
+"Jonas Lössl","Brentford","DEN","GK",NA,32,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Jonjo Shelvey","Newcastle Utd","ENG","MF",NA,29,1,3,0,0,30,14,46.7,0.07,0.14,27.8,6,43,33,10,1,1,0
+"Jonjoe Kenny","Everton","ENG","DF",NA,24,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,21,16,5,2,2,0
+"Jonny Castro","Wolves","ESP","DF",NA,27,0,2,0,0,10,5,50,0.2,0.4,18.9,0,27,22,5,0,0,0
+"Jonny Evans","Leicester City","NIR","DF",NA,33,1,2,0,0,3,2,66.7,0.33,0.5,5.6,0,10,8,2,2,1,1
+"Jordan Ayew","Crystal Palace","GHA","FW",NA,29,3,6,0,0,35,8,22.9,0.09,0.38,16.8,1,61,41,20,6,5,1
+"Jordan Henderson","Liverpool","ENG","MF",NA,31,5,7,0,0,31,6,19.4,0.06,0.33,24.5,1,96,86,10,14,14,0
+"Jordan Pickford","Everton","ENG","GK",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,13,9,4,2,2,0
+"Jorginho","Chelsea","ITA","MF",NA,29,2,8,7,6,9,2,22.2,0,0,32.6,0,70,61,9,8,8,0
+"José Sá","Wolves","POR","GK",NA,28,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,4,3,1,1,0,1
+"Josh Brownhill","Burnley","ENG","MF",NA,25,3,5,0,0,29,9,31,0.07,0.22,23.8,4,75,50,25,3,1,2
+"Josh Dasilva","Brentford","ENG","MF","FW",22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,8,6,2,0,0,0
+"Josh Sargent","Norwich City","USA","FW","MF",21,1,3,0,0,24,2,8.3,0.08,1,17.1,0,25,17,8,3,2,1
+"Joshua King","Watford","NOR","FW",NA,29,3,8,1,1,49,16,32.7,0.08,0.25,15.2,0,63,51,12,9,6,3
+"Juan Mata","Manchester Utd","ESP","MF",NA,33,0,0,0,0,5,1,20,0,0,16.2,0,9,9,0,0,0,0
+"Junior Firpo","Leeds United","DOM","DF","MF",24,2,2,0,0,11,1,9.1,0,0,14.6,0,52,40,12,4,2,2
+"Juraj Kucka","Watford","SVK","MF",NA,34,1,2,0,0,46,11,23.9,0.02,0.09,20.8,3,42,27,15,2,1,1
+"Jürgen Locadia","Brighton","CUW","MF","FW",27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Kai Havertz","Chelsea","GER","FW","MF",22,3,11,0,0,56,23,41.1,0.14,0.35,13,0,61,46,15,6,4,2
+"Kaide Gordon","Liverpool","ENG","FW",NA,16,0,0,0,0,1,1,100,0,0,19.7,0,0,0,0,0,0,0
+"Kalvin Phillips","Leeds United","ENG","MF",NA,25,1,1,0,0,15,3,20,0,0,24,1,30,23,7,4,3,1
+"Karl Darlow","Newcastle Utd","WAL","GK",NA,30,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Kasey McAteer","Leicester City","IRL","FW",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Kasper Schmeichel","Leicester City","DEN","GK",NA,34,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,7,7,0,3,3,0
+"Kayky Chagas","Manchester City","BRA","FW",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Keinan Davis","Aston Villa","ENG","FW",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,0
+"Kelechi Iheanacho","Leicester City","NGA","FW",NA,24,5,9,0,0,31,12,38.7,0.13,0.33,18,0,38,30,8,8,5,3
+"Ken Sema","Watford","SWE","MF","FW",27,0,0,0,0,3,1,33.3,0,0,20.5,1,22,7,15,1,0,1
+"Kenedy","Chelsea","BRA","DF",NA,25,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,2,1,1,0,0,0
+"Kenny McLean","Norwich City","SCO","MF",NA,29,0,1,0,0,33,6,18.2,0.03,0.17,20.4,0,41,34,7,2,2,0
+"Kepa Arrizabalaga","Chelsea","ESP","GK",NA,26,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Kevin De Bruyne","Manchester City","BEL","MF",NA,30,8,23,0,0,78,31,39.7,0.19,0.48,19.2,7,152,105,47,14,10,4
+"Kevin Long","Burnley","IRL","DF",NA,30,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Ki-Jana Hoever","Wolves","NED","DF","MF",19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,3,0,0,0,0
+"Kieran Dowell","Norwich City","ENG","FW","MF",23,1,2,0,0,8,2,25,0.13,0.5,20.8,3,26,19,7,1,1,0
+"Kieran Tierney","Arsenal","SCO","DF",NA,24,3,4,0,0,15,5,33.3,0.07,0.2,20.8,0,44,36,8,2,2,0
+"Kieran Trippier","Newcastle Utd","ENG","DF",NA,30,0,2,0,0,2,2,100,1,1,24.5,2,11,2,9,1,1,0
+"Kiernan Dewsbury-Hall","Leicester City","ENG","MF",NA,22,2,3,0,0,21,3,14.3,0.05,0.33,21.6,1,77,58,19,6,5,1
+"Kiko Femenía","Watford","ESP","DF",NA,30,5,5,0,0,3,1,33.3,0,0,20.7,0,45,33,12,6,5,1
+"Kortney Hause","Aston Villa","ENG","DF",NA,26,0,1,0,0,2,2,100,0.5,0.5,10.5,0,2,2,0,0,0,0
+"Kostas Tsimikas","Liverpool","GRE","DF",NA,25,2,2,0,0,8,2,25,0,0,16.9,0,42,26,16,3,2,1
+"Kristoffer Ajer","Brentford","NOR","DF",NA,23,3,4,0,0,7,1,14.3,0.14,1,8.8,0,33,22,11,7,3,4
+"Kristoffer Klaesson","Leeds United","NOR","GK",NA,20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Kurt Zouma","West Ham","FRA","DF",NA,26,0,1,0,0,6,2,33.3,0.17,0.5,6.1,0,9,6,3,0,0,0
+"Kyle Walker","Manchester City","ENG","DF",NA,31,2,2,0,0,8,2,25,0,0,23.7,1,45,40,5,4,3,1
+"Kyle Walker-Peters","Southampton","ENG","DF",NA,24,2,3,0,0,26,7,26.9,0.04,0.14,18.6,0,70,49,21,9,5,4
+"Leander Dendoncker","Wolves","BEL","MF",NA,26,2,4,0,0,23,10,43.5,0.09,0.2,16.1,0,27,25,2,7,5,2
+"Leandro Trossard","Brighton","BEL","FW","MF",26,3,11,1,1,73,26,35.6,0.1,0.27,18.7,5,113,82,31,13,8,5
+"Leo Fuhr Hjelde","Leeds United","NOR","MF","DF",17,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,3,0,0,0,0
+"Leon Bailey","Aston Villa","JAM","FW","MF",23,2,3,0,0,21,8,38.1,0.05,0.13,19.4,4,20,15,5,1,1,0
+"Lewis Bate","Leeds United","ENG","MF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,2,1,0,0,0
+"Lewis Brunt","Leicester City","ENG","MF",NA,20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Lewis Dobbin","Everton","ENG","FW","MF",18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Lewis Dunk","Brighton","ENG","DF",NA,29,0,1,0,0,19,7,36.8,0.05,0.14,10.8,0,20,16,4,3,2,1
+"Liam Cooper","Leeds United","SCO","DF",NA,29,1,1,0,0,6,1,16.7,0,0,10.8,0,13,11,2,2,1,1
+"Liam Delap","Manchester City","ENG","FW",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,0
+"Liam McCarron","Leeds United","SCO","FW",NA,20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Lucas Digne","Aston Villa","FRA","DF",NA,28,4,4,0,0,9,2,22.2,0,0,18,1,53,37,16,8,5,3
+"Lucas Digne","Aston Villa","FRA","DF",NA,28,4,4,0,0,9,2,22.2,0,0,18,1,35,23,12,0,0,0
+"Lucas Digne","Aston Villa","FRA","DF",NA,28,4,4,0,0,9,1,11.1,0,0,22.9,3,53,37,16,8,5,3
+"Lucas Digne","Aston Villa","FRA","DF",NA,28,4,4,0,0,9,1,11.1,0,0,22.9,3,35,23,12,0,0,0
+"Lucas Digne","Everton","FRA","DF",NA,28,0,0,0,0,9,2,22.2,0,0,18,1,53,37,16,8,5,3
+"Lucas Digne","Everton","FRA","DF",NA,28,0,0,0,0,9,2,22.2,0,0,18,1,35,23,12,0,0,0
+"Lucas Digne","Everton","FRA","DF",NA,28,0,0,0,0,9,1,11.1,0,0,22.9,3,53,37,16,8,5,3
+"Lucas Digne","Everton","FRA","DF",NA,28,0,0,0,0,9,1,11.1,0,0,22.9,3,35,23,12,0,0,0
+"Lucas Moura","Tottenham","BRA","FW","MF",28,6,8,0,0,37,11,29.7,0.05,0.18,16.7,0,67,52,15,12,10,2
+"Luis Díaz","Liverpool","COL","FW",NA,24,3,7,0,0,38,13,34.2,0.11,0.31,16.7,0,60,41,19,4,3,1
+"Luka Milivojević","Crystal Palace","SRB","MF",NA,30,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,20,8,12,0,0,0
+"Lukas Rupp","Norwich City","GER","MF",NA,30,0,0,0,0,12,2,16.7,0,0,21.2,0,25,20,5,1,1,0
+"Łukasz Fabiański","West Ham","POL","GK",NA,36,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,1,2,0,0,0
+"Luke Ayling","Leeds United","ENG","DF",NA,29,2,4,0,0,19,3,15.8,0.11,0.67,13,0,33,24,9,5,1,4
+"Luke Cundle","Wolves","ENG","MF",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,3,0,0,0,0
+"Luke Shaw","Manchester Utd","ENG","DF",NA,26,3,3,0,0,6,1,16.7,0,0,24.7,0,69,45,24,6,5,1
+"Luke Thomas","Leicester City","ENG","DF",NA,20,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,28,17,11,1,1,0
+"Lyanco","Southampton","BRA","DF",NA,24,0,0,0,0,6,1,16.7,0,0,16.9,0,10,6,4,1,1,0
+"Mads Bech Sørensen","Brentford","DEN","DF",NA,22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,11,4,7,0,0,0
+"Mads Bidstrup","Brentford","DEN","MF",NA,20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Mads Roerslev","Brentford","DEN","DF",NA,22,1,2,0,0,5,2,40,0.2,0.5,17.4,0,15,11,4,3,2,1
+"Malang Sarr","Chelsea","FRA","DF",NA,22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,6,6,0,0,0,0
+"Manuel Lanzini","West Ham","ARG","MF","FW",28,3,8,3,3,13,4,30.8,0.15,0.5,23.1,1,60,51,9,9,7,2
+"Marc Albrighton","Leicester City","ENG","FW","DF",31,2,3,0,0,4,1,25,0.25,1,16.3,0,19,12,7,2,2,0
+"Marc Cucurella","Brighton","ESP","DF",NA,23,1,2,0,0,18,3,16.7,0.06,0.33,20.9,0,101,88,13,3,2,1
+"Marc Guéhi","Crystal Palace","ENG","DF",NA,21,1,3,0,0,19,5,26.3,0.11,0.4,11.1,0,25,20,5,3,1,2
+"Marcos Alonso","Chelsea","ESP","DF",NA,30,4,8,0,0,43,10,23.3,0.09,0.4,18.7,9,93,66,27,10,7,3
+"Marcus Forss","Brentford","FIN","FW","MF",22,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1
+"Marcus Rashford","Manchester Utd","ENG","FW","MF",23,2,6,0,0,22,12,54.5,0.18,0.33,17.7,1,27,16,11,3,3,0
+"Mark Noble","West Ham","ENG","MF",NA,34,0,1,2,1,NA,NA,NA,NA,NA,NA,NA,6,6,0,0,0,0
+"Martin Dúbravka","Newcastle Utd","SVK","GK",NA,32,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,1,2,0,0,0
+"Martin Ødegaard","Arsenal","NOR","MF","FW",22,4,11,0,0,53,21,39.6,0.13,0.33,21,12,159,129,30,15,15,0
+"Marvelous Nakamba","Aston Villa","ZIM","MF",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,10,9,1,0,0,0
+"Mason Greenwood","Manchester Utd","ENG","FW","MF",19,1,6,0,0,48,18,37.5,0.1,0.28,19.1,0,52,42,10,7,6,1
+"Mason Holgate","Everton","ENG","DF",NA,24,1,3,0,0,7,2,28.6,0.29,1,9.8,0,5,4,1,1,1,0
+"Mason Mount","Chelsea","ENG","MF",NA,22,10,21,1,1,75,27,36,0.13,0.37,17.9,6,119,80,39,19,12,7
+"Matěj Vydra","Burnley","CZE","FW",NA,29,3,5,0,0,19,7,36.8,0.11,0.29,15.1,0,14,13,1,3,3,0
+"Mateo Kovačić","Chelsea","CRO","MF",NA,27,5,7,0,0,22,6,27.3,0.09,0.33,20.3,1,69,58,11,8,7,1
+"Mateusz Klich","Leeds United","POL","MF",NA,31,2,3,0,0,42,18,42.9,0.02,0.06,21.4,0,77,64,13,8,7,1
+"Mathias Jensen","Brentford","DEN","MF",NA,25,1,1,0,0,19,5,26.3,0,0,21,0,66,43,23,3,2,1
+"Mathias Jørgensen","Brentford","DEN","DF",NA,31,0,1,0,0,2,1,50,0.5,1,7.8,0,7,3,4,0,0,0
+"Mathias Normann","Norwich City","NOR","MF",NA,25,2,3,0,0,26,5,19.2,0.04,0.2,28.2,6,37,19,18,3,3,0
+"Matt Doherty","Tottenham","IRL","DF",NA,29,4,6,0,0,16,6,37.5,0.13,0.33,14.1,0,30,24,6,4,4,0
+"Matt Ritchie","Newcastle Utd","SCO","DF",NA,31,2,2,0,0,10,1,10,0,0,22.4,1,47,22,25,3,2,1
+"Matt Targett","Newcastle Utd","ENG","DF",NA,25,0,0,0,0,7,2,28.6,0.14,0.5,13.5,0,36,30,6,2,2,0
+"Matt Targett","Newcastle Utd","ENG","DF",NA,25,0,0,0,0,7,2,28.6,0.14,0.5,13.5,0,44,21,23,2,1,1
+"Matt Targett","Newcastle Utd","ENG","DF",NA,25,0,0,0,0,6,3,50,0,0,16.3,0,36,30,6,2,2,0
+"Matt Targett","Newcastle Utd","ENG","DF",NA,25,0,0,0,0,6,3,50,0,0,16.3,0,44,21,23,2,1,1
+"Matt Targett","Aston Villa","ENG","DF",NA,25,1,2,0,0,7,2,28.6,0.14,0.5,13.5,0,36,30,6,2,2,0
+"Matt Targett","Aston Villa","ENG","DF",NA,25,1,2,0,0,7,2,28.6,0.14,0.5,13.5,0,44,21,23,2,1,1
+"Matt Targett","Aston Villa","ENG","DF",NA,25,1,2,0,0,6,3,50,0,0,16.3,0,36,30,6,2,2,0
+"Matt Targett","Aston Villa","ENG","DF",NA,25,1,2,0,0,6,3,50,0,0,16.3,0,44,21,23,2,1,1
+"Matthew Lowton","Burnley","ENG","DF",NA,32,2,3,0,0,10,2,20,0.1,0.5,21.6,0,34,25,9,2,1,1
+"Matty Cash","Aston Villa","POL","DF",NA,23,3,7,0,0,37,13,35.1,0.11,0.31,17.9,0,65,45,20,7,4,3
+"Max Aarons","Norwich City","ENG","DF",NA,21,2,2,0,0,13,2,15.4,0,0,19.9,0,46,34,12,3,3,0
+"Max Kilman","Wolves","ENG","DF",NA,24,0,1,0,0,13,4,30.8,0.08,0.25,9.4,0,10,7,3,2,1,1
+"Maxwel Cornet","Burnley","CIV","FW","MF",24,1,10,1,0,46,22,47.8,0.2,0.41,16.9,4,34,22,12,7,2,5
+"Michael Keane","Everton","ENG","DF",NA,28,2,5,0,0,20,6,30,0.15,0.5,12.7,0,19,13,6,1,1,0
+"Michael Olise","Crystal Palace","FRA","FW","MF",19,5,7,0,0,19,10,52.6,0.11,0.2,17,2,44,34,10,9,8,1
+"Michail Antonio","West Ham","JAM","FW",NA,31,8,18,1,0,82,27,32.9,0.12,0.37,14.9,0,97,65,32,17,10,7
+"Miguel Almirón","Newcastle Utd","PAR","MF","FW",27,0,1,0,0,32,7,21.9,0.03,0.14,19.6,0,49,36,13,4,3,1
+"Milot Rashica","Norwich City","KVX","FW","MF",25,2,3,0,0,44,17,38.6,0.02,0.06,22.3,7,68,37,31,5,4,1
+"Mohamed Elneny","Arsenal","EGY","MF",NA,29,2,2,0,0,8,2,25,0,0,26.9,0,17,15,2,3,3,0
+"Mohamed Elyounoussi","Southampton","NOR","MF","FW",26,2,6,0,0,43,17,39.5,0.09,0.24,14.7,0,57,42,15,6,3,3
+"Mohamed Salah","Liverpool","EGY","FW",NA,29,13,36,6,5,133,49,36.8,0.14,0.37,15.8,1,141,104,37,25,17,8
+"Mohammed Salisu","Southampton","GHA","DF",NA,22,0,0,0,0,24,9,37.5,0,0,12.2,0,34,29,5,5,3,2
+"Moise Kean","Everton","ITA","FW",NA,21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Moisés Caicedo","Brighton","ECU","MF",NA,19,1,2,0,0,10,4,40,0.1,0.25,18.4,0,13,10,3,3,3,0
+"Morgan Gibbs-White","Wolves","ENG","DF","FW",21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,0
+"Morgan Sanson","Aston Villa","FRA","MF",NA,26,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,2,0,0,0,0
+"Moussa Djenepo","Southampton","MLI","MF",NA,23,0,0,0,0,11,1,9.1,0,0,16.3,0,18,15,3,1,1,0
+"Moussa Sissoko","Watford","FRA","MF",NA,31,1,3,0,0,25,8,32,0.08,0.25,16.8,0,75,62,13,3,1,2
+"N'Golo Kanté","Chelsea","FRA","MF",NA,30,4,6,0,0,17,9,52.9,0.12,0.22,19.6,0,69,59,10,16,14,2
+"Naby Keïta","Liverpool","GUI","MF",NA,26,1,4,0,0,26,7,26.9,0.12,0.43,22.6,0,46,39,7,6,5,1
+"Nampalys Mendy","Leicester City","SEN","MF",NA,29,0,0,0,0,1,1,100,0,0,25.3,0,5,5,0,3,3,0
+"Nathan Aké","Manchester City","NED","DF",NA,26,0,2,0,0,5,2,40,0.4,1,7.3,0,5,5,0,0,0,0
+"Nathan Collins","Burnley","IRL","DF",NA,20,0,2,0,0,15,5,33.3,0.13,0.4,9.3,0,18,12,6,1,1,0
+"Nathan Ferguson","Crystal Palace","ENG","DF",NA,20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Nathan Redmond","Southampton","ENG","MF","FW",27,5,6,0,0,26,9,34.6,0.04,0.11,21.2,1,73,62,11,8,6,2
+"Nathan Tella","Southampton","NGA","MF","FW",22,1,1,0,0,12,5,41.7,0,0,21.8,0,23,13,10,4,3,1
+"Nathan Young-Coombes","Brentford","ENG","MF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Nathaniel Clyne","Crystal Palace","ENG","DF",NA,30,1,1,0,0,3,2,66.7,0,0,26.1,0,12,10,2,2,2,0
+"Neal Maupay","Brighton","FRA","FW",NA,24,2,10,2,1,59,14,23.7,0.12,0.5,16.8,0,59,42,17,3,3,0
+"Neco Williams","Liverpool","WAL","DF",NA,20,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,2,1,1,2,1,1
+"Nélson Semedo","Wolves","POR","MF","DF",27,1,1,0,0,19,4,21.1,0,0,20.2,0,44,33,11,1,1,0
+"Nemanja Matić","Manchester Utd","SRB","MF",NA,32,4,4,0,0,6,1,16.7,0,0,23.5,0,30,28,2,6,6,0
+"Nick Pope","Burnley","ENG","GK",NA,29,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,8,4,4,0,0,0
+"Nicolas Nkoulou","Watford","CMR","DF",NA,31,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Nicolas Pépé","Arsenal","CIV","FW","MF",26,2,3,0,0,23,7,30.4,0.04,0.14,15.1,3,36,20,16,4,1,3
+"Nikola Vlašić","West Ham","CRO","FW","MF",23,0,1,0,0,7,3,42.9,0.14,0.33,18.5,0,22,17,5,0,0,0
+"Nuno Tavares","Arsenal","POR","DF",NA,21,1,2,0,0,23,2,8.7,0.04,0.5,19.8,0,27,19,8,3,2,1
+"Odsonne Édouard","Crystal Palace","FRA","FW",NA,23,3,9,1,1,39,17,43.6,0.13,0.29,13.3,0,51,33,18,4,2,2
+"Oghenekaro Etebo","Watford","NGA","MF",NA,25,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,5,5,0,0,0,0
+"Oleksandr Zinchenko","Manchester City","UKR","DF",NA,24,4,4,0,0,12,4,33.3,0,0,22.4,0,46,38,8,11,8,3
+"Oliver Skipp","Tottenham","ENG","MF",NA,20,0,0,0,0,4,1,25,0,0,24.8,0,24,22,2,3,3,0
+"Ollie Watkins","Aston Villa","ENG","FW",NA,25,2,13,1,1,76,31,40.8,0.13,0.32,13.6,0,82,56,26,9,4,5
+"Oriol Romeu","Southampton","ESP","MF",NA,29,2,4,0,0,24,4,16.7,0.08,0.5,22.4,0,74,70,4,4,4,0
+"Ozan Kabak","Norwich City","TUR","DF",NA,21,0,0,0,0,4,2,50,0,0,14.7,0,10,4,6,0,0,0
+"Ozan Tufan","Watford","TUR","MF",NA,26,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,6,5,1,0,0,0
+"Pablo Fornals","West Ham","ESP","FW","MF",25,3,9,0,0,43,11,25.6,0.14,0.55,18.7,0,109,86,23,11,9,2
+"Pablo Marí","Arsenal","ESP","DF",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,2,0,0,0,0
+"Pascal Groß","Brighton","GER","MF","DF",30,4,6,1,0,23,7,30.4,0.09,0.29,17.5,1,100,56,44,7,2,5
+"Pascal Struijk","Leeds United","NED","DF","MF",21,0,1,0,0,11,3,27.3,0.09,0.33,9.1,0,21,18,3,1,0,1
+"Patrick Bamford","Leeds United","ENG","FW",NA,27,2,4,0,0,20,5,25,0.1,0.4,14,0,13,9,4,3,2,1
+"Patson Daka","Leicester City","ZAM","FW",NA,22,3,8,0,0,26,15,57.7,0.19,0.33,15.2,0,30,23,7,9,6,3
+"Paul Dummett","Newcastle Utd","WAL","DF",NA,29,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,1,0
+"Paul Pogba","Manchester Utd","FRA","MF","FW",28,9,10,0,0,32,8,25,0.03,0.13,18,0,57,45,12,11,10,1
+"Pedro Neto","Wolves","POR","FW","MF",21,1,2,0,0,17,4,23.5,0.06,0.25,19.7,1,25,11,14,1,1,0
+"Phil Foden","Manchester City","ENG","FW",NA,21,5,14,0,0,57,22,38.6,0.16,0.41,14.5,0,89,63,26,13,8,5
+"Phil Jones","Manchester Utd","ENG","DF",NA,29,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,0
+"Philippe Coutinho","Aston Villa","BRA","MF","FW",29,3,8,0,0,43,16,37.2,0.12,0.31,21.2,6,62,47,15,8,6,2
+"Pierre Højbjerg","Tottenham","DEN","MF",NA,25,2,4,0,0,31,10,32.3,0.06,0.2,22.2,1,86,71,15,7,7,0
+"Pierre Lees-Melou","Norwich City","FRA","MF",NA,28,0,1,0,0,33,9,27.3,0.03,0.11,24.5,0,55,48,7,2,1,1
+"Pierre-Emerick Aubameyang","Arsenal","GAB","FW",NA,32,1,5,2,0,33,16,48.5,0.12,0.25,15,0,22,14,8,3,2,1
+"Pontus Jansson","Brentford","SWE","DF",NA,30,1,4,0,0,22,10,45.5,0.14,0.3,8.9,0,14,7,7,4,1,3
+"Przemysław Płacheta","Norwich City","POL","FW","MF",23,0,0,0,0,8,7,87.5,0,0,16.7,0,16,6,10,0,0,0
+"Raheem Sterling","Manchester City","ENG","FW",NA,26,5,18,3,2,54,25,46.3,0.2,0.44,14,0,93,72,21,10,5,5
+"Raphaël Varane","Manchester Utd","FRA","DF",NA,28,1,2,0,0,9,1,11.1,0.11,1,9.6,0,9,9,0,2,2,0
+"Raphinha","Leeds United","BRA","FW","MF",24,3,14,4,4,84,21,25,0.08,0.33,21.4,10,136,77,59,10,5,5
+"Raúl Jiménez","Wolves","MEX","FW",NA,30,4,10,1,1,56,15,26.8,0.09,0.33,16.9,1,71,52,19,14,7,7
+"Rayan Aït-Nouri","Wolves","ALG","DF","MF",20,2,3,0,0,13,4,30.8,0.08,0.25,17.6,0,45,30,15,6,4,2
+"Reece James","Chelsea","ENG","DF",NA,21,9,14,0,0,37,10,27,0.14,0.5,20.5,6,88,69,19,11,9,2
+"Reiss Nelson","Arsenal","ENG","FW",NA,21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,2,1,0,0,0
+"Ricardo Pereira","Leicester City","POR","DF",NA,27,3,4,0,0,10,2,20,0.1,0.5,16.6,0,32,24,8,6,4,2
+"Richarlison","Everton","BRA","FW",NA,24,5,15,3,3,69,20,29,0.1,0.35,16.4,2,69,45,24,9,5,4
+"Rico Henry","Brentford","ENG","DF",NA,24,0,3,0,0,14,5,35.7,0.21,0.6,16.7,0,50,41,9,4,2,2
+"Riyad Mahrez","Manchester City","ALG","FW",NA,30,5,16,5,4,56,18,32.1,0.13,0.39,17.9,6,73,55,18,10,7,3
+"Rob Holding","Arsenal","ENG","DF",NA,25,0,1,0,0,4,1,25,0.25,1,8.4,0,3,3,0,0,0,0
+"Robert Sánchez","Brighton","ESP","GK",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,5,5,0,0,0,0
+"Roberto Firmino","Liverpool","BRA","FW",NA,29,4,9,0,0,30,11,36.7,0.17,0.45,15.3,0,40,35,5,5,4,1
+"Robin Koch","Leeds United","GER","MF","DF",25,0,0,0,0,13,1,7.7,0,0,16.1,0,24,21,3,2,2,0
+"Robin Olsen","Aston Villa","SWE","GK",NA,31,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1
+"Rodri","Manchester City","ESP","MF",NA,25,2,9,0,0,45,14,31.1,0.16,0.5,19.8,0,93,82,11,6,6,0
+"Rodrigo","Leeds United","ESP","MF","FW",30,1,7,1,1,46,17,37,0.11,0.29,18.9,0,80,64,16,4,2,2
+"Rodrigo Bentancur","Tottenham","URU","MF",NA,24,4,4,0,0,14,2,14.3,0,0,19.5,0,38,33,5,7,6,1
+"Romain Perraud","Southampton","FRA","DF",NA,23,1,1,0,0,19,3,15.8,0,0,20.7,0,24,19,5,3,3,0
+"Romain Saïss","Wolves","MAR","DF",NA,31,0,2,0,0,18,6,33.3,0.11,0.33,12.3,1,16,15,1,0,0,0
+"Romelu Lukaku","Chelsea","BEL","FW",NA,28,0,8,1,1,42,14,33.3,0.17,0.5,13.8,1,50,35,15,5,0,5
+"Ross Barkley","Chelsea","ENG","MF","FW",27,0,1,0,0,9,4,44.4,0.11,0.25,22.3,0,18,13,5,3,3,0
+"Rúben Dias","Manchester City","POR","DF",NA,24,4,6,0,0,18,3,16.7,0.11,0.67,11.8,0,36,31,5,7,5,2
+"Ruben Loftus-Cheek","Chelsea","ENG","MF","DF",25,2,2,0,0,19,6,31.6,0,0,18.6,0,56,44,12,6,3,3
+"Rúben Neves","Wolves","POR","MF",NA,24,2,6,0,0,42,16,38.1,0.1,0.25,27.4,4,67,58,9,4,4,0
+"Ryan Bertrand","Leicester City","ENG","DF",NA,31,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,2,0,0,0,0
+"Ryan Fraser","Newcastle Utd","SCO","FW","MF",27,3,5,0,0,24,7,29.2,0.08,0.29,18,0,56,34,22,7,4,3
+"Ryan Fredericks","West Ham","ENG","DF",NA,28,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,3,1,0,0,0
+"Ryan Sessegnon","Tottenham","ENG","DF","MF",21,2,2,0,0,6,1,16.7,0,0,13.5,0,20,19,1,4,4,0
+"Sadio Mané","Liverpool","SEN","FW",NA,29,2,18,0,0,98,37,37.8,0.16,0.43,14.2,0,114,79,35,13,7,6
+"Saïd Benrahma","West Ham","ALG","FW","MF",25,6,14,0,0,63,20,31.7,0.13,0.4,19.6,3,75,58,17,8,7,1
+"Salomón Rondón","Everton","VEN","FW",NA,31,1,2,0,0,21,6,28.6,0.05,0.17,12,0,18,13,5,0,0,0
+"Sam Byram","Norwich City","ENG","DF",NA,27,0,0,0,0,7,1,14.3,0,0,10.1,0,11,6,5,2,0,2
+"Sam Greenwood","Leeds United","ENG","MF","FW",19,2,2,0,0,NA,NA,NA,NA,NA,NA,NA,5,3,2,1,1,0
+"Saman Ghoddos","Brentford","IRN","MF","DF",27,1,2,0,0,8,3,37.5,0.13,0.33,20.4,1,27,19,8,2,1,1
+"Samir Santos","Watford","BRA","DF",NA,26,0,0,0,0,8,2,25,0,0,13,0,7,4,3,0,0,0
+"Samuel Kalu","Watford","NGA","FW",NA,23,0,0,0,0,4,1,25,0,0,22.3,1,7,4,3,1,0,1
+"Saúl Ñíguez","Chelsea","ESP","DF","MF",26,0,0,0,0,5,1,20,0,0,23.1,0,7,6,1,0,0,0
+"Scott McTominay","Manchester Utd","SCO","MF",NA,24,1,2,0,0,27,7,25.9,0.04,0.14,20.9,0,51,43,8,6,4,2
+"Sead Kolašinac","Arsenal","BIH","DF",NA,28,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Séamus Coleman","Everton","IRL","DF",NA,32,0,1,0,0,8,1,12.5,0.13,1,18.3,0,47,37,10,5,3,2
+"Sean Longstaff","Newcastle Utd","ENG","MF",NA,23,1,2,0,0,15,2,13.3,0.07,0.5,26,1,26,22,4,3,2,1
+"Sergi Canós","Brentford","ESP","DF","FW",24,2,5,0,0,33,12,36.4,0.09,0.25,16.3,1,37,29,8,5,3,2
+"Sergio Reguilón","Tottenham","ESP","DF","MF",24,3,5,0,0,21,9,42.9,0.1,0.22,15.2,0,58,44,14,5,5,0
+"Shandon Baptiste","Brentford","GRN","MF",NA,23,0,1,0,0,12,4,33.3,0.08,0.25,20.1,0,21,16,5,1,1,0
+"Shane Duffy","Brighton","IRL","DF",NA,29,0,1,0,0,22,5,22.7,0.05,0.2,11.3,0,9,7,2,1,0,1
+"Shane Long","Southampton","IRL","FW",NA,34,0,1,0,0,9,5,55.6,0.11,0.2,11.3,0,5,2,3,0,0,0
+"Shola Shoretire","Manchester Utd","ENG","MF",NA,17,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Solly March","Brighton","ENG","DF","FW",27,2,2,0,0,20,10,50,0,0,18.3,2,71,44,27,3,2,1
+"Son Heung-min","Tottenham","KOR","MF","FW",29,7,30,0,0,86,48,55.8,0.27,0.48,15.7,2,135,82,53,13,7,6
+"Sonny Perkins","West Ham","ENG","MF",NA,17,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Steven Alzate","Brighton","COL","MF",NA,22,0,0,0,0,1,1,100,0,0,16.1,0,6,6,0,1,1,0
+"Steven Bergwijn","Tottenham","NED","FW","MF",23,1,4,0,0,19,10,52.6,0.16,0.3,16.3,0,21,15,6,3,1,2
+"Stuart Armstrong","Southampton","SCO","MF",NA,29,0,2,0,0,38,9,23.7,0.05,0.22,20.5,0,54,42,12,3,1,2
+"Stuart Dallas","Leeds United","NIR","DF","MF",30,1,2,0,0,30,8,26.7,0.03,0.13,21.7,0,74,46,28,3,2,1
+"Stuart McKinstry","Leeds United","SCO","MF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Takehiro Tomiyasu","Arsenal","JPN","DF",NA,22,1,1,0,0,11,2,18.2,0,0,17.1,0,34,32,2,4,4,0
+"Takumi Minamino","Liverpool","JPN","FW","MF",26,0,3,0,0,7,4,57.1,0.43,0.75,15.2,0,8,6,2,1,1,0
+"Tanguy Ndombele","Tottenham","FRA","MF",NA,24,1,2,0,0,9,3,33.3,0.11,0.33,17.4,0,15,10,5,1,1,0
+"Tariq Lamptey","Brighton","GHA","DF","FW",20,2,2,0,0,19,4,21.1,0,0,20,0,54,37,17,3,3,0
+"Tariqe Fosu","Brentford","GHA","DF",NA,25,0,0,0,0,1,1,100,0,0,17,0,1,0,1,0,0,0
+"Taylor Richards","Brighton","ENG","MF",NA,20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Teemu Pukki","Norwich City","FIN","FW",NA,31,3,14,3,3,68,24,35.3,0.12,0.33,15.2,0,63,40,23,4,3,1
+"Theo Walcott","Southampton","ENG","MF","FW",32,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,5,5,0,1,1,0
+"Thiago Alcántara","Liverpool","ESP","MF",NA,30,4,5,0,0,25,6,24,0.04,0.17,19.3,0,67,57,10,6,6,0
+"Thiago Silva","Chelsea","BRA","DF",NA,36,0,3,0,0,18,5,27.8,0.17,0.6,12.2,0,33,26,7,1,0,1
+"Thomas Partey","Arsenal","GHA","MF",NA,28,1,3,0,0,44,9,20.5,0.05,0.22,22.5,2,61,49,12,4,3,1
+"Tim Iroegbunam","Aston Villa","ENG","MF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Tim Krul","Norwich City","NED","GK",NA,33,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,6,3,3,0,0,0
+"Timo Werner","Chelsea","GER","FW","MF",25,1,5,0,0,45,16,35.6,0.09,0.25,13.3,0,30,23,7,5,4,1
+"Timothy Castagne","Leicester City","BEL","DF",NA,25,0,1,0,0,7,3,42.9,0.14,0.33,15.2,0,27,25,2,1,1,0
+"Todd Cantwell","Norwich City","ENG","FW","MF",23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,10,9,1,1,1,0
+"Tom Cleverley","Watford","ENG","MF",NA,31,2,2,0,0,12,7,58.3,0,0,21,0,36,22,14,3,2,1
+"Tom Davies","Everton","ENG","MF",NA,23,0,1,0,0,6,2,33.3,0.17,0.5,17.3,0,5,4,1,0,0,0
+"Tomáš Souček","West Ham","CZE","MF",NA,26,1,6,0,0,45,11,24.4,0.11,0.45,12.8,0,42,36,6,4,4,0
+"Tony Springett","Norwich City","IRL","MF","FW",18,0,0,0,0,1,1,100,0,0,12.9,0,3,2,1,0,0,0
+"Toti Gomes","Wolves","POR","DF",NA,22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Trent Alexander-Arnold","Liverpool","ENG","DF",NA,22,12,14,0,0,51,15,29.4,0.04,0.13,24,8,160,96,64,18,13,5
+"Trevoh Chalobah","Chelsea","ENG","DF",NA,22,1,4,0,0,9,7,77.8,0.33,0.43,18.8,0,14,12,2,2,2,0
+"Trézéguet","Aston Villa","EGY","FW",NA,26,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,0
+"Troy Deeney","Watford","ENG","FW",NA,33,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Tyler Morton","Liverpool","ENG","MF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Tyler Onyango","Everton","ENG","MF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Tyler Roberts","Leeds United","WAL","MF","FW",22,1,2,0,0,30,12,40,0.03,0.08,19.7,0,30,23,7,1,1,0
+"Tyrick Mitchell","Crystal Palace","ENG","DF",NA,21,2,2,0,0,NA,NA,NA,NA,NA,NA,NA,51,42,9,7,6,1
+"Tyrone Mings","Aston Villa","ENG","DF",NA,28,3,4,0,0,21,5,23.8,0.05,0.2,12.3,0,30,23,7,5,4,1
+"Valentino Livramento","Southampton","ENG","DF",NA,18,1,2,0,0,12,3,25,0.08,0.33,15.9,0,44,37,7,3,1,2
+"Vicente Guaita","Crystal Palace","ESP","GK",NA,34,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Victor Lindelöf","Manchester Utd","SWE","DF",NA,27,2,2,0,0,3,2,66.7,0,0,8.6,0,13,12,1,4,3,1
+"Virgil van Dijk","Liverpool","NED","DF",NA,30,1,4,0,0,35,14,40,0.09,0.21,13.3,1,31,22,9,6,4,2
+"Vitaliy Mykolenko","Everton","UKR","DF",NA,22,0,1,0,0,8,2,25,0.13,0.5,19,0,16,10,6,3,1,2
+"Vitaly Janelt","Brentford","GER","MF",NA,23,0,4,0,0,30,12,40,0.13,0.33,18.4,0,57,42,15,3,2,1
+"Vladimír Coufal","West Ham","CZE","DF",NA,28,4,4,0,0,11,4,36.4,0,0,17.7,0,51,39,12,7,7,0
+"Wayne Hennessey","Burnley","WAL","GK",NA,34,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,1,2,0,0,0
+"Wesley Fofana","Leicester City","FRA","DF",NA,20,0,0,0,0,3,1,33.3,0,0,7.9,0,4,4,0,0,0,0
+"Wesley Moraes","Aston Villa","BRA","FW",NA,24,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Wilfred Ndidi","Leicester City","NGA","MF","DF",24,0,0,0,0,14,4,28.6,0,0,19.7,0,18,13,5,2,1,1
+"Wilfried Zaha","Crystal Palace","CIV","FW",NA,28,1,15,7,5,62,26,41.9,0.15,0.35,18.8,0,111,76,35,12,5,7
+"Will Hughes","Crystal Palace","ENG","MF",NA,26,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,23,15,8,4,1,3
+"William Smallbone","Southampton","IRL","MF","FW",21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,1,1,0,0,0
+"William Troost-Ekong","Watford","NGA","DF",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,6,5,1,0,0,0
+"Willy Boly","Wolves","CIV","DF",NA,30,0,0,0,0,2,1,50,0,0,9.4,0,3,2,1,0,0,0
+"Willy Caballero","Southampton","ARG","GK",NA,39,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Wout Weghorst","Burnley","NED","FW",NA,28,3,5,0,0,30,7,23.3,0.07,0.29,14,0,41,26,15,5,4,1
+"Yan Valery","Southampton","TUN","DF",NA,22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Yerry Mina","Everton","COL","DF",NA,26,0,0,0,0,6,2,33.3,0,0,10.8,0,2,2,0,0,0,0
+"Yoane Wissa","Brentford","COD","FW",NA,24,1,8,0,0,32,13,40.6,0.22,0.54,16.4,0,27,16,11,4,3,1
+"Youri Tielemans","Leicester City","BEL","MF",NA,24,4,10,2,2,57,15,26.3,0.07,0.27,25,0,101,80,21,15,14,1
+"Yves Bissouma","Brighton","MLI","MF",NA,24,2,3,0,0,21,5,23.8,0.05,0.2,25.3,1,31,24,7,4,3,1
+"Zack Steffen","Manchester City","USA","GK",NA,26,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
