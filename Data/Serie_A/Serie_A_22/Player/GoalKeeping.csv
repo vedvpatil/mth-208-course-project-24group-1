@@ -1,0 +1,32 @@
+"Player","Squad","Nation","Pos","Pos2","Age","Wins","Draws","Losses","Goals_Conceded","Saves","Saves_Percentage","Clean_Sheets","Clean_Sheets_Percentage","Penalty_Kicks_Saves","Penalty_Kicks_Save_Percentage"
+"Emil Audero","Sampdoria","ITA","GK",NA,24,8,5,16,48,82,63.8,5,17.2,1,50
+"Vid Belec","Salernitana","SVN","GK",NA,31,3,2,16,49,87,65.9,1,4.8,1,25
+"Etrit Berisha","Torino","ALB","GK",NA,32,3,4,3,8,32,85.4,4,40,1,33.3
+"Andrea Consigli","Sassuolo","ITA","GK",NA,34,13,11,13,63,108,67.8,3,8.1,1,11.1
+"Alessio Cragno","Cagliari","ITA","GK",NA,27,6,10,19,63,104,66.1,2,5.7,2,25
+"Bartłomiej Drągowski","Fiorentina","POL","GK",NA,23,3,0,4,8,17,73.1,2,28.6,1,50
+"Wladimiro Falcone","Sampdoria","ITA","GK",NA,26,2,1,6,14,41,75.9,2,22.2,0,0
+"Samir Handanović","Inter","SVN","GK",NA,37,25,9,3,30,95,79,15,40.5,0,0
+"Niki Mäenpää","Venezia","FIN","GK",NA,36,1,4,11,27,57,73.8,1,6.3,0,0
+"Mike Maignan","Milan","FRA","GK",NA,26,22,7,3,21,81,81.2,17,53.1,0,0
+"Vanja Milinković-Savić","Torino","SRB","GK",NA,24,9,7,11,33,46,67.5,4,14.8,1,12.5
+"Lorenzo Montipò","Hellas Verona","ITA","GK",NA,25,13,10,11,50,88,65,4,11.8,1,33.3
+"Juan Musso","Atalanta","ARG","GK",NA,27,16,8,9,42,80,67.2,8,24.2,0,0
+"David Ospina","Napoli","COL","GK",NA,32,19,6,6,25,82,77.4,13,41.9,0,0
+"Ivor Pandur","Hellas Verona","CRO","GK",NA,21,1,0,2,6,9,66.7,0,0,0,0
+"Rui Patrício","Roma","POR","GK",NA,33,18,9,11,43,104,74,15,39.5,1,16.7
+"Ivan Provedel","Spezia","ITA","GK",NA,27,9,5,17,52,116,73.9,7,22.6,0,0
+"Boris Radunović","Cagliari","SRB","GK",NA,25,0,2,1,5,11,76.5,1,33.3,1,50
+"Pepe Reina","Lazio","ESP","GK",NA,38,6,4,5,29,31,58.3,2,13.3,0,0
+"Sergio Romero","Venezia","ARG","GK",NA,34,3,4,9,33,74,74.3,3,18.8,0,0
+"Luigi Sepe","Salernitana","ITA","GK",NA,30,4,8,4,24,54,73.1,1,6.3,0,0
+"Marco Silvestri","Udinese","ITA","GK",NA,30,10,14,11,50,92,68.1,7,20,0,0
+"Salvatore Sirigu","Genoa","ITA","GK",NA,34,4,16,17,59,122,69.4,10,27,1,20
+"Łukasz Skorupski","Bologna","POL","GK",NA,30,11,9,16,53,122,74.1,12,33.3,1,11.1
+"Marco Sportiello","Atalanta","ITA","GK",NA,29,0,3,2,5,13,83.3,2,40,0,0
+"Thomas Strakosha","Lazio","ALB","GK",NA,26,12,6,5,29,58,67.4,7,30.4,0,0
+"Wojciech Szczęsny","Juventus","POL","GK",NA,31,18,9,6,29,73,75.2,12,36.4,3,50
+"Ciprian Tătărușanu","Milan","ROU","GK",NA,35,4,1,1,10,14,66.7,1,16.7,1,33.3
+"Pietro Terracciano","Fiorentina","ITA","GK",NA,31,16,5,10,43,58,59,9,29,1,33.3
+"Guglielmo Vicario","Empoli","ITA","GK",NA,24,10,11,17,70,150,69.9,7,18.4,2,28.6
+"Jeroen Zoet","Spezia","NED","GK",NA,30,1,1,5,19,23,58.1,0,0,1,50

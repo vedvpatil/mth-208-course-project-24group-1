@@ -1,0 +1,558 @@
+"Player","Squad","Nation","Pos","Pos2","Age","Yellow_Card","Red_Card","Second_Yellow_Card","Total_Red_Cards","Fouls"
+"James Abankwah","Udinese","IRL","DF",NA,18,0,0,0,0,2
+"Oliver Abildgaard","Hellas Verona","DEN","MF",NA,26,2,0,0,0,13
+"Tammy Abraham","Roma","ENG","FW",NA,24,2,0,0,0,33
+"Francesco Acerbi","Inter","ITA","DF",NA,34,4,0,0,0,17
+"Yacine Adli","Milan","FRA","MF","FW",22,1,0,0,0,4
+"Michel Aebischer","Bologna","SUI","FW","MF",25,4,0,0,0,22
+"Felix Afena-Gyan","Cremonese","GHA","FW","MF",19,4,0,0,0,18
+"Kevin Agudelo","Spezia","COL","MF","FW",23,5,0,0,0,34
+"Ola Aina","Torino","NGA","DF",NA,25,5,0,0,0,16
+"Emanuel Aiwum","Cremonese","AUT","DF",NA,21,3,0,0,0,21
+"Jean-Daniel Akpa-Akpro","Empoli","CIV","MF","FW",29,9,2,1,3,31
+"Luis Alberto","Lazio","ESP","MF",NA,29,4,0,0,0,15
+"Agustín Álvarez Martínez","Sassuolo","URU","FW","MF",21,1,0,0,0,8
+"Kelvin Amian","Spezia","FRA","DF",NA,24,7,1,1,2,37
+"Bruno Amione","Hellas Verona","ARG","DF",NA,20,1,0,0,0,3
+"Bruno Amione","Sampdoria","ARG","DF",NA,20,10,1,1,2,24
+"Ethan Ampadu","Spezia","WAL","DF","MF",21,10,1,1,2,44
+"Sofyan Amrabat","Fiorentina","MAR","MF",NA,25,11,0,0,0,54
+"Felipe Anderson","Lazio","BRA","FW",NA,29,3,0,0,0,40
+"Janis Antiste","Sassuolo","FRA","FW",NA,19,0,0,0,0,4
+"Marcos Antônio","Lazio","BRA","MF",NA,22,2,0,0,0,9
+"Valentin Antov","Monza","BUL","DF",NA,21,2,0,0,0,4
+"Marko Arnautović","Bologna","AUT","FW",NA,33,5,0,0,0,22
+"Tolgay Arslan","Udinese","GER","MF",NA,31,3,0,0,0,15
+"Santiago Ascacíbar","Cremonese","ARG","MF",NA,25,1,0,0,0,11
+"Kristoffer Askildsen","Lecce","NOR","MF",NA,21,3,0,0,0,20
+"Kristjan Asllani","Inter","ALB","MF",NA,20,2,0,0,0,5
+"Emil Audero","Sampdoria","ITA","GK",NA,25,1,0,0,0,0
+"Tommaso Augello","Sampdoria","ITA","DF",NA,27,3,0,0,0,14
+"Carlos Augusto","Monza","BRA","DF",NA,23,4,0,0,0,41
+"Kaan Ayhan","Sassuolo","TUR","DF",NA,27,1,0,0,0,4
+"Jaime Báez","Cremonese","URU","DF",NA,27,0,0,0,0,1
+"Nedim Bajrami","Empoli","ALB","MF","FW",23,1,0,0,0,6
+"Nedim Bajrami","Sassuolo","ALB","FW","MF",23,0,0,0,0,6
+"Tiemoué Bakayoko","Milan","FRA","MF",NA,27,0,0,0,0,3
+"Tommaso Baldanzi","Empoli","ITA","MF",NA,19,2,0,0,0,12
+"Fodé Ballo-Touré","Milan","SEN","DF",NA,25,0,0,0,0,5
+"Lameck Banda","Lecce","ZAM","FW","MF",21,6,0,0,0,31
+"Filippo Bandinelli","Empoli","ITA","MF",NA,27,10,0,0,0,53
+"Antonín Barák","Fiorentina","CZE","MF",NA,27,4,0,0,0,13
+"Andrea Barberis","Monza","ITA","MF",NA,28,0,0,0,0,1
+"Tommaso Barbieri","Juventus","ITA","DF",NA,19,0,0,0,0,5
+"Nicolò Barella","Inter","ITA","MF",NA,25,6,0,0,0,32
+"Enzo Barrenechea","Juventus","ARG","MF",NA,21,0,0,0,0,3
+"Musa Barrow","Bologna","GAM","FW","MF",23,3,0,0,0,20
+"Federico Baschirotto","Lecce","ITA","DF",NA,25,6,0,0,0,37
+"Toma Bašić","Lazio","CRO","MF",NA,25,2,0,0,0,12
+"Alberto Basso","Cremonese","ITA","MF",NA,18,0,0,0,0,0
+"Alessandro Bastoni","Inter","ITA","DF",NA,23,3,0,0,0,19
+"Simone Bastoni","Spezia","ITA","MF","DF",25,7,0,0,0,29
+"Brian Bayeye","Torino","COD","DF",NA,22,0,0,0,0,1
+"Rodrigo Becão","Udinese","BRA","DF",NA,26,11,1,0,1,38
+"Julius Beck","Spezia","DEN","MF",NA,17,0,0,0,0,1
+"Raoul Bellanova","Inter","ITA","DF",NA,22,0,0,0,0,4
+"Andrea Belotti","Roma","ITA","FW",NA,28,0,0,0,0,21
+"Marco Benassi","Fiorentina","ITA","DF",NA,27,0,0,0,0,1
+"Marco Benassi","Cremonese","ITA","MF",NA,27,1,0,0,0,10
+"Ismaël Bennacer","Milan","ALG","MF",NA,24,5,0,0,0,36
+"Domenico Berardi","Sassuolo","ITA","FW",NA,27,7,0,0,0,33
+"Bartosz Bereszyński","Sampdoria","POL","DF",NA,30,1,0,0,0,13
+"Bartosz Bereszyński","Napoli","POL","DF",NA,30,1,0,0,0,2
+"Beto","Udinese","GNB","FW",NA,24,2,0,0,0,36
+"Matteo Bianchetti","Cremonese","ITA","DF",NA,29,5,0,0,0,18
+"Alessandro Bianco","Fiorentina","ITA","MF",NA,19,1,0,0,0,7
+"Jaka Bijol","Udinese","SVN","DF",NA,23,10,0,0,0,29
+"Cristiano Biraghi","Fiorentina","ITA","DF",NA,29,1,0,0,0,29
+"Samuele Birindelli","Monza","ITA","DF",NA,23,8,0,0,0,15
+"Kristijan Bistrović","Lecce","CRO","MF",NA,24,0,0,0,0,2
+"Alexis Blin","Lecce","FRA","MF",NA,25,8,0,0,0,47
+"Jeremie Boga","Atalanta","CIV","MF","FW",25,0,0,0,0,4
+"Emil Bohinen","Salernitana","NOR","MF",NA,23,0,0,0,0,15
+"Giacomo Bonaventura","Fiorentina","ITA","MF",NA,32,4,1,0,1,24
+"Federico Bonazzoli","Salernitana","ITA","FW","MF",25,1,0,0,0,18
+"Warren Bondo","Monza","FRA","MF",NA,18,1,0,0,0,2
+"Kevin Bonifazi","Bologna","ITA","DF",NA,26,2,0,0,0,6
+"Leonardo Bonucci","Juventus","ITA","DF",NA,35,2,0,0,0,11
+"Erik Botheim","Salernitana","NOR","MF","FW",22,2,0,0,0,12
+"Mehdi Bourabia","Spezia","MAR","MF",NA,30,3,0,0,0,33
+"Edoardo Bove","Roma","ITA","MF",NA,20,2,0,0,0,24
+"Jayden Braaf","Hellas Verona","NED","MF","FW",19,1,0,0,0,8
+"Domagoj Bradarić","Salernitana","CRO","DF",NA,22,5,0,0,0,17
+"Josip Brekalo","Fiorentina","CRO","FW","MF",24,1,0,0,0,3
+"Gleison Bremer","Juventus","BRA","DF",NA,25,6,0,0,0,29
+"Dylan Bronn","Salernitana","TUN","DF",NA,27,5,1,0,1,29
+"Marcelo Brozović","Inter","CRO","MF",NA,29,8,0,0,0,24
+"Cristian Buonaiuto","Cremonese","ITA","MF","FW",29,3,0,0,0,17
+"Alessandro Buongiorno","Torino","ITA","DF",NA,23,8,0,0,0,64
+"Arthur Cabral","Fiorentina","BRA","FW",NA,24,4,0,0,0,26
+"Liberato Cacace","Empoli","NZL","DF",NA,21,1,0,0,0,9
+"Davide Calabria","Milan","ITA","DF",NA,25,6,0,0,0,16
+"Mattia Caldara","Spezia","ITA","DF",NA,28,6,0,0,0,16
+"Luca Caldirola","Monza","ITA","DF",NA,31,6,0,0,0,30
+"Hakan Çalhanoğlu","Inter","TUR","MF",NA,28,3,0,0,0,46
+"Mohamed Camara","Roma","GUI","MF",NA,25,3,0,0,0,15
+"Nicolò Cambiaghi","Empoli","ITA","FW","MF",21,5,1,1,2,25
+"Andrea Cambiaso","Bologna","ITA","DF",NA,22,2,0,0,0,26
+"Matteo Cancellieri","Lazio","ITA","FW",NA,20,4,0,0,0,14
+"Antonio Candreva","Salernitana","ITA","MF","DF",35,3,1,1,2,7
+"Gianluca Caprari","Monza","ITA","MF","FW",29,7,0,0,0,34
+"Francesco Caputo","Sampdoria","ITA","FW",NA,34,0,0,0,0,5
+"Francesco Caputo","Empoli","ITA","FW",NA,34,1,0,0,0,13
+"Andrea Carboni","Monza","ITA","DF",NA,21,0,0,0,0,1
+"Franco Carboni","Monza","ITA","DF","FW",19,0,0,0,0,2
+"Valentin Carboni","Inter","ARG","MF","DF",17,0,0,0,0,0
+"Marco Carnesecchi","Cremonese","ITA","GK",NA,22,1,0,0,0,0
+"Nicolò Casale","Lazio","ITA","DF",NA,24,6,0,0,0,22
+"Michele Castagnetti","Cremonese","ITA","MF",NA,32,2,0,0,0,16
+"Gaetano Castrovilli","Fiorentina","ITA","MF",NA,25,3,0,0,0,12
+"Danilo Cataldi","Lazio","ITA","MF",NA,27,5,0,0,0,12
+"Federico Ceccherini","Hellas Verona","ITA","DF",NA,30,9,1,0,1,31
+"Assan Ceesay","Lecce","GAM","FW",NA,28,2,0,0,0,36
+"Emil Ceide","Sassuolo","NOR","FW",NA,20,0,0,0,0,4
+"Zeki Çelik","Roma","TUR","DF",NA,25,7,1,1,2,26
+"Federico Chiesa","Juventus","ITA","DF","MF",24,2,0,0,0,13
+"Vlad Chiricheș","Cremonese","ROU","DF",NA,32,2,0,0,0,16
+"Daniel Ciofani","Cremonese","ITA","FW",NA,37,1,0,0,0,9
+"Tio Cipot","Spezia","SVN","FW","MF",19,0,0,0,0,1
+"Patrick Ciurria","Monza","ITA","DF","MF",27,4,0,0,0,32
+"Omar Colley","Sampdoria","GAM","DF",NA,29,5,0,0,0,15
+"Lorenzo Colombo","Lecce","ITA","FW",NA,20,4,0,0,0,36
+"Andrea Colpani","Monza","ITA","MF",NA,23,1,0,0,0,22
+"Andrea Consigli","Sassuolo","ITA","GK",NA,35,0,0,0,0,0
+"Diego Coppola","Hellas Verona","ITA","DF",NA,18,5,0,0,0,10
+"Joaquín Correa","Inter","ARG","FW",NA,27,1,0,0,0,12
+"Alessandro Cortinovis","Hellas Verona","ITA","MF",NA,21,0,0,0,0,0
+"Lassana Coulibaly","Salernitana","MLI","MF",NA,26,12,0,0,0,53
+"Bryan Cristante","Roma","ITA","MF","DF",27,8,1,0,1,52
+"Domen Črnigoj","Salernitana","SVN","MF",NA,26,1,0,0,0,6
+"Juan Cuadrado","Juventus","COL","DF","FW",34,6,1,0,1,33
+"Mickaël Cuisance","Sampdoria","FRA","MF",NA,22,1,0,0,0,8
+"Marco D'Alessandro","Monza","ITA","DF","FW",31,2,0,0,0,6
+"Danilo D'Ambrosio","Inter","ITA","DF",NA,33,3,1,0,1,16
+"Luca D'Andrea","Sassuolo","ITA","FW",NA,17,0,0,0,0,4
+"Flavius Daniliuc","Salernitana","AUT","DF",NA,21,9,0,0,0,33
+"Danilo","Juventus","BRA","DF",NA,31,5,0,0,0,33
+"Matteo Darmian","Inter","ITA","DF",NA,32,3,0,0,0,21
+"Juan David Cabal","Hellas Verona","COL","DF",NA,21,3,0,0,0,7
+"Paweł Dawidowicz","Hellas Verona","POL","DF",NA,27,6,1,0,1,37
+"Charles De Ketelaere","Milan","BEL","MF","FW",21,2,0,0,0,19
+"Manuel De Luca","Sampdoria","ITA","FW","MF",24,0,0,0,0,3
+"Tommaso De Nipoti","Atalanta","ITA","MF",NA,19,0,0,0,0,0
+"Mattia De Sciglio","Juventus","ITA","DF",NA,29,0,0,0,0,4
+"Lorenzo De Silvestri","Bologna","ITA","DF",NA,34,1,0,0,0,6
+"Koni De Winter","Empoli","BEL","DF",NA,20,3,0,0,0,13
+"Grégoire Defrel","Sassuolo","MTQ","FW",NA,31,3,0,0,0,14
+"Merih Demiral","Atalanta","TUR","DF",NA,24,5,0,0,0,13
+"Diego Demme","Napoli","GER","MF",NA,30,0,0,0,0,2
+"Fabio Depaoli","Hellas Verona","ITA","DF",NA,25,7,0,0,0,43
+"Fabio Depaoli","Sampdoria","ITA","DF","MF",25,1,0,0,0,1
+"Cyriel Dessers","Cremonese","NGA","FW",NA,27,3,0,0,0,34
+"Sergiño Dest","Milan","USA","DF",NA,21,0,0,0,0,6
+"Mattia Destro","Empoli","ITA","FW","MF",31,3,0,0,0,12
+"Gerard Deulofeu","Udinese","ESP","FW",NA,28,1,0,0,0,8
+"Samuel Di Carmine","Cremonese","ITA","FW","MF",33,0,0,0,0,0
+"Federico Di Francesco","Lecce","ITA","FW","MF",28,5,0,0,0,43
+"Michele Di Gregorio","Monza","ITA","GK",NA,25,0,0,0,0,0
+"Giovanni Di Lorenzo","Napoli","ITA","DF",NA,28,2,0,0,0,31
+"Ángel Di María","Juventus","ARG","FW","MF",34,1,1,0,1,6
+"Boulaye Dia","Salernitana","SEN","FW","MF",25,4,0,0,0,28
+"Brahim Díaz","Milan","MAR","MF","FW",22,3,0,0,0,29
+"Federico Dimarco","Inter","ITA","DF",NA,24,0,0,0,0,12
+"Koffi Djidji","Torino","CIV","DF",NA,29,3,0,0,0,27
+"Berat Djimsiti","Atalanta","ALB","DF",NA,29,3,0,0,0,15
+"Dodô","Fiorentina","BRA","DF",NA,23,5,1,1,2,28
+"Josh Doig","Hellas Verona","SCO","DF",NA,20,1,0,0,0,14
+"Nicolás Domínguez","Bologna","ARG","MF",NA,24,10,0,0,0,43
+"Giulio Donati","Monza","ITA","DF",NA,32,4,2,1,3,7
+"Bartłomiej Drągowski","Spezia","POL","GK",NA,24,1,0,0,0,0
+"Ondrej Duda","Hellas Verona","SVK","MF",NA,27,4,0,0,0,17
+"Denzel Dumfries","Inter","NED","DF",NA,26,4,0,0,0,31
+"Alfred Duncan","Fiorentina","GHA","MF",NA,29,3,0,0,0,26
+"Paulo Dybala","Roma","ARG","MF","FW",28,5,0,0,0,10
+"Edin Džeko","Inter","BIH","FW",NA,36,3,0,0,0,26
+"Festy Ebosele","Udinese","IRL","DF",NA,19,4,0,0,0,11
+"Enzo Ebosse","Udinese","CMR","DF",NA,23,3,0,0,0,9
+"Tyronne Ebuehi","Empoli","NGA","DF",NA,26,0,0,0,0,12
+"Éderson","Atalanta","BRA","MF",NA,23,4,0,0,0,28
+"Kingsley Ehizibue","Udinese","NED","DF",NA,27,7,0,0,0,33
+"Albin Ekdal","Spezia","SWE","MF",NA,33,6,1,1,2,32
+"Emmanuel Ekong","Empoli","SWE","FW","MF",20,0,0,0,0,0
+"Mikael Ellertsson","Spezia","ISL","MF","DF",20,3,0,0,0,6
+"Elif Elmas","Napoli","MKD","FW","MF",22,5,0,0,0,22
+"Martin Erlic","Sassuolo","CRO","DF",NA,24,2,0,0,0,21
+"Gonzalo Escalante","Cremonese","ARG","MF",NA,29,0,1,0,1,6
+"Salvatore Esposito","Spezia","ITA","MF",NA,21,5,1,1,2,11
+"Nicolò Fagioli","Juventus","ITA","MF",NA,21,3,0,0,0,20
+"Wladimiro Falcone","Lecce","ITA","GK",NA,27,2,0,0,0,1
+"Davide Faraoni","Hellas Verona","ITA","DF",NA,30,7,0,0,0,21
+"Federico Fazio","Salernitana","ARG","DF",NA,35,2,1,0,1,11
+"Jacopo Fazzini","Empoli","ITA","MF",NA,19,4,0,0,0,20
+"Lewis Ferguson","Bologna","SCO","MF","FW",22,4,0,0,0,50
+"Alex Ferrari","Sampdoria","ITA","DF",NA,28,3,0,0,0,12
+"Alex Ferrari","Cremonese","ITA","DF",NA,28,3,0,0,0,8
+"Salvador Ferrer","Spezia","ESP","DF",NA,24,0,0,0,0,2
+"Alessandro Florenzi","Milan","ITA","DF",NA,31,1,0,0,0,2
+"Davide Frattesi","Sassuolo","ITA","MF",NA,22,4,0,0,0,39
+"Matteo Gabbia","Milan","ITA","DF",NA,22,2,0,0,0,8
+"Manolo Gabbiadini","Sampdoria","ITA","FW","MF",30,6,0,0,0,41
+"Roberto Gagliardini","Inter","ITA","MF",NA,28,5,1,1,2,20
+"Adolfo Gaich","Hellas Verona","ARG","FW",NA,23,2,0,0,0,17
+"Pablo Galdames Millán","Cremonese","CHI","MF",NA,25,2,0,0,0,13
+"Antonino Gallo","Lecce","ITA","DF",NA,22,5,1,1,2,13
+"Federico Gatti","Juventus","ITA","DF",NA,24,4,0,0,0,16
+"Valentin Gendrey","Lecce","FRA","DF",NA,22,4,0,0,0,23
+"Paolo Ghiglione","Cremonese","ITA","DF",NA,25,4,0,0,0,16
+"Mario Gila","Lazio","ESP","DF",NA,21,0,0,0,0,1
+"Gvidas Gineitis","Torino","LTU","MF",NA,18,2,0,0,0,6
+"Olivier Giroud","Milan","FRA","FW",NA,35,8,1,1,2,38
+"Joan Gonzàlez","Lecce","ESP","MF",NA,20,8,0,0,0,36
+"Nicolás González","Fiorentina","ARG","FW","MF",24,3,0,0,0,16
+"Robin Gosens","Inter","GER","DF",NA,28,2,0,0,0,17
+"Alberto Grassi","Empoli","ITA","MF",NA,27,3,0,0,0,22
+"Andrew Gravillon","Torino","GLP","DF",NA,24,2,0,0,0,9
+"Axel Guessand","Udinese","FRA","DF",NA,17,0,0,0,0,1
+"Koray Günter","Hellas Verona","GER","DF",NA,27,3,0,0,0,17
+"Koray Günter","Sampdoria","GER","DF",NA,27,2,0,0,0,7
+"Emmanuel Gyasi","Spezia","GHA","FW","DF",28,10,0,0,0,47
+"Norbert Gyömbér","Salernitana","SVK","DF",NA,30,5,0,0,0,22
+"Christian Gytkjær","Monza","DEN","FW","MF",32,0,0,0,0,11
+"Nicolas Haas","Empoli","SUI","MF",NA,26,2,0,0,0,20
+"Abdou Harroui","Sassuolo","NED","MF",NA,24,2,0,0,0,13
+"Hans Hateboer","Atalanta","NED","DF",NA,28,7,0,0,0,19
+"Liam Henderson","Empoli","SCO","MF",NA,26,9,0,0,0,35
+"Jack Hendry","Cremonese","SCO","DF",NA,27,1,0,0,0,2
+"Matheus Henrique","Sassuolo","BRA","MF",NA,24,4,0,0,0,22
+"Thomas Henry","Hellas Verona","FRA","FW",NA,27,4,0,0,0,27
+"Theo Hernández","Milan","FRA","DF",NA,24,7,0,0,0,22
+"Isak Hien","Hellas Verona","SWE","DF",NA,23,9,0,0,0,52
+"Morten Hjulmand","Lecce","DEN","MF",NA,23,9,1,0,1,61
+"Emil Holm","Spezia","SWE","DF",NA,22,4,0,0,0,22
+"Martin Hongla","Hellas Verona","CMR","MF",NA,24,4,0,0,0,11
+"Petko Hristov","Spezia","BUL","DF",NA,23,0,0,0,0,1
+"Ajdin Hrustic","Hellas Verona","AUS","MF",NA,26,0,0,0,0,7
+"Elseid Hysaj","Lazio","ALB","DF",NA,28,3,0,0,0,19
+"Rasmus Højlund","Atalanta","DEN","FW",NA,19,1,0,0,0,21
+"Roger Ibanez","Roma","BRA","DF",NA,23,11,1,1,2,44
+"Zlatan Ibrahimović","Milan","SWE","FW",NA,40,0,0,0,0,2
+"Igor","Fiorentina","BRA","DF",NA,24,10,1,1,2,29
+"Jonathan Ikone","Fiorentina","FRA","FW",NA,24,4,0,0,0,28
+"Ivan Ilić","Hellas Verona","SRB","MF",NA,21,1,0,0,0,9
+"Ivan Ilić","Torino","SRB","MF",NA,21,3,0,0,0,13
+"Samuel Iling-Junior","Juventus","ENG","DF","FW",18,1,0,0,0,9
+"Emirhan İlkhan","Torino","TUR","MF",NA,18,1,0,0,0,5
+"Emirhan İlkhan","Sampdoria","TUR","MF",NA,18,0,0,0,0,0
+"Ciro Immobile","Lazio","ITA","FW",NA,32,3,0,0,0,21
+"Ardian Ismajli","Empoli","ALB","DF",NA,25,3,0,0,0,19
+"Armando Izzo","Monza","ITA","DF",NA,30,10,0,0,0,44
+"Mato Jajalo","Udinese","BIH","MF",NA,34,0,0,0,0,1
+"Jesé","Sampdoria","ESP","FW",NA,29,0,0,0,0,3
+"Juan Jesus","Napoli","BRA","DF",NA,31,2,0,0,0,10
+"Þórir Jóhann Helgason","Lecce","ISL","MF",NA,21,0,0,0,0,2
+"Luka Jović","Fiorentina","SRB","FW","MF",24,3,0,0,0,23
+"Hamed Junior Traorè","Sassuolo","CIV","MF","FW",22,1,0,0,0,9
+"Yayah Kallon","Hellas Verona","SLE","MF","FW",21,1,0,0,0,13
+"Pierre Kalulu","Milan","FRA","DF",NA,22,4,0,0,0,24
+"Yann Karamoh","Torino","FRA","MF","FW",24,2,0,0,0,11
+"Rick Karsdorp","Roma","NED","DF",NA,27,0,0,0,0,4
+"Denso Kasius","Bologna","NED","DF",NA,19,1,0,0,0,3
+"Grigoris Kastanos","Salernitana","CYP","MF","DF",24,4,0,0,0,22
+"Moise Kean","Juventus","ITA","FW",NA,22,5,1,0,1,15
+"Jakub Kiwior","Spezia","POL","DF",NA,22,3,0,0,0,16
+"Simon Kjær","Milan","DEN","DF",NA,33,4,0,0,0,8
+"Teun Koopmeiners","Atalanta","NED","MF",NA,24,7,0,0,0,48
+"Filip Kostić","Juventus","SRB","DF","FW",29,3,0,0,0,29
+"Christian Kouamé","Fiorentina","CIV","FW",NA,24,5,0,0,0,32
+"Viktor Kovalenko","Spezia","UKR","MF",NA,26,1,0,0,0,9
+"Julian Kristoffersen","Salernitana","NOR","FW",NA,25,0,0,0,0,2
+"Raimonds Krollis","Spezia","LVA","FW","DF",20,0,0,0,0,2
+"Rade Krunić","Milan","BIH","MF",NA,28,8,0,0,0,16
+"Marash Kumbulla","Roma","ALB","DF",NA,22,1,1,0,1,3
+"Khvicha Kvaratskhelia","Napoli","GEO","FW",NA,21,1,0,0,0,20
+"Giorgos Kyriakopoulos","Bologna","GRE","DF","FW",26,2,0,0,0,9
+"Giorgos Kyriakopoulos","Sassuolo","GRE","FW","DF",26,3,0,0,0,9
+"Sam Lammers","Sampdoria","NED","FW",NA,25,1,0,0,0,19
+"Sam Lammers","Empoli","NED","FW",NA,25,0,0,0,0,6
+"Kevin Lasagna","Hellas Verona","ITA","FW","MF",29,2,0,0,0,25
+"Armand Lauriente","Sassuolo","FRA","FW",NA,23,10,1,1,2,22
+"Valentino Lazaro","Torino","AUT","DF",NA,26,4,0,0,0,14
+"Marko Lazetić","Milan","SRB","FW",NA,18,1,0,0,0,0
+"Darko Lazović","Hellas Verona","SRB","MF","DF",31,0,0,0,0,8
+"Manuel Lazzari","Lazio","ITA","DF",NA,28,8,0,0,0,15
+"Rafael Leão","Milan","POR","FW","MF",23,7,1,1,2,20
+"Mehdi Léris","Sampdoria","ALG","MF","DF",24,13,0,0,0,52
+"Karol Linetty","Torino","POL","MF",NA,27,8,0,0,0,50
+"Marcin Listkowski","Lecce","POL","MF","FW",24,0,0,0,0,2
+"Diego Llorente","Roma","ESP","DF",NA,28,0,0,0,0,9
+"Stanislav Lobotka","Napoli","SVK","MF",NA,27,2,0,0,0,25
+"Manuel Locatelli","Juventus","ITA","MF",NA,24,8,0,0,0,44
+"Luka Lochoshvili","Cremonese","GEO","DF",NA,24,4,0,0,0,27
+"Ademola Lookman","Atalanta","NGA","FW","MF",24,3,0,0,0,24
+"Maxime Lopez","Sassuolo","FRA","MF",NA,24,11,0,0,0,31
+"Matteo Lovato","Salernitana","ITA","DF",NA,22,2,0,0,0,6
+"Sandi Lovrić","Udinese","SVN","MF",NA,24,4,0,0,0,31
+"Hirving Lozano","Napoli","MEX","FW",NA,27,3,0,0,0,27
+"Jhon Lucumí","Bologna","COL","DF",NA,24,8,0,0,0,29
+"José Luis Palomino","Atalanta","ARG","DF",NA,32,4,0,0,0,9
+"Romelu Lukaku","Inter","BEL","FW",NA,29,1,0,0,0,16
+"Saša Lukić","Torino","SRB","MF",NA,25,4,0,0,0,26
+"Sebastiano Luperto","Empoli","ITA","DF",NA,25,4,2,1,3,21
+"Charalambos Lykogiannis","Bologna","GRE","DF",NA,28,3,0,0,0,14
+"Giulio Maggiore","Salernitana","ITA","MF",NA,24,2,0,0,0,20
+"Giangiacomo Magnani","Hellas Verona","ITA","DF",NA,26,7,1,0,1,22
+"Mike Maignan","Milan","FRA","GK",NA,27,0,0,0,0,0
+"Jordan Majchrzak","Roma","POL","FW",NA,17,0,0,0,0,0
+"Jean-Victor Makengo","Udinese","FRA","MF",NA,24,2,0,0,0,9
+"Lorenzo Malagrida","Sampdoria","ITA","MF","DF",18,2,0,0,0,4
+"Daniel Maldini","Spezia","ITA","FW","MF",20,1,0,0,0,13
+"Youssef Maleh","Fiorentina","MAR","MF",NA,23,2,0,0,0,8
+"Youssef Maleh","Lecce","MAR","MF",NA,23,3,0,0,0,22
+"Ruslan Malinovskyi","Atalanta","UKR","MF","FW",29,2,0,0,0,10
+"Gianluca Mancini","Roma","ITA","DF",NA,26,7,0,0,0,39
+"Rolando Mandragora","Fiorentina","ITA","MF",NA,25,8,0,0,0,31
+"Riccardo Marchizza","Sassuolo","ITA","DF",NA,24,1,0,0,0,7
+"Gian Marco Ferrari","Sassuolo","ITA","DF",NA,30,5,0,0,0,24
+"Pablo Marí","Monza","ESP","DF",NA,28,4,0,0,0,31
+"Răzvan Marin","Empoli","ROU","MF",NA,26,7,0,0,0,31
+"Marlon","Monza","BRA","DF",NA,26,7,1,0,1,23
+"Luca Marrone","Monza","ITA","DF",NA,32,0,0,0,0,1
+"Lautaro Martínez","Inter","ARG","FW",NA,24,3,0,0,0,46
+"Lucas Martínez Quarta","Fiorentina","ARG","DF",NA,26,6,0,0,0,21
+"Adam Marušić","Lazio","MNE","DF",NA,29,8,1,0,1,22
+"Adam Masina","Udinese","MAR","DF",NA,28,2,0,0,0,11
+"Nemanja Matić","Roma","SRB","MF",NA,33,5,0,0,0,19
+"Pasquale Mazzocchi","Salernitana","ITA","DF",NA,27,2,0,0,0,27
+"Weston McKennie","Juventus","USA","MF","DF",23,0,0,0,0,13
+"Gary Medel","Bologna","CHI","MF","DF",34,5,0,0,0,19
+"Soualiho Meïté","Cremonese","FRA","MF",NA,28,5,0,0,0,27
+"Alex Meret","Napoli","ITA","GK",NA,25,0,0,0,0,0
+"Junior Messias","Milan","BRA","FW","DF",31,3,0,0,0,24
+"Tommaso Milanese","Cremonese","ITA","MF",NA,20,0,0,0,0,1
+"Nikola Milenković","Fiorentina","SRB","DF",NA,24,4,0,0,0,39
+"Arkadiusz Milik","Juventus","POL","FW",NA,28,3,1,1,2,27
+"Sergej Milinković-Savić","Lazio","SRB","MF",NA,27,10,0,0,0,45
+"Vanja Milinković-Savić","Torino","SRB","GK",NA,25,4,0,0,0,0
+"Kim Min-jae","Napoli","KOR","DF",NA,25,5,0,0,0,30
+"Aleksei Miranchuk","Torino","RUS","MF",NA,26,0,0,0,0,9
+"Fabio Miretti","Juventus","ITA","MF","FW",18,2,0,0,0,24
+"Filippo Missori","Roma","ITA","DF",NA,18,1,0,0,0,4
+"Henrikh Mkhitaryan","Inter","ARM","MF",NA,33,4,0,0,0,28
+"Salvatore Molina","Monza","ITA","DF",NA,30,1,0,0,0,4
+"Daniele Montevago","Sampdoria","ITA","FW",NA,19,1,0,0,0,8
+"Lorenzo Montipò","Hellas Verona","ITA","GK",NA,26,1,0,0,0,0
+"Nikola Moro","Bologna","CRO","MF",NA,24,1,0,0,0,15
+"Dany Mota","Monza","POR","FW","MF",24,2,0,0,0,20
+"João Moutinho","Spezia","POR","DF","FW",24,0,0,0,0,1
+"Luis Muriel","Atalanta","COL","FW","MF",31,2,2,1,3,18
+"Jeison Murillo","Sampdoria","COL","DF",NA,30,6,1,1,2,18
+"Nicola Murru","Sampdoria","ITA","DF",NA,27,3,0,0,0,15
+"Juan Musso","Atalanta","ARG","GK",NA,28,1,0,0,0,0
+"Joakim Mæhle","Atalanta","DEN","DF","MF",25,5,1,0,1,16
+"Michel Ndary Adopo","Torino","FRA","MF","DF",22,1,0,0,0,6
+"Tanguy Ndombele","Napoli","FRA","MF",NA,25,5,0,0,0,15
+"Ilija Nestorovski","Udinese","MKD","FW","MF",32,3,0,0,0,18
+"Cyril Ngonge","Hellas Verona","BEL","MF","FW",22,2,0,0,0,13
+"Hans Nicolussi Caviglia","Salernitana","ITA","MF",NA,22,2,0,0,0,13
+"Dimitris Nikolaou","Spezia","GRE","DF",NA,23,9,1,0,1,27
+"Bram Nuytinck","Udinese","NED","DF",NA,32,1,0,0,0,4
+"Bram Nuytinck","Sampdoria","NED","DF",NA,32,4,0,0,0,23
+"M'Bala Nzola","Spezia","ANG","FW",NA,25,8,0,0,0,57
+"Pedro Obiang","Sassuolo","EQG","MF",NA,30,2,0,0,0,16
+"Guillermo Ochoa","Salernitana","MEX","GK",NA,37,1,0,0,0,0
+"Marios Oikonomou","Sampdoria","GRE","DF",NA,29,3,0,0,0,3
+"David Okereke","Cremonese","NGA","FW","MF",24,4,0,0,0,21
+"Caleb Okoli","Atalanta","ITA","DF",NA,21,3,0,0,0,15
+"Mathías Olivera","Napoli","URU","DF",NA,24,2,0,0,0,21
+"André Onana","Inter","CMR","GK",NA,26,1,0,0,0,0
+"Divock Origi","Milan","BEL","FW",NA,27,1,0,0,0,13
+"Riccardo Orsolini","Bologna","ITA","FW",NA,25,8,2,1,3,39
+"Victor Osimhen","Napoli","NGA","FW",NA,23,4,0,0,0,40
+"Remi Oudin","Lecce","FRA","FW","MF",25,3,0,0,0,10
+"Adam Ounas","Napoli","ALG","FW",NA,25,0,0,0,0,0
+"Simone Pafundi","Udinese","ITA","MF","FW",16,0,0,0,0,0
+"Flavio Paoletti","Sampdoria","ITA","MF",NA,19,1,0,0,0,5
+"Leandro Paredes","Juventus","ARG","MF",NA,28,7,1,0,1,20
+"Fabiano Parisi","Empoli","ITA","DF",NA,21,10,1,0,1,34
+"Mario Pašalić","Atalanta","CRO","MF","FW",27,3,0,0,0,24
+"Patric","Lazio","ESP","DF",NA,29,1,0,0,0,3
+"Rui Patrício","Roma","POR","GK",NA,34,1,0,0,0,1
+"Pedro","Lazio","ESP","FW",NA,35,1,0,0,0,26
+"Pietro Pellegri","Torino","ITA","FW",NA,21,3,0,0,0,15
+"Lorenzo Pellegrini","Roma","ITA","MF",NA,26,5,0,0,0,25
+"Luca Pellegrini","Lazio","ITA","DF",NA,23,3,0,0,0,5
+"Pepín","Monza","EQG","MF",NA,25,4,0,0,0,19
+"Roberto Pereyra","Udinese","ARG","DF","MF",31,7,0,0,0,31
+"Nehuén Pérez","Udinese","ARG","DF",NA,22,7,1,0,1,29
+"Mattia Perin","Juventus","ITA","GK",NA,29,0,0,0,0,0
+"Samuele Perisan","Empoli","ITA","GK",NA,24,0,0,0,0,0
+"Matteo Pessina","Monza","ITA","MF",NA,25,6,0,0,0,41
+"Andrea Petagna","Monza","ITA","FW",NA,27,2,0,0,0,29
+"Giuseppe Pezzella","Lecce","ITA","DF",NA,24,2,0,0,0,16
+"Krzysztof Piątek","Salernitana","POL","FW",NA,27,5,0,0,0,39
+"Roberto Piccoli","Hellas Verona","ITA","FW",NA,21,0,0,0,0,2
+"Roberto Piccoli","Empoli","ITA","FW",NA,21,0,0,0,0,7
+"Charles Pickel","Cremonese","COD","MF",NA,25,8,1,0,1,34
+"Andrea Pinamonti","Sassuolo","ITA","FW",NA,23,3,1,0,1,21
+"Lorenzo Pirola","Salernitana","ITA","DF",NA,20,4,0,0,0,28
+"Marko Pjaca","Empoli","CRO","MF","FW",27,1,0,0,0,2
+"Tommaso Pobega","Milan","ITA","MF",NA,23,4,0,0,0,30
+"Paul Pogba","Juventus","FRA","MF","FW",29,0,0,0,0,2
+"Matteo Politano","Napoli","ITA","FW",NA,28,1,0,0,0,11
+"Marin Pongračić","Lecce","CRO","DF",NA,24,2,0,0,0,15
+"Stefan Posch","Bologna","AUT","DF",NA,25,6,0,0,0,47
+"Ivan Provedel","Lazio","ITA","GK",NA,28,1,0,0,0,0
+"Ignacio Pussetto","Sampdoria","ARG","MF","DF",26,1,0,0,0,7
+"Niklas Pyyhtiä","Bologna","FIN","MF",NA,18,0,0,0,0,0
+"Fabio Quagliarella","Sampdoria","ITA","FW",NA,39,2,0,0,0,4
+"Giacomo Quagliata","Cremonese","ITA","DF",NA,22,0,1,0,1,13
+"Adrien Rabiot","Juventus","FRA","MF",NA,27,9,0,0,0,45
+"Nemanja Radonjić","Torino","SRB","MF","FW",26,1,0,0,0,17
+"Ivan Radovanović","Salernitana","SRB","MF","DF",33,1,1,0,1,4
+"Ionuț Radu","Cremonese","ROU","GK",NA,25,0,0,0,0,0
+"Antonio Raimondo","Bologna","ITA","FW",NA,18,0,0,0,0,0
+"Luca Ranieri","Fiorentina","ITA","DF",NA,23,1,0,0,0,6
+"Andrea Ranocchia","Monza","ITA","DF",NA,34,0,0,0,0,2
+"Filippo Ranocchia","Monza","ITA","MF",NA,21,1,0,0,0,7
+"Giacomo Raspadori","Napoli","ITA","FW","MF",22,1,0,0,0,7
+"Nicola Ravaglia","Sampdoria","ITA","GK",NA,33,0,0,0,0,1
+"Ante Rebić","Milan","CRO","FW","MF",28,4,0,0,0,18
+"Arkadiusz Reca","Spezia","POL","DF",NA,27,5,0,0,0,32
+"Panagiotis Retsos","Hellas Verona","GRE","DF",NA,23,0,0,0,0,4
+"Samuele Ricci","Torino","ITA","MF",NA,20,6,0,0,0,22
+"Tomás Rincón","Sampdoria","VEN","MF",NA,34,7,1,0,1,58
+"Pablo Rodríguez","Lecce","ESP","FW","MF",20,0,0,0,0,1
+"Ricardo Rodríguez","Torino","SUI","DF",NA,29,3,0,0,0,25
+"Rogério","Sassuolo","BRA","DF",NA,24,5,1,0,1,30
+"Filippo Romagna","Sassuolo","ITA","DF",NA,25,0,0,0,0,0
+"Alessio Romagnoli","Lazio","ITA","DF",NA,27,6,0,0,0,35
+"Simone Romagnoli","Lecce","ITA","DF",NA,32,0,0,0,0,3
+"Luka Romero","Lazio","ARG","FW",NA,17,0,0,0,0,3
+"Marten de Roon","Atalanta","NED","MF",NA,31,7,0,0,0,46
+"Nicolò Rovella","Monza","ITA","MF",NA,20,5,1,0,1,26
+"Amir Rrahmani","Napoli","KVX","DF",NA,28,2,0,0,0,22
+"Ruan","Sassuolo","BRA","DF",NA,23,13,3,2,5,27
+"Daniele Rugani","Juventus","ITA","DF",NA,28,0,0,0,0,5
+"Matteo Ruggeri","Atalanta","ITA","DF","MF",20,3,0,0,0,10
+"Mário Rui","Napoli","POR","DF",NA,31,2,1,0,1,19
+"Abdelhamid Sabiri","Sampdoria","MAR","MF","FW",25,5,0,0,0,28
+"Alexis Saelemaekers","Milan","BEL","FW","DF",23,1,0,0,0,23
+"Jacopo Sala","Spezia","ITA","MF",NA,30,1,0,0,0,3
+"Lazar Samardzic","Udinese","SRB","MF",NA,20,1,0,0,0,26
+"Junior Sambia","Salernitana","FRA","DF",NA,25,3,0,0,0,11
+"Antonio Sanabria","Torino","PAR","FW",NA,26,4,0,0,0,33
+"Leandro Sanca","Spezia","GNB","FW","MF",22,0,0,0,0,0
+"Alex Sandro","Juventus","BRA","DF",NA,31,5,1,0,1,27
+"Nicola Sansone","Bologna","ITA","FW",NA,30,2,0,0,0,13
+"Riccardo Saponara","Fiorentina","ITA","FW",NA,30,4,0,0,0,14
+"Mouhamadou Sarr","Cremonese","SEN","GK",NA,25,0,0,0,0,0
+"Martin Satriano","Empoli","URU","FW",NA,21,4,0,0,0,20
+"Giorgio Scalvini","Atalanta","ITA","DF",NA,18,7,0,0,0,55
+"Jerdy Schouten","Bologna","NED","MF",NA,25,3,0,0,0,25
+"Perr Schuurs","Torino","NED","DF",NA,22,5,0,0,0,31
+"Demba Seck","Torino","SEN","MF","FW",21,0,0,0,0,8
+"Jacopo Segre","Torino","ITA","DF",NA,25,0,0,0,0,0
+"Vivaldo Semedo","Udinese","POR","FW","MF",17,0,0,0,0,1
+"Stefano Sensi","Monza","ITA","MF",NA,26,8,0,0,0,18
+"Luigi Sepe","Salernitana","ITA","GK",NA,31,3,0,0,0,1
+"Leonardo Sernicola","Cremonese","ITA","DF",NA,25,11,0,0,0,40
+"Stephan El Shaarawy","Roma","ITA","DF","MF",29,3,0,0,0,16
+"Eldor Shomurodov","Spezia","UZB","FW",NA,27,2,0,0,0,9
+"Eldor Shomurodov","Roma","UZB","FW",NA,27,0,0,0,0,1
+"Marco Silvestri","Udinese","ITA","GK",NA,31,0,0,0,0,0
+"Giovanni Simeone","Napoli","ARG","FW",NA,27,1,0,0,0,7
+"Wilfried Singo","Torino","CIV","DF",NA,21,8,0,0,0,42
+"Leo Skiri Østigård","Napoli","NOR","DF",NA,22,1,0,0,0,2
+"Łukasz Skorupski","Bologna","POL","GK",NA,31,4,0,0,0,1
+"Milan Škriniar","Inter","SVK","DF",NA,27,5,1,1,2,35
+"Chris Smalling","Roma","ENG","DF",NA,32,7,0,0,0,18
+"Ola Solbakken","Roma","NOR","MF","FW",23,2,0,0,0,6
+"Brandon Soppy","Udinese","FRA","DF",NA,20,1,0,0,0,2
+"Brandon Soppy","Atalanta","FRA","DF",NA,20,2,0,0,0,18
+"Roberto Soriano","Bologna","ITA","FW","MF",31,1,0,0,0,20
+"Joaquin Sosa","Bologna","URU","DF",NA,20,2,0,0,0,16
+"Riccardo Sottil","Fiorentina","ITA","FW",NA,23,1,0,0,0,4
+"Matìas Soulé","Juventus","ARG","MF","FW",19,0,0,0,0,3
+"Adama Soumaoro","Bologna","FRA","DF",NA,30,5,1,1,2,21
+"Leonardo Spinazzola","Roma","ITA","DF",NA,29,3,0,0,0,13
+"Marco Sportiello","Atalanta","ITA","GK",NA,30,0,0,0,0,0
+"Petar Stojanović","Empoli","SVN","DF",NA,26,3,0,0,0,12
+"Gabriel Strefezza","Lecce","BRA","FW","MF",25,5,0,0,0,51
+"Dávid Strelec","Spezia","SVK","FW",NA,21,0,0,0,0,4
+"Isaac Success","Udinese","NGA","FW",NA,26,4,0,0,0,34
+"Ibrahim Sulemana","Hellas Verona","GHA","MF",NA,19,4,0,0,0,11
+"Wojciech Szczęsny","Juventus","POL","GK",NA,32,0,0,0,0,0
+"Benjamin Tahirovic","Roma","BIH","MF",NA,19,1,0,0,0,5
+"Adrien Tameze","Hellas Verona","CMR","MF",NA,28,3,0,0,0,32
+"Ciprian Tătărușanu","Milan","ROU","GK",NA,36,0,0,0,0,0
+"Filippo Terracciano","Hellas Verona","ITA","DF","MF",19,2,0,0,0,7
+"Pietro Terracciano","Fiorentina","ITA","GK",NA,32,1,0,0,0,2
+"Aleksa Terzić","Fiorentina","SRB","DF",NA,22,2,0,0,0,4
+"Florian Thauvin","Udinese","FRA","FW","MF",29,1,0,0,0,9
+"Malick Thiaw","Milan","GER","DF",NA,20,5,0,0,0,14
+"Kristian Thorstvedt","Sassuolo","NOR","MF",NA,23,5,0,0,0,18
+"Jeremy Toljan","Sassuolo","GER","DF",NA,27,3,0,0,0,10
+"Rafael Tolói","Atalanta","ITA","DF",NA,31,8,0,0,0,38
+"Fikayo Tomori","Milan","ENG","DF",NA,24,5,0,0,0,28
+"Sandro Tonali","Milan","ITA","MF",NA,22,7,0,0,0,35
+"William Troost-Ekong","Salernitana","NGA","DF",NA,28,1,0,0,0,7
+"Frank Tsadjout","Cremonese","ITA","FW",NA,23,1,0,0,0,22
+"Alessandro Tuia","Lecce","ITA","DF",NA,32,1,0,0,0,9
+"Martin Turk","Sampdoria","SVN","GK",NA,18,0,0,0,0,0
+"Destiny Udogie","Udinese","ITA","DF",NA,19,5,0,0,0,37
+"Samuel Umtiti","Lecce","FRA","DF",NA,28,8,0,0,0,32
+"Diego Valencia","Salernitana","CHI","MF","FW",22,1,0,0,0,8
+"Emanuele Valeri","Cremonese","ITA","DF",NA,23,3,0,0,0,27
+"Mattia Valoti","Monza","ITA","MF","FW",28,1,0,0,0,16
+"Johan Vásquez","Cremonese","MEX","DF",NA,23,7,0,0,0,21
+"Matías Vecino","Lazio","URU","MF",NA,30,6,0,0,0,27
+"Miguel Veloso","Hellas Verona","POR","MF",NA,36,6,0,0,0,20
+"Lorenzo Venuti","Fiorentina","ITA","DF",NA,27,2,0,0,0,7
+"Daniele Verde","Spezia","ITA","FW","MF",26,1,0,0,0,2
+"Simone Verdi","Hellas Verona","ITA","MF","FW",30,3,0,0,0,15
+"Valerio Verre","Sampdoria","ITA","MF",NA,28,5,0,0,0,14
+"Guglielmo Vicario","Empoli","ITA","GK",NA,25,3,0,0,0,0
+"Ronaldo Vieira","Torino","ENG","MF",NA,24,0,0,0,0,1
+"Ronaldo Vieira","Sampdoria","ENG","MF",NA,24,3,0,0,0,21
+"Emanuel Vignato","Bologna","ITA","MF","FW",21,1,0,0,0,3
+"Emanuel Vignato","Empoli","ITA","MF","FW",21,0,0,0,0,1
+"Samuele Vignato","Monza","ITA","MF","FW",18,0,0,0,0,0
+"Tonny Vilhena","Salernitana","NED","MF",NA,27,5,0,0,0,34
+"Gonzalo Villar","Sampdoria","ESP","MF",NA,24,2,0,0,0,17
+"Matías Viña","Roma","URU","DF",NA,24,0,0,0,0,4
+"Dušan Vlahović","Juventus","SRB","FW",NA,22,1,0,0,0,19
+"Nikola Vlašić","Torino","CRO","MF","FW",24,1,0,0,0,32
+"Joel Voelkerling Persson","Lecce","SWE","FW","MF",19,0,0,0,0,3
+"Mërgim Vojvoda","Torino","KVX","DF",NA,27,3,0,0,0,19
+"Cristian Volpato","Roma","ITA","MF",NA,18,0,0,0,0,7
+"Lukáš Vorlický","Atalanta","CZE","MF","FW",20,0,0,0,0,0
+"Aster Vranckx","Milan","BEL","MF",NA,19,1,0,0,0,6
+"Stefan de Vrij","Inter","NED","DF",NA,30,4,0,0,0,15
+"Walace","Udinese","BRA","MF",NA,27,6,0,0,0,40
+"Sebastian Walukiewicz","Empoli","POL","DF",NA,22,0,0,0,0,5
+"Georginio Wijnaldum","Roma","NED","MF",NA,31,0,0,0,0,3
+"Harry Winks","Sampdoria","ENG","MF",NA,26,2,0,0,0,15
+"Przemysław Wiśniewski","Spezia","POL","DF",NA,24,3,0,0,0,13
+"Gerard Yepes","Sampdoria","ESP","MF",NA,19,2,0,0,0,7
+"Mattia Zaccagni","Lazio","ITA","FW",NA,27,9,0,0,0,53
+"Nicola Zalewski","Roma","POL","DF",NA,20,3,0,0,0,22
+"Andre-Frank Zambo Anguissa","Napoli","CMR","MF",NA,26,3,0,0,0,44
+"Luca Zanimacchia","Cremonese","ITA","MF","FW",24,2,0,0,0,9
+"Nicolò Zaniolo","Roma","ITA","MF","FW",23,4,0,0,0,22
+"Alessandro Zanoli","Sampdoria","ITA","DF",NA,21,3,0,0,0,4
+"Alessandro Zanoli","Napoli","ITA","DF",NA,21,0,0,0,0,0
+"Mattia Zanotti","Inter","ITA","DF",NA,19,0,0,0,0,2
+"Duván Zapata","Atalanta","COL","FW",NA,31,1,0,0,0,17
+"Davide Zappacosta","Atalanta","ITA","DF",NA,30,4,0,0,0,18
+"Karim Zedadka","Napoli","FRA","FW",NA,22,0,0,0,0,0
+"Marvin Zeegelaar","Udinese","NED","DF",NA,31,3,1,1,2,13
+"Alessio Zerbin","Napoli","ITA","FW",NA,23,1,0,0,0,9
+"Piotr Zieliński","Napoli","POL","MF",NA,28,3,0,0,0,21
+"David Zima","Torino","CZE","DF",NA,21,0,0,0,0,4
+"Joshua Zirkzee","Bologna","NED","FW",NA,21,1,0,0,0,8
+"Nadir Zortea","Atalanta","ITA","DF","MF",23,1,0,0,0,4
+"Nadir Zortea","Sassuolo","ITA","DF",NA,23,4,0,0,0,11
+"Szymon Żurkowski","Fiorentina","POL","MF",NA,24,0,0,0,0,1
+"Szymon Żurkowski","Spezia","POL","MF",NA,24,1,0,0,0,15
+"Milan Đurić","Hellas Verona","BIH","FW",NA,32,3,0,0,0,24
+"Filip Đuričić","Sampdoria","SRB","MF","FW",30,9,0,0,0,38
