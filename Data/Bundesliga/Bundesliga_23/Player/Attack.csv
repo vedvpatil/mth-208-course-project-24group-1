@@ -1,0 +1,558 @@
+"Player","Squad","Nation","Pos","Pos2","Age","Assists","Goals+Assists","Penalty_Attempted","Penalty_Scored","Shots","Shots_on_Target","Shots_on_Target_Percentage","Goals_per_Shot","Goals_per_Shot_on_Target","Average_Shot_Distance","Free_Kick_Shots","Shot_Creating_Actions","Live_Pass_Shot_Creation","Other_Type_Shot_Creation","Goal_Creating_Actions","Live_Pass_Goal_Creation","Other_Type_Goal_Creation"
+"Aarón Martín","Mainz 05","ESP","DF",NA,25,3,8,1,0,18,7,38.9,0.28,0.71,25.9,8,59,39,20,5,4,1
+"Aaron Zehnter","Augsburg","GER","DF",NA,17,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Abdou Diallo","RB Leipzig","SEN","DF","MF",26,0,1,0,0,4,1,25,0.25,1,8,0,5,5,0,0,0,0
+"Adam Hložek","Leverkusen","CZE","FW","MF",20,3,8,0,0,30,11,36.7,0.17,0.45,16.9,2,39,30,9,8,6,2
+"Agustín Rogel","Hertha BSC","URU","DF",NA,24,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,7,5,2,1,0,1
+"Aïssa Laïdouni","Union Berlin","TUN","MF",NA,25,0,2,0,0,6,2,33.3,0.33,1,16.4,0,20,9,11,3,0,3
+"Alassane Pléa","Gladbach","FRA","FW",NA,29,9,11,2,1,27,11,40.7,0.04,0.09,18.6,1,67,56,11,12,11,1
+"Alex Král","Schalke 04","CZE","MF",NA,24,0,0,0,0,32,2,6.3,0,0,20.1,0,53,45,8,2,2,0
+"Alexander Hack","Mainz 05","GER","DF",NA,28,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,11,11,0,0,0,0
+"Alexander Meyer","Dortmund","GER","GK",NA,31,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Alexander Schwolow","Schalke 04","GER","GK",NA,30,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,10,4,6,0,0,0
+"Alexander Sørloth","RB Leipzig","NOR","FW",NA,26,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Almamy Touré","Eint Frankfurt","MLI","DF",NA,26,1,1,0,0,3,1,33.3,0,0,14,0,5,4,1,2,2,0
+"Alou Kuol","Stuttgart","AUS","FW",NA,21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Alphonso Davies","Bayern Munich","CAN","DF",NA,21,4,5,0,0,19,8,42.1,0.05,0.13,18.6,0,88,76,12,8,7,1
+"Amadou Haidara","RB Leipzig","MLI","MF",NA,24,1,3,0,0,19,6,31.6,0.11,0.33,23.7,0,36,29,7,7,5,2
+"Amine Adli","Leverkusen","MAR","FW","MF",22,3,8,0,0,37,17,45.9,0.14,0.29,14,1,56,36,20,11,6,5
+"Amos Pieper","Werder Bremen","GER","DF",NA,24,1,3,0,0,11,4,36.4,0.18,0.5,13,0,19,17,2,2,2,0
+"András Schäfer","Union Berlin","HUN","MF",NA,23,0,0,0,0,7,1,14.3,0,0,23.5,0,10,8,2,2,1,1
+"André Hahn","Augsburg","GER","FW","MF",31,0,2,0,0,7,2,28.6,0.29,1,21.4,0,3,3,0,1,1,0
+"André Silva","RB Leipzig","POR","FW",NA,26,3,7,0,0,60,22,36.7,0.07,0.18,13.5,0,63,46,17,10,7,3
+"Andreas Hanche-Olsen","Mainz 05","NOR","DF",NA,25,3,4,0,0,7,2,28.6,0.14,0.5,13.5,0,8,6,2,2,1,1
+"Andreas Ivan","Schalke 04","ROU","MF",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Andrej Kramarić","Hoffenheim","CRO","MF","FW",31,4,16,6,4,57,21,36.8,0.14,0.38,18,4,89,71,18,12,9,3
+"Andrey Lunyov","Leverkusen","RUS","GK",NA,30,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Angeliño","Hoffenheim","ESP","DF",NA,25,8,8,0,0,21,4,19,0,0,20.5,4,88,61,27,10,8,2
+"Angelo Fulgini","Mainz 05","FRA","MF",NA,25,1,1,0,0,8,4,50,0,0,18.6,0,18,17,1,1,1,0
+"Angelo Stiller","Hoffenheim","GER","MF",NA,21,1,2,0,0,7,3,42.9,0.14,0.33,22.1,0,16,14,2,3,3,0
+"Ansgar Knauff","Eint Frankfurt","GER","DF",NA,20,1,2,0,0,15,7,46.7,0.07,0.14,19.7,0,24,18,6,4,2,2
+"Anthony Caci","Mainz 05","FRA","DF",NA,25,1,3,0,0,10,4,40,0.2,0.5,16.1,0,50,34,16,5,4,1
+"Anthony Jung","Werder Bremen","GER","DF","FW",30,5,7,0,0,17,6,35.3,0.12,0.33,17,0,40,37,3,7,7,0
+"Anthony Losilla","Bochum","FRA","MF",NA,36,2,4,0,0,27,8,29.6,0.07,0.25,17.2,0,41,32,9,6,5,1
+"Anthony Modeste","Dortmund","FRA","FW",NA,34,1,3,0,0,23,10,43.5,0.09,0.2,11.1,0,12,10,2,1,1,0
+"Anton Stach","Mainz 05","GER","MF",NA,23,4,5,0,0,36,10,27.8,0.03,0.1,22.6,4,59,36,23,6,4,2
+"Antonios Papadopoulos","Dortmund","GER","DF",NA,22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Arijon Ibrahimović","Bayern Munich","GER","MF",NA,16,0,0,0,0,2,2,100,0,0,6.9,0,1,1,0,0,0,0
+"Arne Engels","Augsburg","BEL","MF",NA,18,3,3,0,0,17,2,11.8,0,0,26.8,2,47,22,25,8,5,3
+"Arne Maier","Augsburg","GER","MF",NA,23,1,6,0,0,28,10,35.7,0.18,0.5,21.1,3,42,25,17,5,2,3
+"Aster Vranckx","Wolfsburg","BEL","MF",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Atakan Karazor","Stuttgart","GER","MF",NA,25,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,25,21,4,3,3,0
+"Aurélio Buta","Eint Frankfurt","POR","DF",NA,25,2,5,0,0,9,4,44.4,0.33,0.75,16.7,0,31,30,1,4,4,0
+"Ayman Azhil","Leverkusen","MAR","MF",NA,21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Aymen Barkok","Mainz 05","MAR","MF",NA,24,1,1,0,0,11,2,18.2,0,0,23.3,0,18,13,5,1,1,0
+"Bartol Franjić","Wolfsburg","CRO","MF",NA,22,1,1,0,0,2,2,100,0,0,11.6,0,3,2,1,2,1,1
+"Benjamin Henrichs","RB Leipzig","GER","DF","MF",25,2,4,0,0,31,4,12.9,0.06,0.5,21.3,0,55,41,14,5,5,0
+"Benjamin Pavard","Bayern Munich","FRA","DF",NA,26,1,5,0,0,34,12,35.3,0.12,0.33,18.3,0,45,37,8,3,2,1
+"Benno Schmitz","Köln","GER","DF",NA,27,0,1,0,0,10,2,20,0.1,0.5,19.5,0,52,42,10,4,4,0
+"Borna Sosa","Stuttgart","CRO","DF",NA,24,7,9,0,0,15,6,40,0.13,0.33,20.7,6,109,70,39,10,9,1
+"Bouna Sarr","Bayern Munich","SEN","FW",NA,30,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Brajan Gruda","Mainz 05","GER","MF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Callum Hudson-Odoi","Leverkusen","ENG","FW","MF",21,1,1,0,0,4,1,25,0,0,20.4,0,26,19,7,2,2,0
+"Carlos Gruezo","Augsburg","ECU","MF",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,12,12,0,4,4,0
+"Cédric Brunner","Schalke 04","SUI","DF",NA,28,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,37,22,15,1,0,1
+"Charles Aránguiz","Leverkusen","CHI","MF",NA,33,0,1,0,0,5,2,40,0.2,0.5,18.5,0,10,10,0,0,0,0
+"Chidera Ejuke","Hertha BSC","NGA","FW","MF",24,3,3,0,0,24,5,20.8,0,0,21.1,0,41,28,13,5,5,0
+"Chris Führich","Stuttgart","GER","FW","MF",24,2,7,1,1,43,13,30.2,0.09,0.31,18.5,0,79,52,27,9,7,2
+"Christian Groß","Werder Bremen","GER","MF",NA,33,1,2,0,0,5,1,20,0.2,1,26,0,23,20,3,1,1,0
+"Christian Günter","Freiburg","GER","DF","MF",29,4,5,0,0,27,7,25.9,0.04,0.14,21.8,0,101,61,40,8,6,2
+"Christoph Baumgartner","Hoffenheim","AUT","MF","FW",22,3,10,0,0,66,19,28.8,0.11,0.37,15.7,0,89,60,29,12,5,7
+"Christoph Kramer","Gladbach","GER","MF",NA,31,0,0,0,0,6,1,16.7,0,0,22.1,0,39,34,5,2,2,0
+"Christopher Antwi-Adjei","Bochum","GHA","FW","MF",28,6,9,0,0,29,8,27.6,0.1,0.38,20.6,0,79,46,33,12,7,5
+"Christopher Lenz","Eint Frankfurt","GER","DF",NA,27,2,2,0,0,12,2,16.7,0,0,23.4,1,41,25,16,5,4,1
+"Christopher Nkunku","RB Leipzig","FRA","FW","MF",24,4,20,4,3,70,25,35.7,0.19,0.52,15.9,7,98,62,36,14,7,7
+"Christopher Trimmel","Union Berlin","AUT","DF",NA,35,6,6,0,0,14,3,21.4,0,0,17.8,1,59,31,28,7,0,7
+"Clinton Mola","Stuttgart","ENG","DF",NA,21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Cristian Gamboa","Bochum","CRC","DF",NA,32,0,0,0,0,8,1,12.5,0,0,29.6,0,28,20,8,2,0,2
+"Daichi Kamada","Eint Frankfurt","JPN","MF",NA,25,6,15,3,3,41,11,26.8,0.15,0.55,16.6,4,85,67,18,17,13,4
+"Daley Blind","Bayern Munich","NED","DF","MF",32,0,0,0,0,1,1,100,0,0,24.8,0,4,4,0,0,0,0
+"Daley Sinkgraven","Leverkusen","NED","DF","MF",27,2,2,0,0,4,1,25,0,0,18.9,0,9,7,2,3,2,1
+"Dan-Axel Zagadou","Stuttgart","FRA","DF",NA,23,0,0,0,0,13,3,23.1,0,0,11.1,0,14,12,2,1,0,1
+"Dani Olmo","RB Leipzig","ESP","MF","FW",24,5,7,0,0,43,16,37.2,0.05,0.13,21.6,0,64,51,13,11,5,6
+"Daniel Caligiuri","Augsburg","ITA","DF","MF",34,0,1,0,0,6,2,33.3,0.17,0.5,19.8,0,10,3,7,1,0,1
+"Daniel Kyereh","Freiburg","GHA","MF","FW",26,0,2,0,0,11,5,45.5,0.18,0.4,14.9,0,10,9,1,1,1,0
+"Danilho Doekhi","Union Berlin","NED","DF",NA,24,1,6,0,0,17,9,52.9,0.29,0.56,11.6,0,21,19,2,3,2,1
+"Danilo Soares","Bochum","BRA","DF",NA,30,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,34,30,4,2,2,0
+"Danny da Costa","Mainz 05","GER","DF",NA,29,2,2,0,0,7,1,14.3,0,0,14.1,0,32,23,9,4,2,2
+"Danny Latza","Schalke 04","GER","MF",NA,32,1,1,0,0,16,2,12.5,0,0,19,1,15,6,9,0,0,0
+"Dario Gebuhr","Eint Frankfurt","GER","DF",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Darko Churlinov","Stuttgart","MKD","FW",NA,22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"David Čolina","Augsburg","CRO","DF","FW",22,0,1,0,0,1,1,100,1,1,8.4,0,5,3,2,0,0,0
+"David Raum","RB Leipzig","GER","DF","MF",24,2,2,0,0,14,5,35.7,0,0,23.1,0,57,28,29,3,2,1
+"Davie Selke","Köln","GER","FW",NA,27,0,5,0,0,5,3,60,0,0,17.6,0,22,15,7,1,0,1
+"Davie Selke","Köln","GER","FW",NA,27,0,5,0,0,5,3,60,0,0,17.6,0,8,4,4,3,1,2
+"Davie Selke","Köln","GER","FW",NA,27,0,5,0,0,28,15,53.6,0.18,0.33,11.5,0,22,15,7,1,0,1
+"Davie Selke","Köln","GER","FW",NA,27,0,5,0,0,28,15,53.6,0.18,0.33,11.5,0,8,4,4,3,1,2
+"Davie Selke","Hertha BSC","GER","FW",NA,27,1,2,1,1,5,3,60,0,0,17.6,0,22,15,7,1,0,1
+"Davie Selke","Hertha BSC","GER","FW",NA,27,1,2,1,1,5,3,60,0,0,17.6,0,8,4,4,3,1,2
+"Davie Selke","Hertha BSC","GER","FW",NA,27,1,2,1,1,28,15,53.6,0.18,0.33,11.5,0,22,15,7,1,0,1
+"Davie Selke","Hertha BSC","GER","FW",NA,27,1,2,1,1,28,15,53.6,0.18,0.33,11.5,0,8,4,4,3,1,2
+"Dayot Upamecano","Bayern Munich","FRA","DF",NA,23,1,1,0,0,7,1,14.3,0,0,9,0,23,22,1,3,3,0
+"Dejan Ljubicic","Köln","AUT","MF","FW",24,1,6,1,1,34,14,41.2,0.12,0.29,22.1,0,56,47,9,6,6,0
+"Delano Burgzorg","Mainz 05","SUR","FW","MF",23,1,1,0,0,4,2,50,0,0,25.1,0,5,2,3,2,1,1
+"Denis Huseinbasic","Köln","BIH","MF","FW",21,1,5,0,0,16,4,25,0.25,1,14.1,0,15,8,7,1,1,0
+"Dennis Geiger","Hoffenheim","GER","MF",NA,24,3,4,0,0,5,3,60,0.2,0.33,24.7,0,57,38,19,7,6,1
+"Derry Scherhant","Hertha BSC","GER","FW","MF",19,0,1,0,0,4,1,25,0.25,1,15.9,0,4,1,3,1,0,1
+"Diadie Samassékou","Hoffenheim","MLI","MF","FW",26,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Diant Ramaj","Eint Frankfurt","GER","GK",NA,20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Dikeni-Rafid Salifou","Werder Bremen","TOG","MF",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Dimitris Limnios","Köln","GRE","FW",NA,24,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,1,1,0,0,0
+"Diogo Leite","Union Berlin","POR","DF",NA,23,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,20,15,5,4,3,1
+"Dion Drena Beljo","Augsburg","CRO","FW",NA,20,2,5,0,0,13,5,38.5,0.23,0.6,15.2,0,25,20,5,5,3,2
+"Djibril Sow","Eint Frankfurt","SUI","MF",NA,25,0,4,0,0,28,10,35.7,0.14,0.4,24.8,0,49,40,9,3,1,2
+"Dodi Lukebakio","Hertha BSC","BEL","FW","MF",24,3,14,5,5,59,22,37.3,0.1,0.27,20.3,1,85,48,37,9,5,4
+"Dominick Drexler","Schalke 04","GER","MF","FW",32,3,7,0,0,16,6,37.5,0.25,0.67,14.6,0,46,34,12,5,4,1
+"Dominik Kohr","Mainz 05","GER","MF",NA,28,0,3,0,0,39,8,20.5,0.08,0.38,20.5,0,54,42,12,4,2,2
+"Dominik Szoboszlai","RB Leipzig","HUN","MF","FW",21,8,14,1,1,58,28,48.3,0.09,0.18,23.2,9,150,94,56,17,11,6
+"Dominique Heintz","Bochum","GER","DF",NA,28,0,0,0,0,4,1,25,0,0,17.4,0,8,7,1,1,1,0
+"Donyell Malen","Dortmund","NED","FW",NA,23,6,15,0,0,64,30,46.9,0.14,0.3,15.9,3,80,50,30,14,9,5
+"Dženan Pejčinović","Wolfsburg","GER","FW",NA,17,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Éder Álvarez Balanta","Schalke 04","COL","MF","FW",29,0,0,0,0,1,1,100,0,0,17.5,0,8,6,2,1,1,0
+"Edimilson Fernandes","Mainz 05","SUI","DF",NA,26,3,3,0,0,15,3,20,0,0,25,4,36,18,18,5,1,4
+"Edmond Tapsoba","Leverkusen","BFA","DF",NA,23,0,1,2,1,13,1,7.7,0,0,14.9,0,31,28,3,5,4,1
+"Eduardo Quaresma","Hoffenheim","POR","DF",NA,20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,1,1,0,0,0
+"Ellyes Skhiri","Köln","TUN","MF",NA,27,1,8,0,0,32,11,34.4,0.22,0.64,15.3,0,56,48,8,5,5,0
+"Elvis Rexhbeçaj","Augsburg","KVX","MF",NA,24,0,0,0,0,16,5,31.3,0,0,27,0,39,31,8,0,0,0
+"Emil Forsberg","RB Leipzig","SWE","MF","FW",30,4,10,2,2,21,9,42.9,0.19,0.44,18.1,1,39,28,11,7,5,2
+"Emre Can","Dortmund","GER","MF",NA,28,1,3,1,1,15,2,13.3,0.07,0.5,22.3,0,46,43,3,3,3,0
+"Eniss Shabani","Mainz 05","ALB","MF",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Enzo Millot","Stuttgart","FRA","MF",NA,20,1,1,0,0,17,7,41.2,0,0,18,1,34,21,13,3,2,1
+"Eren Dinkçi","Werder Bremen","GER","FW","MF",20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,8,5,3,1,1,0
+"Erhan Mašović","Bochum","SRB","DF","MF",23,0,4,0,0,17,10,58.8,0.24,0.4,14,1,18,15,3,0,0,0
+"Eric Martel","Köln","GER","MF",NA,20,1,2,0,0,28,8,28.6,0.04,0.13,20.6,0,30,23,7,1,1,0
+"Eric Maxim Choupo-Moting","Bayern Munich","CMR","FW",NA,33,2,12,1,0,30,15,50,0.33,0.67,12.6,0,42,33,9,5,5,0
+"Ermedin Demirović","Augsburg","BIH","FW","MF",24,4,12,1,1,63,23,36.5,0.11,0.3,15.2,0,57,43,14,8,4,4
+"Ermin Bičakčić","Hoffenheim","BIH","DF",NA,32,0,0,0,0,2,1,50,0,0,11.5,0,1,0,1,0,0,0
+"Exequiel Palacios","Leverkusen","ARG","MF",NA,23,2,6,3,3,17,4,23.5,0.06,0.25,26.3,0,51,44,7,5,5,0
+"Fabian Bredlow","Stuttgart","GER","GK",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Fabio Chiarodia","Werder Bremen","ITA","DF",NA,17,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Faride Alidou","Eint Frankfurt","GER","DF","MF",21,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,8,7,1,1,1,0
+"Felix Agu","Werder Bremen","GER","DF","FW",22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,3,1,0,0,0
+"Felix Nmecha","Wolfsburg","GER","MF",NA,21,5,8,0,0,37,9,24.3,0.08,0.33,17.1,0,50,38,12,7,6,1
+"Felix Passlack","Dortmund","GER","DF",NA,24,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,6,4,2,1,1,0
+"Filip Kostić","Eint Frankfurt","SRB","DF","MF",29,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,0
+"Filip Uremović","Hertha BSC","CRO","DF",NA,25,0,0,0,0,9,3,33.3,0,0,12.7,0,9,7,2,0,0,0
+"Finn Dahmen","Mainz 05","GER","GK",NA,24,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,3,0,0,0,0
+"Finn Ole Becker","Hoffenheim","GER","MF",NA,22,0,0,0,0,6,2,33.3,0,0,24,0,11,8,3,2,2,0
+"Fisnik Asllani","Hoffenheim","KVX","FW",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,8,6,2,1,1,0
+"Florent Mollet","Schalke 04","FRA","MF",NA,30,0,1,0,0,11,1,9.1,0.09,1,22.1,2,14,11,3,0,0,0
+"Florian Dietz","Köln","GER","FW",NA,23,0,1,0,0,17,6,35.3,0.06,0.17,11.9,0,6,3,3,0,0,0
+"Florian Flick","Schalke 04","GER","MF",NA,22,0,0,0,0,2,1,50,0,0,24.9,0,7,6,1,0,0,0
+"Florian Kainz","Köln","AUT","MF","FW",29,10,16,3,3,51,19,37.3,0.06,0.16,22.2,6,127,67,60,17,13,4
+"Florian Müller","Stuttgart","GER","GK",NA,24,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,3,1,0,0,0
+"Florian Neuhaus","Gladbach","GER","MF",NA,25,0,1,0,0,28,6,21.4,0.04,0.17,21.6,0,46,40,6,4,4,0
+"Florian Niederlechner","Augsburg","GER","FW","MF",31,1,5,0,0,28,15,53.6,0.14,0.27,15.7,0,18,10,8,3,2,1
+"Florian Niederlechner","Augsburg","GER","FW","MF",31,1,5,0,0,28,15,53.6,0.14,0.27,15.7,0,15,11,4,2,2,0
+"Florian Niederlechner","Augsburg","GER","FW","MF",31,1,5,0,0,21,7,33.3,0.05,0.14,15.1,0,18,10,8,3,2,1
+"Florian Niederlechner","Augsburg","GER","FW","MF",31,1,5,0,0,21,7,33.3,0.05,0.14,15.1,0,15,11,4,2,2,0
+"Florian Niederlechner","Hertha BSC","GER","FW",NA,31,0,1,0,0,28,15,53.6,0.14,0.27,15.7,0,18,10,8,3,2,1
+"Florian Niederlechner","Hertha BSC","GER","FW",NA,31,0,1,0,0,28,15,53.6,0.14,0.27,15.7,0,15,11,4,2,2,0
+"Florian Niederlechner","Hertha BSC","GER","FW",NA,31,0,1,0,0,21,7,33.3,0.05,0.14,15.1,0,18,10,8,3,2,1
+"Florian Niederlechner","Hertha BSC","GER","FW",NA,31,0,1,0,0,21,7,33.3,0.05,0.14,15.1,0,15,11,4,2,2,0
+"Florian Wirtz","Leverkusen","GER","FW","MF",19,6,7,0,0,7,4,57.1,0.14,0.25,18.6,0,64,47,17,8,7,1
+"Frederik Rønnow","Union Berlin","DEN","GK",NA,29,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,7,7,0,1,1,0
+"Frederik Winther","Augsburg","DEN","DF",NA,21,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,1,0
+"Fredrik Jensen","Augsburg","FIN","FW","MF",24,1,3,0,0,11,3,27.3,0.18,0.67,16.6,0,20,17,3,1,1,0
+"Gabriel Vidovic","Bayern Munich","CRO","FW",NA,18,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,2,2,0,1,1,0
+"Genki Haraguchi","Stuttgart","JPN","MF",NA,31,2,2,0,0,5,1,20,0,0,24.8,1,22,19,3,2,2,0
+"Genki Haraguchi","Stuttgart","JPN","MF",NA,31,2,2,0,0,5,1,20,0,0,24.8,1,21,17,4,1,1,0
+"Genki Haraguchi","Stuttgart","JPN","MF",NA,31,2,2,0,0,6,1,16.7,0,0,21.4,0,22,19,3,2,2,0
+"Genki Haraguchi","Stuttgart","JPN","MF",NA,31,2,2,0,0,6,1,16.7,0,0,21.4,0,21,17,4,1,1,0
+"Genki Haraguchi","Union Berlin","JPN","MF",NA,31,0,0,0,0,5,1,20,0,0,24.8,1,22,19,3,2,2,0
+"Genki Haraguchi","Union Berlin","JPN","MF",NA,31,0,0,0,0,5,1,20,0,0,24.8,1,21,17,4,1,1,0
+"Genki Haraguchi","Union Berlin","JPN","MF",NA,31,0,0,0,0,6,1,16.7,0,0,21.4,0,22,19,3,2,2,0
+"Genki Haraguchi","Union Berlin","JPN","MF",NA,31,0,0,0,0,6,1,16.7,0,0,21.4,0,21,17,4,1,1,0
+"Georginio Rutter","Hoffenheim","FRA","FW",NA,20,2,4,0,0,27,14,51.9,0.07,0.14,15.7,0,37,22,15,4,2,2
+"Gerrit Holtmann","Bochum","PHI","FW","MF",27,1,2,0,0,30,14,46.7,0.03,0.07,19.6,0,22,16,6,1,1,0
+"Gil Bastião Dias","Stuttgart","POR","FW",NA,25,0,1,0,0,10,4,40,0.1,0.25,20.2,0,12,9,3,1,1,0
+"Gio Reyna","Dortmund","USA","FW","MF",19,2,9,1,1,24,11,45.8,0.25,0.55,15.1,1,28,24,4,5,3,2
+"Gregor Kobel","Dortmund","SUI","GK",NA,24,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,4,0,0,0,0
+"Grischa Prömel","Hoffenheim","GER","MF",NA,27,1,2,0,0,24,5,20.8,0.04,0.2,16.2,0,20,12,8,1,1,0
+"Hannes Wolf","Gladbach","AUT","FW",NA,23,1,2,0,0,8,3,37.5,0.13,0.33,13.8,0,13,10,3,1,1,0
+"Henning Matriciani","Schalke 04","GER","DF",NA,22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,21,16,5,4,3,1
+"Hiroki Ito","Stuttgart","JPN","DF",NA,23,1,2,0,0,21,7,33.3,0.05,0.14,32.9,2,49,32,17,4,4,0
+"Hrvoje Smolčić","Eint Frankfurt","CRO","DF",NA,21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Hugo Novoa","RB Leipzig","ESP","DF","FW",19,0,1,0,0,3,2,66.7,0.33,0.5,13.2,0,2,2,0,0,0,0
+"Hugo Siquet","Freiburg","BEL","DF",NA,20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Iago","Augsburg","BRA","DF","MF",25,2,2,0,0,NA,NA,NA,NA,NA,NA,NA,40,27,13,6,6,0
+"Ibrahim Maza","Hertha BSC","GER","MF","FW",16,0,1,0,0,1,1,100,1,1,7.2,0,1,0,1,0,0,0
+"Ihlas Bebou","Hoffenheim","TOG","FW","DF",28,0,7,1,1,28,13,46.4,0.21,0.46,15,0,45,30,15,5,2,3
+"Ilia Gruev","Werder Bremen","BUL","MF",NA,22,0,0,0,0,6,1,16.7,0,0,22.5,0,24,19,5,3,3,0
+"Irvin Cardona","Augsburg","FRA","MF","FW",24,0,1,0,0,9,4,44.4,0.11,0.25,13.9,0,5,4,1,1,0,1
+"Ivan Ordets","Bochum","UKR","DF",NA,30,0,0,0,0,17,1,5.9,0,0,11.7,0,22,15,7,2,0,2
+"Ivan Šunjić","Hertha BSC","CRO","MF",NA,25,0,0,0,0,6,3,50,0,0,16.8,0,17,14,3,2,2,0
+"Jacek Góralski","Bochum","POL","MF",NA,29,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,2,1,0,0,0
+"Jacob Bruun Larsen","Hoffenheim","DEN","FW",NA,23,0,1,0,0,7,2,28.6,0.14,0.5,14.9,0,12,11,1,0,0,0
+"Jakub Kamiński","Wolfsburg","POL","FW","DF",20,2,6,0,0,39,14,35.9,0.1,0.29,15.9,0,69,61,8,14,14,0
+"Jamal Musiala","Bayern Munich","GER","MF","FW",19,10,22,0,0,66,25,37.9,0.18,0.48,15.8,0,120,90,30,26,18,8
+"Jamie Gittens","Dortmund","ENG","FW","MF",17,1,4,0,0,24,11,45.8,0.13,0.27,17.6,0,21,11,10,9,7,2
+"Jamie Leweling","Union Berlin","GER","FW","MF",21,1,2,0,0,9,5,55.6,0.11,0.2,16.7,0,10,5,5,2,1,1
+"Jan Olschowsky","Gladbach","GER","GK",NA,20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Jan Thielmann","Köln","GER","FW",NA,20,2,4,0,0,13,7,53.8,0.15,0.29,18.1,0,29,20,9,6,3,3
+"Janik Haberer","Union Berlin","GER","MF",NA,28,1,6,0,0,32,14,43.8,0.16,0.36,19,0,60,47,13,5,5,0
+"Janis Blaswich","RB Leipzig","GER","GK",NA,31,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Jannes Horn","Bochum","GER","DF","FW",25,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Jean-Manuel Mbom","Werder Bremen","GER","MF",NA,22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Jean-Paul Boëtius","Hertha BSC","NED","MF",NA,28,0,0,0,0,5,3,60,0,0,20.6,0,24,18,6,0,0,0
+"Jeffrey Gouweleeuw","Augsburg","NED","DF",NA,31,1,1,0,0,15,4,26.7,0,0,15.4,0,35,24,11,3,1,2
+"Jens Stage","Werder Bremen","DEN","MF",NA,25,3,6,0,0,19,7,36.8,0.16,0.43,12.5,0,31,29,2,6,6,0
+"Jeong Woo-yeong","Freiburg","KOR","MF","FW",22,1,2,0,0,13,4,30.8,0.08,0.25,16.6,0,21,17,4,4,3,1
+"Jere Uronen","Schalke 04","FIN","DF",NA,28,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,18,12,6,0,0,0
+"Jeremie Frimpong","Leverkusen","NED","DF","MF",21,7,15,0,0,38,19,50,0.21,0.42,11.9,0,103,65,38,16,9,7
+"Jérôme Roussillon","Union Berlin","FRA","DF",NA,29,2,2,0,0,9,2,22.2,0,0,22.1,0,22,16,6,4,3,1
+"Jérôme Roussillon","Union Berlin","FRA","DF",NA,29,2,2,0,0,9,2,22.2,0,0,22.1,0,0,0,0,0,0,0
+"Jérôme Roussillon","Wolfsburg","FRA","MF","DF",29,0,0,0,0,9,2,22.2,0,0,22.1,0,22,16,6,4,3,1
+"Jérôme Roussillon","Wolfsburg","FRA","MF","DF",29,0,0,0,0,9,2,22.2,0,0,22.1,0,0,0,0,0,0,0
+"Jesper Lindstrøm","Eint Frankfurt","DEN","MF","FW",22,2,9,0,0,45,19,42.2,0.16,0.37,18.3,4,55,25,30,10,2,8
+"Jessic Ngankam","Hertha BSC","GER","FW","MF",22,0,4,1,1,18,7,38.9,0.17,0.43,13.8,0,19,10,9,3,1,2
+"Jiří Pavlenka","Werder Bremen","CZE","GK",NA,30,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,3,0,1,1,0
+"João Cancelo","Bayern Munich","POR","DF","FW",28,4,5,0,0,12,4,33.3,0.08,0.25,18.5,0,35,31,4,10,9,1
+"Joe Scally","Gladbach","USA","DF",NA,19,0,0,0,0,7,1,14.3,0,0,17.6,0,35,26,9,3,2,1
+"Joel Pohjanpalo","Leverkusen","FIN","FW","MF",27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"John Brooks","Hoffenheim","USA","DF",NA,29,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,2,1,2,1,1
+"Jonas Hector","Köln","GER","DF",NA,32,2,2,0,0,25,5,20,0,0,16.2,0,74,49,25,6,4,2
+"Jonas Hofmann","Gladbach","GER","FW","MF",30,9,21,1,0,44,22,50,0.27,0.55,19,5,163,83,80,16,9,7
+"Jonas Omlin","Gladbach","SUI","GK",NA,28,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,2,1,0,0,0
+"Jonas Wind","Wolfsburg","DEN","FW",NA,23,0,6,1,0,29,10,34.5,0.21,0.6,13.4,0,37,27,10,6,4,2
+"Jonathan Burkardt","Mainz 05","GER","MF","FW",22,2,3,1,0,20,6,30,0.05,0.17,12.6,0,20,10,10,3,2,1
+"Jonathan Schmid","Freiburg","FRA","DF",NA,32,0,0,0,0,1,1,100,0,0,13.9,0,2,1,1,0,0,0
+"Jonathan Tah","Leverkusen","GER","DF",NA,26,0,1,0,0,10,2,20,0.1,0.5,9.7,0,15,12,3,0,0,0
+"Jonjoe Kenny","Hertha BSC","ENG","DF",NA,25,1,1,0,0,6,1,16.7,0,0,24.9,0,44,34,10,3,2,1
+"Jordan Larsson","Schalke 04","SWE","FW","MF",25,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,11,9,2,0,0,0
+"Jordan Pefok","Union Berlin","USA","FW",NA,26,4,8,2,0,32,6,18.8,0.13,0.67,12.2,0,29,24,5,5,5,0
+"Jordi Osei-Tutu","Bochum","ENG","DF","FW",23,0,0,0,0,12,5,41.7,0,0,19.9,0,16,7,9,1,0,1
+"Josha Vagnoman","Stuttgart","GER","DF",NA,21,2,4,0,0,25,5,20,0.08,0.4,13.9,0,28,19,9,3,3,0
+"Joshua Kimmich","Bayern Munich","GER","MF",NA,27,6,11,1,1,27,11,40.7,0.15,0.36,26,3,142,82,60,15,12,3
+"Joshua Quarshie","Hoffenheim","GER","MF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Josip Brekalo","Wolfsburg","CRO","MF","FW",24,1,1,0,0,2,1,50,0,0,20.2,0,7,3,4,1,0,1
+"Josip Juranović","Union Berlin","CRO","DF",NA,26,1,3,1,1,6,1,16.7,0.17,1,29.6,2,30,14,16,3,1,2
+"Josip Stanišić","Bayern Munich","CRO","DF",NA,22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,12,11,1,1,1,0
+"Joško Gvardiol","RB Leipzig","CRO","DF",NA,20,0,1,0,0,14,4,28.6,0.07,0.25,14.2,0,29,27,2,2,2,0
+"Josuha Guilavogui","Wolfsburg","FRA","DF","MF",31,0,1,0,0,6,1,16.7,0.17,1,11.9,0,16,13,3,0,0,0
+"Juan Perea","Stuttgart","COL","FW",NA,22,0,1,0,0,2,1,50,0.5,1,10.6,0,9,5,4,1,1,0
+"Jude Bellingham","Dortmund","ENG","MF",NA,19,4,12,1,1,66,23,34.8,0.11,0.3,18,2,125,89,36,17,12,5
+"Julian Baumgartlinger","Augsburg","AUT","MF",NA,34,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,8,7,1,0,0,0
+"Julian Brandt","Dortmund","GER","MF","FW",26,8,17,0,0,42,26,61.9,0.21,0.35,18,1,133,87,46,20,14,6
+"Julian Chabot","Köln","GER","DF",NA,24,2,2,0,0,14,3,21.4,0,0,9.1,0,15,10,5,2,1,1
+"Julian Eitschberger","Hertha BSC","GER","FW",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Julian Ryerson","Dortmund","NOR","DF",NA,24,1,2,0,0,16,5,31.3,0,0,24,0,28,23,5,0,0,0
+"Julian Ryerson","Dortmund","NOR","DF",NA,24,1,2,0,0,16,5,31.3,0,0,24,0,27,18,9,0,0,0
+"Julian Ryerson","Dortmund","NOR","DF",NA,24,1,2,0,0,10,3,30,0.1,0.33,22.4,0,28,23,5,0,0,0
+"Julian Ryerson","Dortmund","NOR","DF",NA,24,1,2,0,0,10,3,30,0.1,0.33,22.4,0,27,18,9,0,0,0
+"Julian Ryerson","Union Berlin","NOR","DF",NA,24,0,0,0,0,16,5,31.3,0,0,24,0,28,23,5,0,0,0
+"Julian Ryerson","Union Berlin","NOR","DF",NA,24,0,0,0,0,16,5,31.3,0,0,24,0,27,18,9,0,0,0
+"Julian Ryerson","Union Berlin","NOR","DF",NA,24,0,0,0,0,10,3,30,0.1,0.33,22.4,0,28,23,5,0,0,0
+"Julian Ryerson","Union Berlin","NOR","DF",NA,24,0,0,0,0,10,3,30,0.1,0.33,22.4,0,27,18,9,0,0,0
+"Julian Weigl","Gladbach","GER","MF",NA,26,0,1,1,1,NA,NA,NA,NA,NA,NA,NA,22,21,1,2,2,0
+"Julien Duranville","Dortmund","BEL","MF",NA,16,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,5,3,2,1,1,0
+"Junior Dina Ebimbe","Eint Frankfurt","FRA","DF","MF",21,1,4,0,0,26,10,38.5,0.12,0.3,14.6,0,17,12,5,1,1,0
+"Justin Diehl","Köln","GER","MF","FW",17,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Justin Njinmah","Dortmund","GER","FW",NA,21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Karim Adeyemi","Dortmund","GER","FW","MF",20,5,11,1,0,37,14,37.8,0.16,0.43,17.4,0,59,40,19,12,9,3
+"Karim Bellarabi","Leverkusen","GER","FW","MF",32,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,4,0,0,0,0
+"Karim Onisiwo","Mainz 05","AUT","FW","MF",30,2,12,0,0,68,32,47.1,0.15,0.31,15.6,0,85,58,27,11,4,7
+"Kasper Dolberg","Hoffenheim","DEN","FW","MF",24,0,1,0,0,7,3,42.9,0.14,0.33,16.7,0,8,6,2,1,1,0
+"Keke Maximilian Topp","Schalke 04","GER","FW",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Kelvin Yeboah","Augsburg","ITA","FW","MF",22,1,2,0,0,13,2,15.4,0.08,0.5,12.8,0,14,7,7,2,1,1
+"Kenan Karaman","Schalke 04","TUR","FW",NA,28,2,3,0,0,22,8,36.4,0.05,0.13,13.8,0,21,15,6,5,3,2
+"Kenneth Schmidt","Freiburg","GER","DF",NA,20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,3,0,0,0,0
+"Kerem Demirbay","Leverkusen","GER","MF",NA,29,3,7,0,0,31,6,19.4,0.13,0.67,24.3,8,51,25,26,6,3,3
+"Kerim Calhanoglu","Schalke 04","GER","DF",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,4,0,0,0,0
+"Keven Schlotterbeck","Bochum","GER","DF",NA,25,0,2,0,0,8,4,50,0.25,0.5,12,0,0,0,0,0,0,0
+"Keven Schlotterbeck","Bochum","GER","DF",NA,25,0,2,0,0,8,4,50,0.25,0.5,12,0,5,4,1,0,0,0
+"Keven Schlotterbeck","Freiburg","GER","DF",NA,25,0,0,0,0,8,4,50,0.25,0.5,12,0,0,0,0,0,0,0
+"Keven Schlotterbeck","Freiburg","GER","DF",NA,25,0,0,0,0,8,4,50,0.25,0.5,12,0,5,4,1,0,0,0
+"Kevin Akpoguma","Hoffenheim","NGA","DF",NA,27,0,0,0,0,8,1,12.5,0,0,19.3,0,17,14,3,1,1,0
+"Kevin Behrens","Union Berlin","GER","FW",NA,31,1,9,0,0,35,14,40,0.23,0.57,11.7,0,49,39,10,8,5,3
+"Kevin Kampl","RB Leipzig","SVN","MF",NA,31,2,4,0,0,7,2,28.6,0.29,1,19.4,0,41,39,2,5,5,0
+"Kevin Paredes","Wolfsburg","USA","FW","MF",19,3,4,0,0,4,2,50,0.25,0.5,21.4,0,25,22,3,4,4,0
+"Kevin Schade","Freiburg","GER","FW","MF",20,0,1,0,0,4,1,25,0.25,1,15,0,1,0,1,0,0,0
+"Kevin Stöger","Bochum","AUT","MF",NA,28,3,8,3,3,45,11,24.4,0.04,0.18,25.8,7,138,81,57,11,8,3
+"Kevin Trapp","Eint Frankfurt","GER","GK",NA,32,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,3,0,0,0,0
+"Kevin Vogt","Hoffenheim","GER","DF",NA,30,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,16,16,0,1,1,0
+"Kevin-Prince Boateng","Hertha BSC","GHA","MF",NA,35,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,9,8,1,1,1,0
+"Kilian Fischer","Wolfsburg","GER","DF","FW",21,0,0,0,0,3,1,33.3,0,0,19.8,0,7,5,2,1,0,1
+"Kiliann Sildillia","Freiburg","FRA","DF","MF",20,2,2,0,0,NA,NA,NA,NA,NA,NA,NA,28,16,12,5,2,3
+"Kimberly Ezekwem","Freiburg","GER","DF",NA,21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Kingsley Coman","Bayern Munich","FRA","FW","MF",26,5,13,0,0,49,17,34.7,0.16,0.47,18.6,0,85,67,18,11,7,4
+"Kingsley Ehizibue","Köln","NED","DF",NA,27,0,0,0,0,1,1,100,0,0,35.5,0,1,1,0,0,0,0
+"Kingsley Schindler","Köln","GHA","DF","MF",29,1,1,0,0,11,4,36.4,0,0,12.8,0,27,20,7,4,2,2
+"Ko Itakura","Gladbach","JPN","DF",NA,25,2,2,0,0,11,4,36.4,0,0,14.8,0,18,13,5,4,3,1
+"Koen Casteels","Wolfsburg","BEL","GK",NA,30,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,9,6,3,2,2,0
+"Konrad Laimer","RB Leipzig","AUT","MF",NA,25,0,3,0,0,20,10,50,0.15,0.3,19.9,0,41,34,7,5,4,1
+"Konstantinos Mavropanos","Stuttgart","GRE","DF",NA,24,1,3,0,0,48,12,25,0.04,0.17,15.5,0,37,26,11,4,3,1
+"Kostas Stafylidis","Bochum","GRE","DF","MF",28,2,2,0,0,14,2,14.3,0,0,29.5,1,18,10,8,3,2,1
+"Kristian Pedersen","Köln","DEN","DF",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Kristijan Jakić","Eint Frankfurt","CRO","DF","MF",25,0,1,0,0,8,4,50,0.13,0.25,17.5,0,18,15,3,0,0,0
+"Lars Stindl","Gladbach","GER","FW","MF",33,7,15,0,0,50,22,44,0.16,0.36,20.7,3,81,53,28,10,7,3
+"Lauren Ulrich","Stuttgart","GER","MF",NA,17,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Leandro Barreiro Martins","Mainz 05","LUX","MF",NA,22,3,7,0,0,32,14,43.8,0.13,0.29,16,0,47,32,15,9,6,3
+"Lee Buchanan","Werder Bremen","ENG","DF","FW",21,0,1,0,0,5,1,20,0.2,1,22.1,0,7,7,0,0,0,0
+"Lee Jae-sung","Mainz 05","KOR","MF",NA,29,5,12,0,0,35,17,48.6,0.2,0.41,14.7,0,58,47,11,11,8,3
+"Lennart Grill","Union Berlin","GER","GK",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Leo Greiml","Schalke 04","AUT","DF",NA,21,0,0,0,0,1,1,100,0,0,10.8,0,3,3,0,0,0,0
+"Leon Goretzka","Bayern Munich","GER","MF",NA,27,2,5,0,0,40,13,32.5,0.08,0.23,17.2,0,49,36,13,6,2,4
+"Leonardo Bittencourt","Werder Bremen","GER","MF","DF",28,2,5,0,0,25,9,36,0.12,0.33,22.3,2,40,25,15,3,2,1
+"Leroy Sané","Bayern Munich","GER","MF","FW",26,7,15,0,0,78,29,37.2,0.1,0.28,19.7,6,93,72,21,15,13,2
+"Levin Öztunalı","Union Berlin","GER","MF",NA,26,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,1,0
+"Lilian Egloff","Stuttgart","GER","MF","FW",19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,10,8,2,2,2,0
+"Linton Maina","Köln","GER","FW","MF",23,7,10,0,0,35,13,37.1,0.09,0.23,15.3,0,71,54,17,12,9,3
+"Luca Kilian","Köln","GER","DF",NA,22,0,1,0,0,4,1,25,0.25,1,9.8,0,10,10,0,1,1,0
+"Luca Netz","Gladbach","GER","DF",NA,19,3,4,0,0,4,2,50,0.25,0.5,14.8,0,15,12,3,3,2,1
+"Luca Pellegrini","Eint Frankfurt","ITA","DF",NA,23,0,0,0,0,14,2,14.3,0,0,27.7,3,14,6,8,0,0,0
+"Luca Pfeiffer","Stuttgart","GER","FW",NA,25,0,0,0,0,12,1,8.3,0,0,13.8,0,24,20,4,0,0,0
+"Luca Waldschmidt","Wolfsburg","GER","FW","MF",26,0,4,1,1,10,5,50,0.3,0.6,14.2,0,9,7,2,1,1,0
+"Lucas Alario","Eint Frankfurt","ARG","FW","MF",29,0,1,0,0,11,4,36.4,0.09,0.25,14.7,0,8,6,2,2,1,1
+"Lucas Hernández","Bayern Munich","FRA","DF",NA,26,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,4,0,0,0,0
+"Lucas Höler","Freiburg","GER","FW","MF",28,2,7,0,0,30,15,50,0.17,0.33,14.2,0,41,27,14,3,3,0
+"Lucas Tousart","Hertha BSC","FRA","MF",NA,25,2,7,0,0,43,16,37.2,0.12,0.31,16.7,0,53,40,13,8,6,2
+"Ludovic Ajorque","Mainz 05","FRA","FW","MF",28,1,7,0,0,32,14,43.8,0.19,0.43,14.8,0,34,26,8,3,2,1
+"Lukáš Ambros","Wolfsburg","CZE","MF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Lukáš Hrádecký","Leverkusen","FIN","GK",NA,32,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,0
+"Lukas Klostermann","RB Leipzig","GER","DF",NA,26,0,0,0,0,6,1,16.7,0,0,17.9,0,4,4,0,0,0,0
+"Lukas Kübler","Freiburg","GER","DF",NA,29,1,3,0,0,9,4,44.4,0.22,0.5,12.2,0,18,13,5,1,1,0
+"Lukas Nmecha","Wolfsburg","GER","FW",NA,23,0,4,0,0,22,7,31.8,0.18,0.57,14.1,0,27,15,12,2,0,2
+"Lukas Petkov","Augsburg","BUL","MF","FW",21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,3,0,0,0,0
+"Mads Pedersen","Augsburg","DEN","DF","MF",25,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,43,27,16,4,2,2
+"Mahmoud Dahoud","Dortmund","GER","MF",NA,26,0,0,0,0,6,1,16.7,0,0,26.2,1,6,5,1,1,0,1
+"Makoto Hasebe","Eint Frankfurt","JPN","DF",NA,38,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,6,6,0,0,0,0
+"Malick Thiaw","Schalke 04","GER","DF",NA,20,0,0,0,0,2,1,50,0,0,8.8,0,1,0,1,0,0,0
+"Manu Koné","Gladbach","FRA","MF",NA,21,1,2,0,0,26,14,53.8,0.04,0.07,25.1,0,61,44,17,5,5,0
+"Manuel Gulde","Freiburg","GER","DF",NA,31,0,1,0,0,2,1,50,0.5,1,6.1,0,6,4,2,1,1,0
+"Manuel Neuer","Bayern Munich","GER","GK",NA,36,0,0,0,0,2,1,50,0,0,9,0,2,1,1,0,0,0
+"Manuel Riemann","Bochum","GER","GK",NA,33,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,21,17,4,0,0,0
+"Marc-Oliver Kempf","Hertha BSC","GER","DF",NA,27,0,1,0,0,16,5,31.3,0.06,0.2,11.5,0,27,22,5,0,0,0
+"Marcel Halstenberg","RB Leipzig","GER","DF",NA,30,1,2,0,0,9,3,33.3,0.11,0.33,12.8,0,37,25,12,2,2,0
+"Marcel Sabitzer","Bayern Munich","AUT","MF",NA,28,1,2,0,0,15,5,33.3,0.07,0.2,21.7,0,11,9,2,1,1,0
+"Marcel Wenig","Eint Frankfurt","GER","MF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Marcin Kamiński","Schalke 04","POL","DF",NA,30,0,2,0,0,4,2,50,0.5,1,16.4,2,12,11,1,1,1,0
+"Marco Friedl","Werder Bremen","AUT","DF",NA,24,0,0,0,0,6,1,16.7,0,0,20.8,0,24,20,4,1,1,0
+"Marco Pašalić","Dortmund","CRO","MF",NA,21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Marco Reus","Dortmund","GER","MF","FW",33,4,10,1,1,36,10,27.8,0.14,0.5,16.6,6,52,36,16,7,3,4
+"Marco Richter","Hertha BSC","GER","MF","FW",24,5,11,0,0,49,15,30.6,0.12,0.4,22.3,4,58,37,21,11,8,3
+"Marcus Ingvartsen","Mainz 05","DEN","FW","MF",26,0,10,4,4,32,13,40.6,0.19,0.46,15.5,1,21,14,7,3,3,0
+"Marcus Thuram","Gladbach","FRA","FW",NA,24,6,19,0,0,92,44,47.8,0.14,0.3,12.7,0,66,39,27,12,7,5
+"Mario Götze","Eint Frankfurt","GER","MF",NA,30,1,4,0,0,26,7,26.9,0.12,0.43,16.4,0,101,79,22,14,12,2
+"Marius Bülter","Schalke 04","GER","FW","MF",29,1,12,4,4,64,23,35.9,0.11,0.3,18.4,1,91,62,29,5,3,2
+"Marius Wolf","Dortmund","GER","DF",NA,27,1,2,0,0,23,6,26.1,0.04,0.17,19.4,0,48,36,12,6,5,1
+"Mark Flekken","Freiburg","NED","GK",NA,29,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,10,6,4,1,0,1
+"Mark Uth","Köln","GER","MF","FW",30,0,0,0,0,1,1,100,0,0,13.2,0,1,0,1,1,0,1
+"Marlon Mustapha","Mainz 05","AUT","FW","MF",21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,2,1,0,0,0
+"Márton Dárdai","Hertha BSC","HUN","DF","MF",20,0,1,0,0,2,1,50,0.5,1,22.2,0,10,9,1,1,1,0
+"Marvin Ducksch","Werder Bremen","GER","FW",NA,28,6,18,1,0,94,43,45.7,0.13,0.28,19.1,14,109,67,42,24,16,8
+"Marvin Friedrich","Gladbach","GER","DF",NA,26,0,1,0,0,9,4,44.4,0.11,0.25,12.9,0,10,9,1,0,0,0
+"Marvin Plattenhardt","Hertha BSC","GER","DF",NA,30,2,2,0,0,8,1,12.5,0,0,27.3,4,59,25,34,6,3,3
+"Marvin Schwäbe","Köln","GER","GK",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,4,0,1,1,0
+"Mathias Olesen","Köln","LUX","MF",NA,21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,4,0,0,0,0
+"Mathys Tel","Bayern Munich","FRA","FW",NA,17,0,5,0,0,20,11,55,0.25,0.45,15,0,16,12,4,2,1,1
+"Mats Hummels","Dortmund","GER","DF",NA,33,0,1,0,0,17,3,17.6,0.06,0.33,10.2,0,41,35,6,3,2,1
+"Matthias Ginter","Freiburg","GER","DF",NA,28,1,5,0,0,21,11,52.4,0.19,0.36,11.1,0,32,27,5,2,2,0
+"Matthijs de Ligt","Bayern Munich","NED","DF",NA,22,1,4,0,0,23,8,34.8,0.13,0.38,16,0,25,21,4,3,0,3
+"Mattias Svanberg","Wolfsburg","SWE","MF","FW",23,6,10,0,0,30,10,33.3,0.13,0.4,16.9,4,53,35,18,9,6,3
+"Max Kruse","Wolfsburg","GER","MF","FW",34,0,0,0,0,9,2,22.2,0,0,13.9,0,10,8,2,1,1,0
+"Maxence Lacroix","Wolfsburg","FRA","DF",NA,22,0,1,0,0,4,1,25,0.25,1,8.6,0,13,12,1,0,0,0
+"Maxim Leitsch","Mainz 05","GER","DF",NA,24,0,0,0,0,2,1,50,0,0,19.1,0,5,5,0,1,1,0
+"Maximilian Arnold","Wolfsburg","GER","MF",NA,28,3,8,5,3,29,12,41.4,0.07,0.17,31.4,6,82,41,41,10,5,5
+"Maximilian Bauer","Augsburg","GER","DF",NA,22,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,15,5,10,1,0,1
+"Maximilian Eggestein","Freiburg","GER","MF",NA,25,2,3,0,0,16,4,25,0.06,0.25,21.6,0,50,44,6,5,4,1
+"Maximilian Mittelstädt","Hertha BSC","GER","DF","MF",25,0,0,0,0,6,2,33.3,0,0,23.4,0,23,15,8,0,0,0
+"Maximilian Philipp","Werder Bremen","GER","FW","MF",28,0,1,0,0,1,1,100,0,0,18.2,0,13,7,6,3,2,1
+"Maximilian Philipp","Werder Bremen","GER","FW","MF",28,0,1,0,0,1,1,100,0,0,18.2,0,1,1,0,0,0,0
+"Maximilian Philipp","Werder Bremen","GER","FW","MF",28,0,1,0,0,11,3,27.3,0.09,0.33,16,0,13,7,6,3,2,1
+"Maximilian Philipp","Werder Bremen","GER","FW","MF",28,0,1,0,0,11,3,27.3,0.09,0.33,16,0,1,1,0,0,0,0
+"Maximilian Philipp","Wolfsburg","GER","FW",NA,28,0,0,0,0,1,1,100,0,0,18.2,0,13,7,6,3,2,1
+"Maximilian Philipp","Wolfsburg","GER","FW",NA,28,0,0,0,0,1,1,100,0,0,18.2,0,1,1,0,0,0,0
+"Maximilian Philipp","Wolfsburg","GER","FW",NA,28,0,0,0,0,11,3,27.3,0.09,0.33,16,0,13,7,6,3,2,1
+"Maximilian Philipp","Wolfsburg","GER","FW",NA,28,0,0,0,0,11,3,27.3,0.09,0.33,16,0,1,1,0,0,0,0
+"Maya Yoshida","Schalke 04","JPN","DF",NA,33,0,0,0,0,12,2,16.7,0,0,13.9,0,28,22,6,0,0,0
+"Mehmet Aydin","Schalke 04","GER","DF","FW",20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,13,10,3,0,0,0
+"Mergim Berisha","Augsburg","GER","FW",NA,24,4,13,4,3,51,13,25.5,0.12,0.46,18.7,6,34,13,21,7,2,5
+"Merlin Röhl","Freiburg","GER","MF","FW",20,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,2,2,0,1,1,0
+"Michael Frey","Schalke 04","SUI","FW",NA,28,3,3,0,0,27,9,33.3,0,0,15.8,0,15,13,2,4,4,0
+"Michael Gregoritsch","Freiburg","AUT","FW",NA,28,4,14,0,0,67,38,56.7,0.15,0.26,14.6,1,67,49,18,10,7,3
+"Michael Zetterer","Werder Bremen","GER","GK",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Micky van de Ven","Wolfsburg","NED","DF",NA,21,1,2,0,0,16,1,6.3,0.06,1,17.5,0,24,16,8,1,0,1
+"Miloš Pantović","Union Berlin","SRB","MF",NA,26,0,1,1,0,5,2,40,0.2,0.5,18.4,0,3,2,1,0,0,0
+"Miloš Veljković","Werder Bremen","SRB","DF",NA,26,2,3,0,0,4,2,50,0.25,0.5,8.7,0,23,21,2,3,3,0
+"Mitchel Bakker","Leverkusen","NED","DF","MF",22,2,5,0,0,17,8,47.1,0.18,0.38,18.9,0,37,30,7,4,3,1
+"Mitchell Weiser","Werder Bremen","GER","DF","FW",28,9,11,0,0,28,8,28.6,0.07,0.25,17.9,0,89,69,20,16,12,4
+"Moanes Dabbur","Hoffenheim","ISR","FW",NA,30,2,8,0,0,22,14,63.6,0.27,0.43,15,0,38,30,8,6,4,2
+"Mohamed Simakan","RB Leipzig","FRA","DF",NA,22,1,2,0,0,12,3,25,0.08,0.33,12.3,0,28,21,7,1,0,1
+"Moritz Broschinski","Bochum","GER","FW","MF",21,0,2,0,0,5,4,80,0.4,0.5,12.2,0,7,7,0,1,1,0
+"Moritz Jenz","Schalke 04","GER","DF",NA,23,0,0,0,0,10,3,30,0,0,9.7,0,12,8,4,0,0,0
+"Morten Thorsby","Union Berlin","NOR","MF",NA,26,1,2,0,0,9,3,33.3,0.11,0.33,13.7,0,10,7,3,4,1,3
+"Moussa Diaby","Leverkusen","FRA","FW","MF",23,8,17,1,0,79,34,43,0.11,0.26,17.8,0,110,74,36,16,10,6
+"Muhammed Damar","Hoffenheim","GER","MF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,5,5,0,1,1,0
+"Myziane Maolida","Hertha BSC","COM","FW","MF",23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Nadiem Amiri","Leverkusen","GER","MF","FW",25,1,5,1,1,23,8,34.8,0.13,0.38,24.3,3,36,23,13,5,3,2
+"Naouirou Ahamada","Stuttgart","FRA","MF",NA,20,2,4,0,0,16,5,31.3,0.13,0.4,22.1,0,38,31,7,7,7,0
+"Nathan N'Goumou","Gladbach","FRA","FW",NA,22,0,1,0,0,13,4,30.8,0.08,0.25,18.1,0,9,8,1,1,1,0
+"Nathanael Mbuku","Augsburg","FRA","MF","FW",20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Nelson Weiper","Mainz 05","GER","FW","DF",17,0,2,0,0,5,4,80,0.4,0.5,7.3,0,1,1,0,0,0,0
+"Niclas Füllkrug","Werder Bremen","GER","FW",NA,29,5,21,5,5,74,32,43.2,0.15,0.34,16,0,74,54,20,10,8,2
+"Nico Elvedi","Gladbach","SUI","DF",NA,25,0,3,0,0,18,9,50,0.17,0.33,10.5,0,17,17,0,1,1,0
+"Nico Schlotterbeck","Dortmund","GER","DF",NA,22,5,9,0,0,18,6,33.3,0.22,0.67,16.9,0,32,24,8,7,5,2
+"Nicolai Rapp","Werder Bremen","GER","MF","DF",25,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Nicolas Cozza","Wolfsburg","FRA","DF",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Nicolas Höfler","Freiburg","GER","MF",NA,32,1,1,0,0,21,4,19,0,0,14.9,0,40,31,9,9,6,3
+"Niklas Dorsch","Augsburg","GER","MF",NA,24,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,8,6,2,0,0,0
+"Niklas Schmidt","Werder Bremen","GER","MF",NA,24,0,3,0,0,21,9,42.9,0.14,0.33,21.3,2,50,39,11,3,1,2
+"Niklas Stark","Werder Bremen","GER","DF",NA,27,0,0,0,0,3,1,33.3,0,0,10.1,0,11,11,0,0,0,0
+"Niklas Süle","Dortmund","GER","DF",NA,26,3,5,0,0,33,7,21.2,0.06,0.29,17.2,0,41,32,9,6,3,3
+"Niklas Tauer","Mainz 05","GER","DF","MF",21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Niko Gießelmann","Union Berlin","GER","DF",NA,30,2,2,0,0,20,3,15,0,0,20.2,2,47,22,25,7,3,4
+"Nikola Soldo","Köln","CRO","DF",NA,21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,3,1,0,0,0
+"Nikolas Nartey","Stuttgart","DEN","DF","MF",22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,9,8,1,1,1,0
+"Nils Petersen","Freiburg","GER","FW",NA,33,0,1,0,0,9,2,22.2,0.11,0.5,17.7,0,5,3,2,0,0,0
+"Noah Joel Sarenren Bazee","Augsburg","NGA","MF","FW",25,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Noah Mbamba","Leverkusen","BEL","MF",NA,17,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Noah Weißhaupt","Freiburg","GER","MF","DF",20,1,1,0,0,2,1,50,0,0,14.4,0,13,8,5,1,1,0
+"Noussair Mazraoui","Bayern Munich","MAR","DF",NA,24,4,5,0,0,8,2,25,0.13,0.5,18.5,0,33,29,4,5,4,1
+"Obite N'Dicka","Eint Frankfurt","CIV","DF",NA,22,0,1,0,0,17,3,17.6,0.06,0.33,12.7,0,13,12,1,1,1,0
+"Odilon Kossounou","Leverkusen","CIV","DF",NA,21,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,16,14,2,3,3,0
+"Ohis Felix Uduokhai","Augsburg","GER","DF",NA,24,1,1,0,0,4,1,25,0,0,9.5,0,13,12,1,1,1,0
+"Oliver Baumann","Hoffenheim","GER","GK",NA,32,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,3,1,1,1,0
+"Oliver Burke","Werder Bremen","SCO","FW","MF",25,0,2,0,0,8,5,62.5,0.25,0.4,14,0,8,6,2,3,2,1
+"Oliver Christensen","Hertha BSC","DEN","GK",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,7,5,2,1,1,0
+"Omar Marmoush","Wolfsburg","EGY","FW",NA,23,1,6,0,0,48,16,33.3,0.1,0.31,15,1,43,26,17,5,3,2
+"Ondrej Duda","Köln","SVK","MF",NA,27,0,0,0,0,12,3,25,0,0,18.6,0,22,17,5,3,2,1
+"Ørjan Nyland","RB Leipzig","NOR","GK",NA,31,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,2,2,0,2,2,0
+"Oscar Fraulo","Gladbach","DEN","FW","MF",18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Ozan Kabak","Hoffenheim","TUR","DF",NA,22,2,4,0,0,24,6,25,0.08,0.33,13.8,0,15,7,8,4,1,3
+"Pascal Klemens","Hertha BSC","GER","DF",NA,17,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Pascal Stenzel","Stuttgart","GER","DF",NA,26,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,13,5,8,1,1,0
+"Patrick Herrmann","Gladbach","GER","FW","MF",31,0,1,0,0,6,2,33.3,0.17,0.5,19.7,0,6,4,2,0,0,0
+"Patrick Osterhage","Bochum","GER","MF",NA,22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,11,7,4,0,0,0
+"Patrick Wimmer","Wolfsburg","AUT","FW","MF",21,8,12,0,0,31,14,45.2,0.13,0.29,13.9,0,72,45,27,12,7,5
+"Patrik Schick","Leverkusen","CZE","FW",NA,26,1,4,0,0,34,14,41.2,0.09,0.21,12.8,1,28,21,7,2,2,0
+"Paul Jaeckel","Union Berlin","GER","DF",NA,24,0,1,0,0,2,2,100,0.5,0.5,11.3,0,11,8,3,0,0,0
+"Paul Seguin","Union Berlin","GER","MF",NA,27,3,4,0,0,15,4,26.7,0.07,0.25,23.1,0,21,19,2,3,3,0
+"Paul Wanner","Bayern Munich","GER","MF",NA,16,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Paulinho","Leverkusen","BRA","FW",NA,22,0,1,0,0,2,1,50,0.5,1,16.1,0,1,1,0,0,0,0
+"Paulo Otávio","Wolfsburg","BRA","DF",NA,27,5,5,0,0,19,1,5.3,0,0,23.9,0,39,33,6,7,7,0
+"Pavel Kadeřábek","Hoffenheim","CZE","DF",NA,30,1,2,0,0,8,1,12.5,0.13,1,10.5,0,38,33,5,3,3,0
+"Paxten Aaronson","Eint Frankfurt","USA","MF","DF",18,0,0,0,0,4,1,25,0,0,18.7,0,8,4,4,2,1,1
+"Péter Gulácsi","RB Leipzig","HUN","GK",NA,32,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Peter Pekarík","Hertha BSC","SVK","DF",NA,35,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Philipp Förster","Bochum","GER","MF",NA,27,7,10,0,0,17,6,35.3,0.18,0.5,20.2,2,44,25,19,8,3,5
+"Philipp Hofmann","Bochum","GER","FW",NA,29,2,10,0,0,52,21,40.4,0.15,0.38,12.8,0,59,46,13,7,6,1
+"Philipp Lienhart","Freiburg","AUT","DF",NA,26,0,1,0,0,17,3,17.6,0.06,0.33,16.4,0,20,16,4,2,2,0
+"Philipp Max","Eint Frankfurt","GER","DF",NA,28,1,1,0,0,9,3,33.3,0,0,18.3,2,31,17,14,1,1,0
+"Piero Hincapié","Leverkusen","ECU","DF","MF",20,1,2,0,0,17,6,35.3,0.06,0.17,16.6,0,21,17,4,3,3,0
+"Pierre Kunde","Bochum","CMR","MF","FW",27,0,1,0,0,4,1,25,0.25,1,24.7,0,7,5,2,0,0,0
+"Rafael Borré","Eint Frankfurt","COL","MF","FW",26,2,4,1,1,24,7,29.2,0.04,0.14,13.1,0,32,24,8,3,2,1
+"Rafał Gikiewicz","Augsburg","POL","GK",NA,34,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,7,3,4,1,0,1
+"Ralf Fährmann","Schalke 04","GER","GK",NA,33,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,1,3,0,0,0
+"Ramy Bensebaini","Gladbach","ALG","DF",NA,27,1,7,2,2,39,12,30.8,0.1,0.33,17.3,3,37,25,12,5,3,2
+"Randal Kolo Muani","Eint Frankfurt","FRA","FW",NA,23,11,26,2,2,75,30,40,0.17,0.43,13,0,105,60,45,22,13,9
+"Rani Khedira","Union Berlin","GER","MF",NA,28,0,2,0,0,24,3,12.5,0.08,0.67,22.1,0,34,27,7,3,2,1
+"Raphael Framberger","Augsburg","GER","DF","FW",26,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Raphaël Guerreiro","Dortmund","POR","DF","MF",28,12,16,0,0,33,14,42.4,0.12,0.29,19.8,6,111,83,28,15,14,1
+"Reece Oxford","Augsburg","ENG","DF",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Renato Veiga","Augsburg","POR","DF",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,6,5,1,0,0,0
+"Ricardo Pepi","Augsburg","USA","FW",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,2,0,0,0,0
+"Ridle Baku","Wolfsburg","GER","DF","FW",24,3,8,0,0,28,12,42.9,0.18,0.42,19.1,0,64,50,14,7,5,2
+"Ritsu Doan","Freiburg","JPN","MF","FW",24,4,9,0,0,57,27,47.4,0.09,0.19,17.3,0,72,45,27,10,6,4
+"Robert Andrich","Leverkusen","GER","MF",NA,27,2,4,0,0,30,9,30,0.07,0.22,21.6,1,45,37,8,4,3,1
+"Robert Gumny","Augsburg","POL","DF",NA,24,2,3,0,0,9,3,33.3,0.11,0.33,13.2,0,31,19,12,3,2,1
+"Robert Skov","Hoffenheim","DEN","DF",NA,26,2,5,2,2,39,12,30.8,0.03,0.08,22.5,8,46,28,18,3,2,1
+"Robert Wagner","Freiburg","GER","MF",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,0
+"Robin Knoche","Union Berlin","GER","DF",NA,30,3,5,2,1,8,1,12.5,0.13,1,16,0,23,18,5,4,3,1
+"Robin Zentner","Mainz 05","GER","GK",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,9,3,6,2,1,1
+"Rocco Reitz","Gladbach","GER","MF",NA,20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Rodrigo Zalazar","Schalke 04","URU","MF","FW",22,6,7,0,0,38,13,34.2,0.03,0.08,21.6,10,63,23,40,8,5,3
+"Roland Sallai","Freiburg","HUN","MF","FW",25,3,4,0,0,31,11,35.5,0.03,0.09,17.5,0,39,23,16,5,3,2
+"Romano Schmid","Werder Bremen","AUT","MF","FW",22,3,4,0,0,18,3,16.7,0.06,0.33,21.4,0,49,43,6,3,3,0
+"Ruben Vargas","Augsburg","SUI","MF","FW",23,4,7,0,0,21,6,28.6,0.14,0.5,20.4,1,31,22,9,4,3,1
+"Ryan Gravenberch","Bayern Munich","NED","MF",NA,20,0,0,0,0,11,3,27.3,0,0,20.6,0,25,22,3,1,1,0
+"Sadio Mané","Bayern Munich","SEN","FW","MF",30,5,12,2,1,53,20,37.7,0.11,0.3,12.8,0,61,44,17,11,8,3
+"Saidy Janko","Bochum","GAM","DF",NA,26,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,5,4,1,0,0,0
+"Salih Özcan","Dortmund","TUR","MF",NA,24,1,1,0,0,3,1,33.3,0,0,9.3,0,24,21,3,1,1,0
+"Sanoussy Ba","RB Leipzig","GER","DF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Sardar Azmoun","Leverkusen","IRN","FW","MF",27,1,5,0,0,28,10,35.7,0.14,0.4,12.1,0,33,27,6,4,1,3
+"Sargis Adamyan","Köln","ARM","FW","MF",29,2,3,0,0,21,11,52.4,0.05,0.09,14,0,22,16,6,3,1,2
+"Sasa Kalajdzic","Stuttgart","AUT","FW",NA,25,3,3,0,0,5,1,20,0,0,10.8,0,9,9,0,3,3,0
+"Sebastiaan Bornauw","Wolfsburg","BEL","DF",NA,23,0,1,0,0,4,3,75,0.25,0.33,11.3,0,7,7,0,2,2,0
+"Sebastian Polter","Schalke 04","GER","FW",NA,31,3,5,0,0,12,7,58.3,0.17,0.29,9.8,0,16,13,3,4,3,1
+"Sebastian Rode","Eint Frankfurt","GER","MF",NA,31,1,5,0,0,9,4,44.4,0.44,1,18.7,0,32,29,3,2,2,0
+"Sebastian Rudy","Hoffenheim","GER","MF",NA,32,1,1,0,0,5,2,40,0,0,29.1,0,23,11,12,2,2,0
+"Sébastien Haller","Dortmund","CIV","FW",NA,28,3,12,1,0,33,19,57.6,0.27,0.47,9.9,0,40,22,18,8,4,4
+"Semir Telalovic","Gladbach","GER","MF","FW",22,0,0,0,0,1,1,100,0,0,25,0,0,0,0,0,0,0
+"Sepp van den Berg","Schalke 04","NED","DF",NA,20,0,1,0,0,5,1,20,0.2,1,13,0,3,2,1,0,0,0
+"Serge Gnabry","Bayern Munich","GER","FW","MF",27,5,19,1,1,81,40,49.4,0.16,0.33,15.5,1,88,59,29,14,9,5
+"Serhou Guirassy","Stuttgart","GUI","FW",NA,26,0,11,2,2,47,18,38.3,0.19,0.5,15.7,4,47,28,19,1,0,1
+"Sheraldo Becker","Union Berlin","SUR","FW",NA,27,7,18,0,0,67,26,38.8,0.16,0.42,18.3,0,90,74,16,13,12,1
+"Sidi Sané","Schalke 04","GER","FW",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Silas Katompa","Stuttgart","COD","FW","MF",23,2,7,1,1,42,16,38.1,0.1,0.25,16.1,0,62,35,27,6,3,3
+"Silvan Widmer","Mainz 05","SUI","DF",NA,29,2,4,0,0,19,6,31.6,0.11,0.33,10.8,0,41,23,18,3,1,2
+"Silvère Ganvoula M'Boussy","Bochum","CGO","FW","MF",26,0,0,0,0,9,3,33.3,0,0,20.2,0,11,9,2,0,0,0
+"Simon Terodde","Schalke 04","GER","FW",NA,34,0,5,1,0,43,19,44.2,0.12,0.26,12.4,0,57,41,16,5,2,3
+"Simon Zoller","Bochum","GER","FW",NA,31,2,5,0,0,30,9,30,0.1,0.33,12.6,0,20,16,4,2,2,0
+"Soichiro Kozuki","Schalke 04","JPN","FW","MF",21,0,1,0,0,14,6,42.9,0.07,0.17,18.9,0,10,9,1,0,0,0
+"Soumaïla Coulibaly","Dortmund","FRA","DF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Stanley N'Soki","Hoffenheim","FRA","DF",NA,23,0,1,0,0,6,2,33.3,0.17,0.5,17.2,0,15,12,3,1,0,1
+"Stefan Bell","Mainz 05","GER","DF",NA,30,1,1,0,0,7,2,28.6,0,0,10.4,0,17,16,1,3,2,1
+"Stefan Lainer","Gladbach","AUT","DF",NA,29,0,0,0,0,6,4,66.7,0,0,13.1,0,13,11,2,0,0,0
+"Stefan Posch","Hoffenheim","AUT","DF",NA,25,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Steffen Tigges","Köln","GER","FW",NA,24,1,7,0,0,35,11,31.4,0.17,0.55,12.3,0,34,25,9,3,2,1
+"Stevan Jovetić","Hertha BSC","MNE","FW","MF",32,2,6,0,0,27,6,22.2,0.15,0.67,18.4,1,32,24,8,6,5,1
+"Suat Serdar","Hertha BSC","GER","MF",NA,25,2,6,0,0,23,7,30.4,0.17,0.57,19.3,0,41,29,12,4,4,0
+"Sven Michel","Union Berlin","GER","FW","MF",32,1,4,1,1,15,2,13.3,0.13,1,24.2,0,13,12,1,2,2,0
+"Sven Ulreich","Bayern Munich","GER","GK",NA,33,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Takuma Asano","Bochum","JPN","FW","MF",27,3,6,0,0,53,18,34,0.06,0.17,16.1,0,56,39,17,8,6,2
+"Tanguy Coulibaly","Stuttgart","FRA","FW","DF",21,0,4,1,1,11,6,54.5,0.27,0.5,19.4,0,13,8,5,1,0,1
+"Thomas Delaney","Hoffenheim","DEN","MF",NA,30,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,2,1,0,0,0
+"Thomas Kastanaras","Stuttgart","GRE","FW","DF",19,0,0,0,0,2,1,50,0,0,13.7,0,2,1,1,0,0,0
+"Thomas Meunier","Dortmund","BEL","DF",NA,30,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,17,15,2,0,0,0
+"Thomas Müller","Bayern Munich","GER","FW","MF",32,8,15,0,0,47,23,48.9,0.15,0.3,12.5,0,86,74,12,12,10,2
+"Thomas Ouwejan","Schalke 04","NED","DF",NA,25,1,1,0,0,5,1,20,0,0,25.8,0,29,12,17,2,0,2
+"Thorgan Hazard","Dortmund","BEL","FW","DF",29,0,0,0,0,8,3,37.5,0,0,14.2,0,23,16,7,0,0,0
+"Tiago Tomás","Stuttgart","POR","FW","MF",20,3,6,0,0,34,13,38.2,0.09,0.23,19.1,0,37,23,14,6,4,2
+"Tim Lemperle","Köln","GER","FW","MF",20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,7,4,3,0,0,0
+"Tim Oermann","Bochum","GER","DF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Tim Skarke","Union Berlin","GER","DF","MF",25,0,0,0,0,4,2,50,0,0,22.6,0,1,1,0,0,0,0
+"Tim Skarke","Union Berlin","GER","DF","MF",25,0,0,0,0,4,2,50,0,0,22.6,0,19,12,7,1,1,0
+"Tim Skarke","Union Berlin","GER","DF","MF",25,0,0,0,0,11,4,36.4,0.09,0.25,23.7,1,1,1,0,0,0,0
+"Tim Skarke","Union Berlin","GER","DF","MF",25,0,0,0,0,11,4,36.4,0.09,0.25,23.7,1,19,12,7,1,1,0
+"Tim Skarke","Schalke 04","GER","FW","MF",25,1,2,0,0,4,2,50,0,0,22.6,0,1,1,0,0,0,0
+"Tim Skarke","Schalke 04","GER","FW","MF",25,1,2,0,0,4,2,50,0,0,22.6,0,19,12,7,1,1,0
+"Tim Skarke","Schalke 04","GER","FW","MF",25,1,2,0,0,11,4,36.4,0.09,0.25,23.7,1,1,1,0,0,0,0
+"Tim Skarke","Schalke 04","GER","FW","MF",25,1,2,0,0,11,4,36.4,0.09,0.25,23.7,1,19,12,7,1,1,0
+"Timo Baumgartl","Union Berlin","GER","DF",NA,26,1,1,0,0,4,2,50,0,0,11.5,0,8,7,1,1,1,0
+"Timo Hübers","Köln","GER","DF",NA,26,0,3,0,0,15,7,46.7,0.2,0.43,10.9,0,13,13,0,1,1,0
+"Timo Werner","RB Leipzig","GER","FW","MF",26,3,12,0,0,61,24,39.3,0.15,0.38,15,0,54,40,14,7,6,1
+"Timothée Kolodziejczak","Schalke 04","FRA","DF",NA,30,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Timothy Chandler","Eint Frankfurt","USA","DF",NA,32,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,2,1,0,0,0
+"Timothy Fosu-Mensah","Leverkusen","NED","DF",NA,24,0,0,0,0,3,2,66.7,0,0,24.5,0,5,5,0,0,0,0
+"Tjark Ernst","Hertha BSC","GER","GK",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Tobias Mohr","Schalke 04","GER","DF","MF",26,3,3,0,0,12,1,8.3,0,0,19.3,1,29,17,12,4,3,1
+"Tobias Sippel","Gladbach","GER","GK",NA,34,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Tolga Ciğerci","Hertha BSC","TUR","MF",NA,30,1,1,0,0,9,3,33.3,0,0,29.4,1,19,12,7,1,1,0
+"Tom Bischof","Hoffenheim","GER","MF","FW",17,0,0,0,0,7,2,28.6,0,0,22.4,0,7,5,2,0,0,0
+"Tom Krauß","Schalke 04","GER","MF",NA,21,0,2,0,0,25,9,36,0.08,0.22,19.3,0,44,37,7,4,3,1
+"Tom Rothe","Dortmund","GER","DF",NA,17,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Tomáš Koubek","Augsburg","CZE","GK",NA,29,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,3,1,1,1,0
+"Tony Jantschke","Gladbach","GER","DF","MF",32,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Tony Rölke","Hertha BSC","GER","FW",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Tuta","Eint Frankfurt","BRA","DF",NA,23,1,3,0,0,17,3,17.6,0.12,0.67,17,0,20,15,5,1,1,0
+"Tymoteusz Puchacz","Union Berlin","POL","DF",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,1,1,0,0,0
+"Umut Tohumcu","Hoffenheim","GER","MF","DF",17,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,6,5,1,0,0,0
+"Vassilis Lambropoulos","Bochum","GRE","DF",NA,32,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,5,4,1,0,0,0
+"Veit Stange","Hertha BSC","GER","MF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Vincenzo Grifo","Freiburg","ITA","MF","FW",29,5,20,8,7,58,25,43.1,0.14,0.32,22.6,15,131,83,48,15,5,10
+"Vladimír Darida","Hertha BSC","CZE","MF",NA,31,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Waldemar Anton","Stuttgart","GER","DF",NA,26,2,3,0,0,24,5,20.8,0.04,0.2,18.3,0,39,28,11,5,3,2
+"Wataru Endo","Stuttgart","JPN","MF",NA,29,4,9,0,0,45,15,33.3,0.11,0.33,16.7,0,84,67,17,9,5,4
+"Wilfried Kanga","Hertha BSC","CIV","FW",NA,24,0,2,0,0,25,9,36,0.08,0.22,11.7,0,34,28,6,1,1,0
+"Willi Orban","RB Leipzig","HUN","DF",NA,29,0,4,0,0,27,10,37,0.15,0.4,11.5,1,24,16,8,2,1,1
+"Xaver Schlager","RB Leipzig","AUT","MF",NA,24,1,2,0,0,5,1,20,0.2,1,23.6,0,30,26,4,6,6,0
+"Yann Sommer","Bayern Munich","SUI","GK",NA,33,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,2,0,0,0,0
+"Yann Sommer","Bayern Munich","SUI","GK",NA,33,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Yann Sommer","Gladbach","SUI","GK",NA,33,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,2,0,0,0,0
+"Yann Sommer","Gladbach","SUI","GK",NA,33,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Yannick Gerhardt","Wolfsburg","GER","MF",NA,28,4,10,0,0,27,13,48.1,0.22,0.46,12,0,45,36,9,8,7,1
+"Yannik Keitel","Freiburg","GER","MF",NA,22,2,2,0,0,4,3,75,0,0,16.8,0,11,11,0,3,3,0
+"Youssoufa Moukoko","Dortmund","GER","FW",NA,17,3,10,0,0,35,19,54.3,0.2,0.37,14.9,0,29,19,10,7,5,2
+"Yussuf Poulsen","RB Leipzig","DEN","FW",NA,28,1,3,0,0,13,6,46.2,0.15,0.33,13.4,0,13,7,6,2,1,1
+"Yvandro Borges Sanches","Gladbach","LUX","FW","MF",18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,0,2,0,0,0
