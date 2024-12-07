@@ -1,0 +1,649 @@
+"Player","Squad","Nation","Pos","Pos2","Age","Assists","Goals+Assists","Penalty_Attempted","Penalty_Scored","Shots","Shots_on_Target","Shots_on_Target_Percentage","Goals_per_Shot","Goals_per_Shot_on_Target","Average_Shot_Distance","Free_Kick_Shots","Shot_Creating_Actions","Live_Pass_Shot_Creation","Other_Type_Shot_Creation","Goal_Creating_Actions","Live_Pass_Goal_Creation","Other_Type_Goal_Creation"
+"Abdel Jalil Medioub","Bordeaux","ALG","DF",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,0
+"Abdou Diallo","Paris S-G","SEN","DF",NA,25,1,1,0,0,2,1,50,0,0,16.3,0,6,6,0,2,2,0
+"Abdoulaye Bakayoko","Saint-Étienne","FRA","DF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,2,1,0,0,0
+"Abdoulaye Bamba","Angers","CIV","DF","FW",31,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,7,7,0,0,0,0
+"Abdoulaye Sylla","Nantes","GUI","DF",NA,21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Abdu Conté","Troyes","POR","DF",NA,23,1,1,0,0,5,1,20,0,0,15.5,0,23,16,7,2,2,0
+"Abdul Majeed Waris","Strasbourg","GHA","FW","MF",29,0,2,0,0,7,3,42.9,0.29,0.67,17.8,0,11,8,3,2,1,1
+"Aboubakar Sidibé","Clermont Foot","FRA","DF",NA,25,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Achraf Hakimi","Paris S-G","MAR","DF",NA,22,6,10,0,0,20,10,50,0.2,0.4,15.9,0,52,42,10,9,8,1
+"Adil Aouchiche","Saint-Étienne","FRA","MF","FW",19,4,4,0,0,21,10,47.6,0,0,22.5,0,38,21,17,5,3,2
+"Adil Rami","Troyes","FRA","DF",NA,35,0,3,0,0,5,3,60,0.6,1,6.8,0,5,5,0,0,0,0
+"Adrian Grbić","Lorient","AUT","FW","MF",24,0,1,0,0,12,7,58.3,0.08,0.14,19,4,7,5,2,0,0,0
+"Adrien Thomasson","Strasbourg","FRA","MF",NA,27,4,12,0,0,48,19,39.6,0.17,0.42,16.3,0,89,66,23,13,10,3
+"Adrien Truffert","Rennes","FRA","DF",NA,19,2,5,0,0,19,5,26.3,0.16,0.6,20.1,0,37,31,6,7,5,2
+"Aimen Moueffek","Saint-Étienne","FRA","MF",NA,20,0,0,0,0,4,1,25,0,0,27.7,0,9,7,2,0,0,0
+"Akim Zedadka","Clermont Foot","ALG","DF",NA,26,3,3,0,0,31,6,19.4,0,0,21.7,0,97,81,16,6,5,1
+"Alban Lafont","Nantes","FRA","GK",NA,22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,3,1,1,1,0
+"Alberth Elis","Bordeaux","HON","FW","MF",25,1,10,1,0,30,11,36.7,0.3,0.82,13.9,0,38,26,12,2,2,0
+"Aleksandr Golovin","Monaco","RUS","FW","MF",25,4,7,0,0,23,7,30.4,0.13,0.43,19.8,1,68,41,27,8,6,2
+"Alexander Djiku","Strasbourg","GHA","DF",NA,26,0,1,0,0,15,7,46.7,0.07,0.14,11.3,0,34,31,3,5,4,1
+"Alexander Nübel","Monaco","GER","GK",NA,24,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,2,0,0,0,0
+"Alexandre Letellier","Paris S-G","FRA","GK",NA,30,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Alexandre Oukidja","Metz","ALG","GK",NA,33,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Alexis Claude-Maurice","Nice","FRA","MF",NA,23,2,2,0,0,6,1,16.7,0,0,18.2,0,12,8,4,3,2,1
+"Alexis Flips","Reims","FRA","MF","DF",21,4,6,1,1,18,9,50,0.06,0.11,25,1,49,27,22,4,1,3
+"Alfred Gomis","Rennes","SEN","GK",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,2,0,0,0,0
+"Alidu Seidu","Clermont Foot","GHA","DF",NA,21,0,0,0,0,9,1,11.1,0,0,22.5,0,17,13,4,0,0,0
+"Álvaro González","Marseille","ESP","DF",NA,31,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Amadou Mbengue","Metz","SEN","DF","MF",19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,4,0,0,0,0
+"Amadou Onana","Lille","BEL","MF",NA,19,0,1,0,0,15,6,40,0.07,0.17,14.5,0,33,28,5,2,0,2
+"Amadou Traore","Bordeaux","FRA","FW",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Ambroise Oyongo","Montpellier","CMR","DF",NA,30,0,1,0,0,6,3,50,0.17,0.33,22.8,1,12,9,3,0,0,0
+"Amine Bassi","Metz","FRA","MF","FW",23,0,0,0,0,4,1,25,0,0,26.5,0,12,4,8,0,0,0
+"Amine Gouiri","Nice","ALG","FW","MF",21,9,19,5,3,71,33,46.5,0.1,0.21,18.2,2,132,75,57,17,14,3
+"Amine Harit","Marseille","MAR","FW","MF",24,4,8,0,0,15,7,46.7,0.27,0.57,16.5,1,49,36,13,6,4,2
+"Anastasios Donis","Reims","GRE","FW","MF",24,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,5,5,0,0,0,0
+"Ander Herrera","Paris S-G","ESP","MF",NA,31,2,5,0,0,14,3,21.4,0.21,1,22.3,0,39,35,4,7,7,0
+"Andrei Girotto","Nantes","BRA","DF","MF",29,1,7,0,0,45,10,22.2,0.13,0.6,16.1,3,27,21,6,2,2,0
+"Andrew Gravillon","Reims","GLP","DF",NA,23,0,0,0,0,16,4,25,0,0,20.5,2,22,15,7,1,1,0
+"Andy Delort","Nice","ALG","FW",NA,29,2,18,3,3,95,37,38.9,0.14,0.35,16.9,7,12,11,1,1,0,1
+"Andy Delort","Nice","ALG","FW",NA,29,2,18,3,3,95,37,38.9,0.14,0.35,16.9,7,65,50,15,9,6,3
+"Andy Delort","Nice","ALG","FW",NA,29,2,18,3,3,14,5,35.7,0.14,0.4,15.9,0,12,11,1,1,0,1
+"Andy Delort","Nice","ALG","FW",NA,29,2,18,3,3,14,5,35.7,0.14,0.4,15.9,0,65,50,15,9,6,3
+"Andy Delort","Montpellier","ALG","FW",NA,29,1,3,0,0,95,37,38.9,0.14,0.35,16.9,7,12,11,1,1,0,1
+"Andy Delort","Montpellier","ALG","FW",NA,29,1,3,0,0,95,37,38.9,0.14,0.35,16.9,7,65,50,15,9,6,3
+"Andy Delort","Montpellier","ALG","FW",NA,29,1,3,0,0,14,5,35.7,0.14,0.4,15.9,0,12,11,1,1,0,1
+"Andy Delort","Montpellier","ALG","FW",NA,29,1,3,0,0,14,5,35.7,0.14,0.4,15.9,0,65,50,15,9,6,3
+"Andy Diouf","Rennes","FRA","MF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Anel Ahmedhodžić","Bordeaux","BIH","DF",NA,22,1,1,0,0,8,4,50,0,0,16,0,20,16,4,2,2,0
+"Ángel Di María","Paris S-G","ARG","FW",NA,33,7,12,0,0,51,22,43.1,0.1,0.23,19.7,1,104,76,28,12,11,1
+"Angel Gomes","Lille","ENG","MF","FW",20,1,2,0,0,14,2,14.3,0.07,0.5,19.6,0,28,23,5,3,2,1
+"Angelo Fulgini","Angers","FRA","MF","FW",24,4,9,0,0,58,17,29.3,0.09,0.29,16.5,3,94,63,31,11,5,6
+"Anthony Caci","Strasbourg","FRA","DF",NA,24,3,4,0,0,15,4,26.7,0.07,0.25,18.1,0,55,47,8,5,4,1
+"Anthony Lopes","Lyon","POR","GK",NA,30,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,3,1,0,0,0
+"Anthony Mandrea","Angers","ALG","GK",NA,24,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Antonin Bobichon","Angers","FRA","MF","FW",25,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,2,0,0,0,0
+"Arber Zeneli","Reims","KVX","FW",NA,26,3,5,0,0,11,3,27.3,0.18,0.67,16.8,0,19,14,5,3,1,2
+"Arial Mendy","Clermont Foot","SEN","DF","FW",26,0,0,0,0,10,3,30,0,0,21.6,0,15,14,1,0,0,0
+"Arkadiusz Milik","Marseille","POL","FW",NA,27,2,9,1,1,53,19,35.8,0.11,0.32,13.8,2,24,21,3,5,5,0
+"Armand Lauriente","Lorient","FRA","FW","MF",22,2,8,1,1,84,36,42.9,0.06,0.14,21,22,99,57,42,8,4,4
+"Arnaud Kalimuendo","Paris S-G","FRA","FW",NA,19,0,0,0,0,60,29,48.3,0.17,0.34,17.1,0,55,40,15,6,3,3
+"Arnaud Kalimuendo","Paris S-G","FRA","FW",NA,19,0,0,0,0,60,29,48.3,0.17,0.34,17.1,0,0,0,0,0,0,0
+"Arnaud Kalimuendo","Lens","FRA","FW",NA,19,0,12,2,2,60,29,48.3,0.17,0.34,17.1,0,55,40,15,6,3,3
+"Arnaud Kalimuendo","Lens","FRA","FW",NA,19,0,12,2,2,60,29,48.3,0.17,0.34,17.1,0,0,0,0,0,0,0
+"Arnaud Nordin","Saint-Étienne","FRA","FW","MF",23,4,8,0,0,45,20,44.4,0.09,0.2,17.2,0,51,25,26,11,4,7
+"Arnaud Souquet","Montpellier","FRA","DF",NA,29,3,4,0,0,18,4,22.2,0.06,0.25,24.4,0,49,31,18,6,5,1
+"Arthur Desmas","Clermont Foot","FRA","GK",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Assane Dioussé","Saint-Étienne","SEN","MF",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Aurélien Tchouaméni","Monaco","FRA","MF",NA,21,2,5,0,0,55,10,18.2,0.05,0.3,22.5,0,71,50,21,8,8,0
+"Axel Disasi","Monaco","FRA","DF",NA,23,0,1,0,0,20,2,10,0.05,0.5,10.9,0,13,11,2,0,0,0
+"Azor Matusiwa","Reims","NED","MF",NA,23,1,2,0,0,10,5,50,0.1,0.2,23.7,0,41,36,5,4,4,0
+"Azzedine Ounahi","Angers","MAR","MF",NA,21,1,3,0,0,26,4,15.4,0.08,0.5,23.3,0,47,36,11,4,2,2
+"Bakary Sako","Saint-Étienne","MLI","FW","MF",33,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,1,2,0,0,0
+"Bamba Dieng","Marseille","SEN","FW",NA,21,1,8,1,1,36,18,50,0.17,0.33,11.9,0,20,11,9,5,1,4
+"Baptiste Mouazan","Lorient","FRA","MF",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Baptiste Santamaria","Rennes","FRA","MF","DF",26,1,3,0,0,34,7,20.6,0.06,0.29,18,0,44,41,3,8,7,1
+"Batista Mendy","Angers","FRA","MF","DF",21,1,2,0,0,14,6,42.9,0.07,0.17,21.7,0,22,18,4,2,2,0
+"Béni Makouana","Montpellier","CGO","FW","MF",18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,7,6,1,0,0,0
+"Benjamin André","Lille","FRA","MF",NA,30,1,3,0,0,18,5,27.8,0.11,0.4,14.5,0,56,46,10,5,4,1
+"Benjamin Bourigeaud","Rennes","FRA","FW","MF",27,12,23,0,0,51,21,41.2,0.22,0.52,17.3,8,176,97,79,18,14,4
+"Benoît Badiashile","Monaco","FRA","DF",NA,20,0,1,0,0,14,4,28.6,0.07,0.25,10.4,0,15,11,4,1,0,1
+"Benoît Costil","Bordeaux","FRA","GK",NA,34,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,6,4,2,0,0,0
+"Bilal Brahimi","Angers","ALG","FW",NA,21,1,1,0,0,6,2,33.3,0,0,17.7,0,18,13,5,0,0,0
+"Bilal Brahimi","Angers","ALG","FW",NA,21,1,1,0,0,6,2,33.3,0,0,17.7,0,14,8,6,3,1,2
+"Bilal Brahimi","Nice","ALG","MF",NA,21,0,0,0,0,6,2,33.3,0,0,17.7,0,18,13,5,0,0,0
+"Bilal Brahimi","Nice","ALG","MF",NA,21,0,0,0,0,6,2,33.3,0,0,17.7,0,14,8,6,3,1,2
+"Birger Meling","Rennes","NOR","DF",NA,26,4,4,0,0,3,1,33.3,0,0,16.2,0,42,38,4,9,9,0
+"Bonke Innocent","Lorient","NGA","MF",NA,25,0,0,0,0,3,1,33.3,0,0,14.1,0,10,7,3,0,0,0
+"Boubacar Kamara","Marseille","FRA","MF","DF",21,0,1,0,0,22,3,13.6,0.05,0.33,20.5,0,53,43,10,5,3,2
+"Boubacar Traoré","Metz","MLI","MF",NA,19,1,2,0,0,22,5,22.7,0.05,0.2,28.3,0,44,35,9,2,1,1
+"Boubakar Kouyaté","Metz","MLI","DF",NA,24,0,1,0,0,22,6,27.3,0.05,0.17,14.3,0,14,8,6,1,1,0
+"Bradley Barcola","Lyon","FRA","FW","MF",18,1,1,0,0,5,2,40,0,0,13,0,11,9,2,2,2,0
+"Bradley Locko","Reims","FRA","MF","DF",19,1,2,0,0,7,2,28.6,0.14,0.5,24.1,0,20,16,4,7,6,1
+"Brandon Domingues","Troyes","FRA","MF","FW",21,0,1,0,0,4,2,50,0.25,0.5,19.6,0,6,5,1,0,0,0
+"Brayann Pereira","Lens","FRA","DF","MF",18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Brendan Chardonnet","Brest","FRA","DF",NA,26,0,3,0,0,14,6,42.9,0.21,0.5,13.7,0,19,15,4,2,2,0
+"Bruno Guimarães","Lyon","BRA","MF",NA,23,3,3,0,0,11,2,18.2,0,0,24.2,1,83,69,14,9,8,1
+"Bryan Djile Nokoué","Saint-Étienne","CMR","DF","MF",19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Burak Yılmaz","Lille","TUR","FW",NA,36,3,7,2,2,68,25,36.8,0.03,0.08,17,5,46,31,15,5,2,3
+"Caio Henrique Oliveira Silva","Monaco","BRA","DF",NA,24,8,10,0,0,19,6,31.6,0.11,0.33,21.8,4,91,63,28,12,10,2
+"Calvin Stengs","Nice","NED","MF",NA,22,1,2,0,0,21,5,23.8,0.05,0.2,17.9,0,40,29,11,3,3,0
+"Casimir Ninga","Angers","CHA","FW",NA,28,0,0,0,0,9,2,22.2,0,0,12.3,0,4,3,1,0,0,0
+"Castello Lukeba","Lyon","FRA","DF",NA,18,0,2,0,0,6,3,50,0.33,0.67,8.3,0,14,12,2,0,0,0
+"Cédric Bakambu","Marseille","COD","FW",NA,30,0,4,0,0,19,8,42.1,0.21,0.5,13.4,0,13,11,2,3,3,0
+"Cédric Hountondji","Clermont Foot","BEN","DF",NA,27,0,1,0,0,8,3,37.5,0.13,0.33,9.7,0,6,3,3,1,1,0
+"Cengiz Ünder","Marseille","TUR","FW","MF",24,2,12,1,1,57,19,33.3,0.16,0.47,19.2,1,83,53,30,9,5,4
+"Cesc Fàbregas","Monaco","ESP","MF",NA,34,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,1,2,0,0,0
+"Charles Abi","Saint-Étienne","FRA","FW",NA,21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Charles Boli","Lens","FRA","MF","DF",22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Charles Traore","Nantes","MLI","DF",NA,29,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,8,6,2,0,0,0
+"Cheick Doucouré","Lens","MLI","MF",NA,21,4,5,0,0,31,11,35.5,0.03,0.09,22.9,0,96,83,13,9,7,2
+"Cheikh Niasse","Lille","SEN","FW","MF",21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Cheikh Tidiane Sabaly","Metz","SEN","FW","MF",22,0,0,0,0,2,1,50,0,0,19.5,0,6,6,0,1,1,0
+"Chrislain Matsima","Monaco","FRA","DF",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Christophe Hérelle","Brest","MTQ","DF",NA,28,0,0,0,0,6,2,33.3,0,0,11.1,0,11,10,1,0,0,0
+"Christopher Wooh","Lens","CMR","DF",NA,19,1,1,0,0,8,2,25,0,0,18.6,0,11,6,5,3,2,1
+"Colin Dagba","Paris S-G","FRA","DF",NA,22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,4,0,0,0,0
+"Corentin Jean","Lens","FRA","FW","MF",26,0,1,0,0,7,2,28.6,0.14,0.5,18.1,0,8,5,3,0,0,0
+"Damien Da Silva","Lyon","FRA","DF",NA,33,0,0,0,0,12,1,8.3,0,0,10.7,0,9,5,4,1,1,0
+"Dan Ndoye","Nice","SUI","FW","MF",20,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,5,5,0,1,1,0
+"Dango Ouattara","Lorient","BFA","MF","FW",19,2,3,0,0,24,8,33.3,0.04,0.13,17.5,0,24,14,10,2,2,0
+"Danijel Petković","Angers","MNE","GK",NA,28,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Danilo Barbosa","Nice","BRA","DF",NA,25,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Danilo Pereira","Paris S-G","POR","MF",NA,29,0,5,0,0,19,8,42.1,0.26,0.63,10.7,0,25,19,6,1,1,0
+"Dante","Nice","BRA","DF",NA,37,0,0,0,0,12,2,16.7,0,0,14.2,0,27,23,4,3,1,2
+"Danylo Ihnatenko","Bordeaux","UKR","MF",NA,24,3,3,0,0,12,1,8.3,0,0,28,1,24,19,5,4,2,2
+"Darío Benedetto","Marseille","ARG","FW","MF",31,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"David Costa","Lens","POR","MF","FW",20,5,8,0,0,25,8,32,0.12,0.38,19.9,0,70,61,9,10,8,2
+"Deiver Machado","Lens","COL","DF","MF",27,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,16,12,4,1,1,0
+"Denis Bouanga","Saint-Étienne","GAB","FW","MF",26,6,15,0,0,84,30,35.7,0.11,0.3,18.9,4,87,49,38,12,5,7
+"Dennis Appiah","Nantes","FRA","DF",NA,29,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,15,13,2,0,0,0
+"Dénys Bain","Brest","FRA","DF",NA,28,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Derek Mazou-Sacko","Troyes","FRA","FW","DF",16,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Didier Lamkel Zé","Metz","CMR","FW",NA,24,0,3,0,0,14,7,50,0.21,0.43,12.9,0,16,10,6,1,0,1
+"Dilane Bakwa","Bordeaux","FRA","FW","MF",18,0,0,0,0,2,1,50,0,0,18,0,0,0,0,0,0,0
+"Dimitri Liénard","Strasbourg","FRA","DF","MF",33,3,5,0,0,23,3,13,0.09,0.67,21.2,4,70,40,30,10,7,3
+"Dimitri Payet","Marseille","FRA","FW","MF",34,10,22,7,7,61,18,29.5,0.08,0.28,24.4,24,191,116,75,20,12,8
+"Dimitry Bertaud","Montpellier","COD","GK",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,2,0,1,1,0
+"Dion Lopy","Reims","SEN","MF",NA,19,0,0,0,0,16,2,12.5,0,0,23.8,0,22,17,5,2,2,0
+"Dion Moise Sahi","Strasbourg","CIV","FW","MF",19,0,0,0,0,5,2,40,0,0,11.5,0,2,1,1,0,0,0
+"Djeidi Gassama","Paris S-G","FRA","FW",NA,17,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Djibril Sidibé","Monaco","FRA","DF",NA,29,0,0,0,0,4,1,25,0,0,23.9,1,16,13,3,1,1,0
+"Doğan Alemdar","Rennes","TUR","GK",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,1,1,0
+"Domagoj Bradarić","Lille","CRO","DF",NA,21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,10,8,2,0,0,0
+"Duje Ćaleta-Car","Marseille","CRO","DF",NA,24,0,2,0,0,12,4,33.3,0.17,0.5,10.6,0,11,9,2,2,1,1
+"Dylan Bronn","Metz","TUN","DF",NA,26,2,3,0,0,15,7,46.7,0.07,0.14,13.6,0,15,14,1,4,3,1
+"Dylan Chambost","Troyes","FRA","MF","FW",23,1,1,0,0,10,1,10,0,0,20.6,1,21,16,5,1,0,1
+"Edon Zhegrova","Lille","KVX","MF","FW",22,1,3,0,0,15,7,46.7,0.13,0.29,20.3,0,30,19,11,1,1,0
+"Edouard Michut","Paris S-G","FRA","MF",NA,18,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,3,2,1,1,1,0
+"Eduardo Camavinga","Rennes","FRA","MF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,3,1,1,1,0
+"Eiji Kawashima","Strasbourg","JPN","GK",NA,38,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"El Bilal Touré","Reims","MLI","FW",NA,19,4,6,1,1,32,10,31.3,0.03,0.1,14,0,28,21,7,7,5,2
+"El Chadaille Bitshiabu","Paris S-G","FRA","DF",NA,16,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Elba Rashani","Clermont Foot","KVX","FW","MF",28,3,11,0,0,30,12,40,0.27,0.67,13.7,0,34,27,7,5,4,1
+"Elhadji Dieye","Saint-Étienne","SEN","FW","MF",19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Eliaquim Mangala","Saint-Étienne","FRA","DF",NA,30,0,1,0,0,3,1,33.3,0.33,1,9.9,0,1,1,0,0,0,0
+"Eliot Matazo","Monaco","BEL","MF",NA,19,0,0,0,0,4,1,25,0,0,28,0,11,9,2,0,0,0
+"Elye Wahi","Montpellier","FRA","FW",NA,18,1,11,0,0,43,20,46.5,0.23,0.5,12.9,0,24,15,9,5,4,1
+"Emerson Palmieri","Lyon","ITA","DF",NA,26,2,3,0,0,16,5,31.3,0.06,0.2,22.7,6,63,48,15,5,5,0
+"Enock Kwateng","Bordeaux","FRA","DF",NA,24,0,1,0,0,7,3,42.9,0.14,0.33,16.7,0,32,25,7,0,0,0
+"Enzo Crivelli","Saint-Étienne","FRA","FW","MF",26,0,0,0,0,3,1,33.3,0,0,14.1,0,0,0,0,0,0,0
+"Enzo Ebosse","Angers","CMR","DF",NA,22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,26,18,8,1,1,0
+"Enzo Le Fée","Lorient","FRA","MF","FW",21,3,5,0,0,33,9,27.3,0.06,0.22,23.9,5,101,59,42,8,4,4
+"Enzo Tchato","Montpellier","CMR","FW",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Eric N'Jo","Troyes","FRA","DF",NA,17,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Erik Palmer-Brown","Troyes","USA","DF",NA,24,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,7,6,1,0,0,0
+"Etienne Green","Saint-Étienne","ENG","GK",NA,21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,1,2,0,0,0
+"Evann Guessand","Nice","CIV","FW",NA,20,2,3,0,0,12,5,41.7,0.08,0.2,10.3,0,14,5,9,3,2,1
+"Fabien Centonze","Metz","FRA","DF",NA,25,1,5,0,0,15,7,46.7,0.27,0.57,20.8,0,27,19,8,4,4,0
+"Fabien Lemoine","Lorient","FRA","MF",NA,34,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,22,20,2,1,1,0
+"Fábio","Nantes","BRA","DF",NA,31,2,2,0,0,11,1,9.1,0,0,17.7,0,28,19,9,5,4,1
+"Facundo Medina","Lens","ARG","DF",NA,22,0,1,0,0,9,2,22.2,0.11,0.5,9.9,0,33,28,5,5,4,1
+"Falaye Sacko","Saint-Étienne","MLI","DF",NA,26,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,9,8,1,0,0,0
+"Fali Candé","Metz","GNB","DF",NA,23,2,2,0,0,6,2,33.3,0,0,27,3,17,9,8,3,3,0
+"Farid Boulaya","Metz","ALG","MF","FW",28,2,6,0,0,19,6,31.6,0.21,0.67,24.2,6,46,31,15,2,0,2
+"Farid El Melali","Angers","ALG","FW",NA,24,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Félix Lemaréchal","Monaco","FRA","MF",NA,17,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Flavien Tait","Rennes","FRA","MF",NA,28,3,8,0,0,42,12,28.6,0.12,0.42,20.7,0,97,73,24,11,7,4
+"Flavius Daniliuc","Nice","AUT","DF",NA,20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,11,11,0,2,2,0
+"Florent Mollet","Montpellier","FRA","FW","MF",29,2,8,0,0,55,17,30.9,0.11,0.35,21.5,12,88,53,35,6,4,2
+"Florent Ogier","Clermont Foot","FRA","DF",NA,32,0,1,0,0,7,3,42.9,0.14,0.33,11.6,0,9,9,0,1,1,0
+"Florian Sotoca","Lens","FRA","FW","MF",30,4,10,2,2,69,24,34.8,0.06,0.17,15.5,0,80,58,22,9,4,5
+"Florian Tardieu","Troyes","FRA","MF",NA,29,2,6,4,4,20,5,25,0,0,31.2,4,93,58,35,3,2,1
+"Fodé Doucouré","Reims","MLI","DF","FW",20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,3,1,0,0,0
+"Franck Honorat","Brest","FRA","FW","MF",24,4,15,0,0,60,30,50,0.18,0.37,20.5,1,124,73,51,15,6,9
+"Fransérgio","Bordeaux","BRA","MF",NA,30,1,1,0,0,14,2,14.3,0,0,21.7,1,15,12,3,2,2,0
+"Fraser Hornby","Reims","SCO","FW","MF",21,0,0,0,0,6,2,33.3,0,0,12.2,0,4,4,0,0,0,0
+"Frederic Guilbert","Strasbourg","FRA","DF",NA,26,4,4,0,0,24,5,20.8,0,0,24.5,3,93,50,43,6,3,3
+"Gabriel Gudmundsson","Lille","SWE","DF","MF",22,0,1,0,0,19,6,31.6,0.05,0.17,17,0,27,19,8,1,1,0
+"Gabriel Silva","Saint-Étienne","BRA","DF","MF",30,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,5,5,0,0,0,0
+"Gaël Kakuta","Lens","COD","MF","FW",30,2,5,1,1,40,14,35,0.05,0.14,23.6,2,52,37,15,4,2,2
+"Gaëtan Laborde","Montpellier","FRA","FW",NA,27,0,3,0,0,14,4,28.6,0.21,0.75,15.5,0,79,61,18,19,13,6
+"Gaëtan Laborde","Montpellier","FRA","FW",NA,27,0,3,0,0,14,4,28.6,0.21,0.75,15.5,0,10,6,4,0,0,0
+"Gaëtan Laborde","Montpellier","FRA","FW",NA,27,0,3,0,0,84,32,38.1,0.12,0.31,12.4,0,79,61,18,19,13,6
+"Gaëtan Laborde","Montpellier","FRA","FW",NA,27,0,3,0,0,84,32,38.1,0.12,0.31,12.4,0,10,6,4,0,0,0
+"Gaëtan Laborde","Rennes","FRA","FW",NA,27,8,20,2,2,14,4,28.6,0.21,0.75,15.5,0,79,61,18,19,13,6
+"Gaëtan Laborde","Rennes","FRA","FW",NA,27,8,20,2,2,14,4,28.6,0.21,0.75,15.5,0,10,6,4,0,0,0
+"Gaëtan Laborde","Rennes","FRA","FW",NA,27,8,20,2,2,84,32,38.1,0.12,0.31,12.4,0,79,61,18,19,13,6
+"Gaëtan Laborde","Rennes","FRA","FW",NA,27,8,20,2,2,84,32,38.1,0.12,0.31,12.4,0,10,6,4,0,0,0
+"Gaëtan Poussin","Bordeaux","FRA","GK",NA,22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,1,1,0,0,0
+"Gauthier Gallon","Troyes","FRA","GK",NA,28,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Gelson Martins","Monaco","POR","MF","FW",26,3,7,0,0,30,11,36.7,0.13,0.36,13.5,0,38,29,9,3,3,0
+"Georges Mikautadze","Metz","GEO","FW",NA,20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,0
+"Georginio Wijnaldum","Paris S-G","NED","MF",NA,30,3,4,0,0,22,2,9.1,0.05,0.5,15.3,0,26,24,2,7,6,1
+"Gerson","Marseille","BRA","MF","FW",24,4,13,0,0,45,18,40,0.2,0.5,17.2,0,82,59,23,12,8,4
+"Gerson Rodrigues","Troyes","LUX","FW","MF",26,1,2,0,0,23,7,30.4,0.04,0.14,19.9,0,21,19,2,2,1,1
+"Gerzino Nyamsi","Strasbourg","FRA","DF",NA,24,2,2,0,0,28,6,21.4,0,0,10.7,0,14,9,5,2,2,0
+"Ghislain Konan","Reims","CIV","DF",NA,25,3,4,0,0,19,5,26.3,0.05,0.2,24.1,1,54,45,9,6,5,1
+"Gianluigi Donnarumma","Paris S-G","ITA","GK",NA,22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Gideon Mensah","Bordeaux","GHA","DF",NA,23,2,2,0,0,NA,NA,NA,NA,NA,NA,NA,35,31,4,5,4,1
+"Giulian Biancone","Troyes","FRA","DF","MF",21,2,3,0,0,28,9,32.1,0.04,0.11,18.3,1,45,34,11,3,2,1
+"Grejohn Kyei","Clermont Foot","FRA","FW",NA,25,1,1,0,0,11,3,27.3,0,0,9.5,0,11,8,3,1,1,0
+"Guillermo Maripán","Monaco","CHI","DF",NA,27,0,0,0,0,7,2,28.6,0,0,10.6,0,14,12,2,1,1,0
+"Habib Diallo","Strasbourg","SEN","FW",NA,26,1,12,2,2,49,21,42.9,0.18,0.43,13.2,0,33,24,9,8,4,4
+"Habib Diarra","Strasbourg","SEN","MF",NA,17,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Habib Keita","Lyon","MLI","MF","FW",19,0,0,0,0,2,2,100,0,0,19.3,0,0,0,0,0,0,0
+"Habib Maïga","Metz","CIV","MF",NA,25,0,2,0,0,11,5,45.5,0.18,0.4,20.4,0,26,23,3,1,1,0
+"Hamari Traoré","Rennes","MLI","DF",NA,29,10,13,0,0,31,9,29,0.1,0.33,17.2,0,77,64,13,15,13,2
+"Haris Belkebla","Brest","ALG","MF",NA,27,0,0,0,0,4,1,25,0,0,24.3,0,34,32,2,1,1,0
+"Harold Moukoudi","Saint-Étienne","CMR","DF",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,12,9,3,0,0,0
+"Hassane Kamara","Nice","CIV","MF","DF",27,0,0,0,0,13,1,7.7,0,0,17.4,0,7,6,1,1,1,0
+"Hatem Ben Arfa","Lille","FRA","FW","MF",34,1,1,0,0,3,1,33.3,0,0,16.6,1,13,9,4,2,1,1
+"Henrique","Lyon","BRA","DF",NA,27,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,18,17,1,1,1,0
+"Hianga Mananga Mbock","Brest","FRA","MF",NA,21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,6,4,2,1,1,0
+"Hicham Boudaoui","Nice","ALG","MF",NA,21,2,5,0,0,16,5,31.3,0.19,0.6,18.1,0,32,27,5,4,4,0
+"Houboulang Mendes","Lorient","GNB","DF",NA,23,1,1,0,0,21,5,23.8,0,0,19.6,0,40,32,8,2,1,1
+"Houssem Aouar","Lyon","ALG","MF","FW",23,4,10,0,0,76,24,31.6,0.08,0.25,17.9,0,101,77,24,6,5,1
+"Hugo Ekitike","Reims","FRA","FW",NA,19,3,13,2,1,29,16,55.2,0.31,0.56,14.4,0,40,23,17,9,4,5
+"Hugo Magnetti","Brest","FRA","MF",NA,23,1,1,0,0,17,2,11.8,0,0,24.4,0,20,16,4,2,0,2
+"Hwang Ui-jo","Bordeaux","KOR","FW",NA,28,2,13,0,0,55,22,40,0.2,0.5,16.4,0,30,17,13,1,1,0
+"Ibrahim Amadou","Metz","FRA","DF","MF",28,0,1,0,0,3,2,66.7,0.33,0.5,9.4,0,9,8,1,0,0,0
+"Ibrahim Diakité","Reims","GUI","MF",NA,17,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Ibrahima Baldé","Lens","FRA","FW","MF",18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,0
+"Ibrahima Koné","Lorient","MLI","FW",NA,22,1,6,0,0,15,8,53.3,0.33,0.63,14.9,0,27,17,10,3,2,1
+"Ibrahima Niane","Metz","SEN","FW",NA,22,1,4,1,1,42,9,21.4,0.05,0.22,17.9,1,29,19,10,6,4,2
+"Ibrahima Sissoko","Strasbourg","MLI","MF","DF",23,5,7,0,0,26,6,23.1,0.08,0.33,15,0,57,45,12,8,7,1
+"Idrissa Gana Gueye","Paris S-G","SEN","MF",NA,31,1,4,0,0,24,7,29.2,0.13,0.43,23.6,0,38,32,6,3,3,0
+"Ignatius Ganago","Lens","CMR","FW",NA,22,1,6,0,0,31,10,32.3,0.16,0.5,13.2,0,29,21,8,1,1,0
+"Igor Carioca","Lorient","BRA","DF",NA,24,0,0,0,0,14,6,42.9,0,0,22.7,0,31,25,6,2,2,0
+"Ike Ugbo","Troyes","CAN","FW",NA,22,0,5,1,1,15,6,40,0.27,0.67,14.7,0,10,7,3,1,0,1
+"Ilan Kebbal","Reims","ALG","MF","FW",23,4,5,0,0,27,6,22.2,0.04,0.17,19.7,0,71,50,21,7,4,3
+"Irvin Cardona","Brest","FRA","FW","MF",23,2,6,0,0,26,12,46.2,0.15,0.33,15.4,0,27,18,9,4,2,2
+"Isaac Lihadji","Lille","FRA","MF","FW",19,3,4,0,0,3,2,66.7,0.33,0.5,19,0,18,13,5,4,3,1
+"Islam Slimani","Lyon","ALG","FW",NA,33,1,2,0,0,12,4,33.3,0.08,0.25,11.5,0,14,10,4,2,1,1
+"Ismaël Boura","Lens","COM","DF",NA,20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Ismaël Doukouré","Strasbourg","FRA","DF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Ismaël Gharbi","Paris S-G","ESP","FW",NA,17,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Ismaël Traoré","Angers","CIV","DF",NA,34,1,5,0,0,25,9,36,0.16,0.44,9.2,0,20,15,5,1,1,0
+"Ismail Jakobs","Monaco","SEN","DF","FW",21,1,1,0,0,5,1,20,0,0,13.7,0,39,30,9,5,3,2
+"Issa Kaboré","Troyes","BFA","DF","MF",20,1,1,0,0,7,2,28.6,0,0,19.2,0,52,34,18,2,2,0
+"Issouf Sissokho","Bordeaux","MLI","MF",NA,19,0,0,0,0,3,2,66.7,0,0,24.3,0,14,12,2,0,0,0
+"Ivo Grbić","Lille","CRO","GK",NA,25,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,2,1,0,0,0
+"Jason Berthomier","Clermont Foot","FRA","MF",NA,31,5,6,0,0,23,4,17.4,0.04,0.25,20.8,6,89,45,44,9,3,6
+"Jason Denayer","Lyon","BEL","DF",NA,26,0,3,0,0,6,4,66.7,0.5,0.75,7.7,0,4,4,0,1,1,0
+"Jason Mbock","Angers","FRA","FW",NA,21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Javairô Dilrosun","Bordeaux","NED","MF","FW",23,6,8,0,0,40,10,25,0.05,0.2,22.4,5,83,47,36,12,6,6
+"Jean Lucas","Monaco","BRA","MF",NA,23,1,2,0,0,26,9,34.6,0.04,0.11,21,1,37,18,19,2,2,0
+"Jean Onana","Bordeaux","CMR","MF",NA,21,2,5,0,0,21,4,19,0.14,0.75,23.4,0,38,32,6,4,3,1
+"Jean-Armel Kana-Biyik","Metz","CMR","DF",NA,32,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Jean-Charles Castelletto","Nantes","CMR","DF",NA,26,0,1,0,0,16,4,25,0.06,0.25,10.8,0,17,12,5,1,0,1
+"Jean-Clair Todibo","Nice","FRA","DF",NA,21,0,1,0,0,19,6,31.6,0.05,0.17,9.9,0,34,26,8,4,2,2
+"Jean-Claude Billong","Clermont Foot","CMR","DF",NA,27,0,0,0,0,5,1,20,0,0,10.8,0,4,3,1,0,0,0
+"Jean-Eudes Aholou","Strasbourg","CIV","MF",NA,27,1,2,0,0,17,2,11.8,0.06,0.5,21.2,0,23,19,4,3,3,0
+"Jean-Kévin Augustin","Nantes","FRA","FW","MF",24,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,0
+"Jean-Kevin Duverne","Brest","HAI","DF",NA,24,3,4,0,0,12,3,25,0.08,0.33,17.1,0,58,45,13,6,5,1
+"Jean-Louis Leca","Lens","FRA","GK",NA,35,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1
+"Jean-Philippe Krasso","Saint-Étienne","CIV","FW",NA,24,1,2,0,0,12,2,16.7,0.08,0.5,11.2,0,15,8,7,4,3,1
+"Jean-Ricner Bellegarde","Strasbourg","FRA","MF",NA,23,3,5,0,0,31,7,22.6,0.06,0.29,20.8,2,52,32,20,5,3,2
+"Jeanuël Belocian","Rennes","FRA","DF",NA,16,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Jeff Reine-Adélaïde","Lyon","FRA","MF","DF",23,1,1,0,0,3,1,33.3,0,0,22.5,0,13,12,1,2,2,0
+"Jemerson","Metz","BRA","DF",NA,28,0,0,0,0,5,2,40,0,0,11.5,0,4,3,1,0,0,0
+"Jens Cajuste","Reims","SWE","MF","FW",21,0,2,1,1,8,6,75,0.13,0.17,16.9,0,7,3,4,1,1,0
+"Jere Uronen","Brest","FIN","DF",NA,27,0,0,0,0,4,1,25,0,0,28.3,0,5,3,2,0,0,0
+"Jeremy Doku","Rennes","BEL","FW","MF",19,2,3,0,0,5,2,40,0.2,0.5,15.1,0,24,17,7,5,4,1
+"Jérémy Le Douaron","Brest","FRA","FW","MF",23,3,8,0,0,35,16,45.7,0.14,0.31,14.6,0,25,20,5,5,4,1
+"Jérémy Morel","Lorient","MAD","DF",NA,37,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,4,0,0,0,0
+"Jérémy Pied","Lille","FRA","DF","FW",32,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Jérôme Boateng","Lyon","GER","DF",NA,32,1,1,0,0,5,3,60,0,0,17.9,0,23,20,3,3,3,0
+"Jérôme Hergault","Lorient","FRA","DF",NA,35,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,5,3,2,0,0,0
+"Jérôme Phojo","Clermont Foot","FRA","DF",NA,28,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Jessy Moulin","Troyes","FRA","GK",NA,35,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Jim Allevinah","Clermont Foot","GAB","FW",NA,26,2,3,0,0,43,15,34.9,0.02,0.07,19.2,1,53,32,21,3,2,1
+"Jimmy Briand","Bordeaux","FRA","FW","MF",35,1,3,2,1,8,2,25,0.13,0.5,17.2,0,18,14,4,2,1,1
+"Jimmy Cabot","Angers","FRA","DF",NA,27,5,5,0,0,11,3,27.3,0,0,22.4,0,36,28,8,4,3,1
+"Jimmy Giraudon","Troyes","FRA","DF",NA,29,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,7,7,0,0,0,0
+"Jodel Dossou","Clermont Foot","BEN","FW",NA,29,1,4,0,0,52,17,32.7,0.06,0.18,17.1,0,66,42,24,6,2,4
+"Johan Gastien","Clermont Foot","FRA","MF",NA,33,1,1,0,0,24,7,29.2,0,0,23.5,1,74,54,20,8,6,2
+"Johaneko Louisjean","Bordeaux","FRA","DF",NA,17,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Jonas Martin","Rennes","FRA","MF",NA,31,1,2,0,0,21,4,19,0.05,0.25,20.3,0,38,32,6,4,3,1
+"Jonas Omlin","Montpellier","SUI","GK",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,2,0,2,2,0
+"Jonathan Bamba","Lille","CIV","MF","FW",25,2,3,0,0,51,12,23.5,0.02,0.08,19.9,2,89,47,42,7,5,2
+"Jonathan Clauss","Lens","FRA","DF",NA,28,11,16,0,0,40,16,40,0.13,0.31,22.1,12,142,82,60,21,16,5
+"Jonathan David","Lille","CAN","FW",NA,21,0,15,3,2,67,30,44.8,0.19,0.43,13.8,0,77,63,14,4,4,0
+"Jonathan Gradit","Lens","FRA","DF",NA,28,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,40,38,2,5,5,0
+"Jonathan Iglesias","Clermont Foot","URU","MF",NA,32,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,11,10,1,0,0,0
+"Jonathan Ikone","Lille","FRA","MF","FW",23,0,1,0,0,22,8,36.4,0.05,0.13,18.7,2,35,28,7,2,1,1
+"Jonathan Varane","Lens","FRA","MF",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Jordan Amavi","Nice","FRA","DF",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,2,0,1,1,0
+"Jordan Amavi","Nice","FRA","DF",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,6,4,2,1,0,1
+"Jordan Amavi","Marseille","FRA","DF","FW",27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,2,0,1,1,0
+"Jordan Amavi","Marseille","FRA","DF","FW",27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,6,4,2,1,0,1
+"Jordan Ferri","Montpellier","FRA","MF",NA,29,2,2,0,0,14,2,14.3,0,0,25.8,0,89,76,13,5,5,0
+"Jordan Lotomba","Nice","SUI","DF",NA,22,0,0,0,0,9,2,22.2,0,0,17.1,0,37,30,7,4,4,0
+"Jordan Tell","Clermont Foot","GLP","FW",NA,24,1,2,0,0,8,3,37.5,0.13,0.33,12.1,0,10,8,2,1,0,1
+"Joris Chotard","Montpellier","FRA","MF",NA,19,1,2,0,0,18,3,16.7,0.06,0.33,20.9,0,37,31,6,5,3,2
+"José Fonte","Lille","POR","DF",NA,37,2,2,0,0,21,6,28.6,0,0,11.2,0,31,27,4,5,4,1
+"Josh Maja","Bordeaux","NGA","FW",NA,22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,1,1,0,0,0
+"Josué Albert","Clermont Foot","GUF","DF",NA,29,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Josuha Guilavogui","Bordeaux","FRA","MF","DF",30,1,2,0,0,9,3,33.3,0.11,0.33,18.5,0,31,27,4,4,4,0
+"Juan Bernat","Paris S-G","ESP","DF","MF",28,0,0,0,0,1,1,100,0,0,15.3,0,10,10,0,1,1,0
+"Juan Ignacio Ramírez","Saint-Étienne","URU","FW",NA,24,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Julian Draxler","Paris S-G","GER","FW","MF",27,1,3,0,0,9,3,33.3,0.22,0.67,15.4,0,15,12,3,2,2,0
+"Julian Pollersbeck","Lyon","GER","GK",NA,26,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Julien Faussurier","Brest","FRA","MF","DF",34,1,1,0,0,4,3,75,0,0,15.4,0,20,16,4,1,0,1
+"Julien Laporte","Lorient","FRA","DF",NA,27,0,2,0,0,17,3,17.6,0.12,0.67,13.5,0,12,11,1,1,1,0
+"Junior Dina Ebimbe","Paris S-G","FRA","MF",NA,20,0,0,0,0,4,1,25,0,0,25.3,0,4,4,0,1,1,0
+"Junior Mwanga","Bordeaux","FRA","DF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Junior Sambia","Montpellier","FRA","DF","FW",24,0,1,0,0,20,6,30,0.05,0.17,23.4,2,34,20,14,3,2,1
+"Justin Kluivert","Nice","NED","MF",NA,22,5,9,0,0,30,10,33.3,0.13,0.4,18.6,2,64,34,30,8,3,5
+"Kaj Sierhuis","Reims","NED","FW",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,3,0,0,0,0
+"Kalifa Coulibaly","Nantes","MLI","FW",NA,29,0,5,0,0,26,10,38.5,0.19,0.5,9.2,0,15,13,2,0,0,0
+"Kamaldeen Sulemana","Rennes","GHA","MF","FW",19,2,6,0,0,26,8,30.8,0.15,0.5,20.5,0,46,34,12,4,3,1
+"Kamory Doumbia","Reims","MLI","MF","FW",18,1,3,0,0,4,2,50,0.5,1,17,0,11,7,4,2,1,1
+"Karim Azamoum","Troyes","FRA","DF",NA,31,0,0,0,0,3,3,100,0,0,22.4,1,1,1,0,0,0,0
+"Karl Toko Ekambi","Lyon","CMR","FW",NA,28,5,17,2,2,74,36,48.6,0.14,0.28,14.4,0,85,65,20,12,9,3
+"Karol Fila","Strasbourg","POL","DF",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,8,8,0,1,1,0
+"Kasper Dolberg","Nice","DEN","FW",NA,23,2,8,2,2,38,13,34.2,0.11,0.31,16.2,0,31,24,7,3,2,1
+"Kevin Danso","Lens","AUT","DF",NA,22,2,4,0,0,13,4,30.8,0.15,0.5,10.6,0,25,20,5,3,1,2
+"Kévin Gameiro","Strasbourg","FRA","FW",NA,34,3,14,3,1,65,25,38.5,0.15,0.4,14.2,0,67,57,10,9,6,3
+"Kévin N'Doram","Metz","FRA","MF",NA,25,0,0,0,0,7,1,14.3,0,0,16.6,0,23,21,2,2,1,1
+"Kevin Volland","Monaco","GER","MF","FW",29,9,18,1,1,50,23,46,0.16,0.35,13.5,2,69,58,11,17,14,3
+"Keylor Navas","Paris S-G","CRC","GK",NA,34,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Khéphren Thuram","Nice","FRA","MF",NA,20,2,6,0,0,23,7,30.4,0.17,0.57,17,0,52,40,12,9,6,3
+"Konrad De La Fuente","Marseille","USA","FW","MF",20,2,2,0,0,15,4,26.7,0,0,17.3,0,22,18,4,5,3,2
+"Krépin Diatta","Monaco","SEN","MF","DF",22,0,1,0,0,3,3,100,0.33,0.33,17.4,0,4,4,0,1,1,0
+"Kylian Mbappé","Paris S-G","FRA","FW",NA,22,17,45,4,4,143,59,41.3,0.17,0.41,16.9,3,181,115,66,40,21,19
+"Lamine Ghezali","Saint-Étienne","FRA","DF",NA,22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Lamine Gueye","Metz","SEN","FW","MF",23,3,3,0,0,14,7,50,0,0,17.5,1,22,13,9,4,2,2
+"Laurent Abergel","Lorient","FRA","MF",NA,28,2,2,0,0,29,7,24.1,0,0,24.2,0,83,67,16,9,8,1
+"Laurent Koscielny","Bordeaux","FRA","DF",NA,35,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,9,9,0,1,1,0
+"Leandro Paredes","Paris S-G","ARG","MF",NA,27,2,3,0,0,8,2,25,0.13,0.5,27.3,0,19,16,3,5,2,3
+"Lebo Mothiba","Strasbourg","RSA","FW",NA,25,0,0,0,0,5,2,40,0.2,0.5,15.4,0,6,4,2,1,0,1
+"Lebo Mothiba","Strasbourg","RSA","FW",NA,25,0,0,0,0,5,2,40,0.2,0.5,15.4,0,0,0,0,0,0,0
+"Lebo Mothiba","Troyes","RSA","FW","MF",25,0,2,1,1,5,2,40,0.2,0.5,15.4,0,6,4,2,1,0,1
+"Lebo Mothiba","Troyes","RSA","FW","MF",25,0,2,1,1,5,2,40,0.2,0.5,15.4,0,0,0,0,0,0,0
+"Lenny Joseph","Metz","FRA","FW","MF",20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,0
+"Lenny Lacroix","Metz","FRA","DF",NA,18,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,2,1,1,1,0,1
+"Leny Yoro","Lille","FRA","MF",NA,15,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Leo Dubois","Lyon","FRA","DF",NA,26,0,0,0,0,10,1,10,0,0,20.8,0,45,34,11,5,3,2
+"Léo Jardim","Lille","BRA","GK",NA,26,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Léo Leroy","Montpellier","FRA","MF",NA,21,0,0,0,0,8,3,37.5,0,0,26.8,0,8,8,0,0,0,0
+"Léo Pétrot","Lorient","FRA","DF",NA,24,0,1,0,0,5,3,60,0.2,0.33,9.8,0,6,6,0,0,0,0
+"Leonardo Balerdi","Marseille","ARG","DF",NA,22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,6,3,3,2,1,1
+"Lesley Ugochukwu","Rennes","FRA","MF",NA,17,0,1,0,0,4,1,25,0.25,1,17.1,0,6,5,1,1,1,0
+"Levi Lumeka","Troyes","ENG","DF","FW",22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,0
+"Lilian Brassier","Brest","FRA","DF",NA,21,0,1,0,0,11,2,18.2,0.09,0.5,18.5,0,20,18,2,1,1,0
+"Lionel Messi","Paris S-G","ARG","FW","MF",34,14,20,0,0,89,29,32.6,0.07,0.21,19.1,16,156,113,43,27,19,8
+"Lohann Doucet","Nantes","FRA","MF","DF",18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Loïc Bade","Rennes","FRA","DF",NA,21,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,5,3,2,1,0,1
+"Lorenz Assignon","Rennes","TOG","DF",NA,21,2,2,0,0,6,4,66.7,0,0,8.4,0,18,13,5,1,1,0
+"Loris Benito","Bordeaux","SUI","DF",NA,29,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Louis Mafouta","Metz","CTA","FW",NA,27,0,2,0,0,9,7,77.8,0.22,0.29,15.7,0,11,9,2,0,0,0
+"Loum Tchaouna","Rennes","FRA","FW","MF",17,0,0,0,0,2,1,50,0,0,16.1,0,3,2,1,0,0,0
+"Lovro Majer","Rennes","CRO","MF","FW",23,8,14,0,0,45,18,40,0.13,0.33,19.9,4,102,65,37,20,17,3
+"Luan Peres Petroni","Marseille","BRA","DF",NA,27,2,2,0,0,NA,NA,NA,NA,NA,NA,NA,33,27,6,5,4,1
+"Lucas Calodat","Saint-Étienne","FRA","DF",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Lucas Da Cunha","Clermont Foot","FRA","FW","MF",20,0,2,0,0,10,3,30,0,0,24.4,1,22,19,3,1,1,0
+"Lucas Da Cunha","Clermont Foot","FRA","FW","MF",20,0,2,0,0,10,3,30,0,0,24.4,1,23,14,9,1,1,0
+"Lucas Da Cunha","Clermont Foot","FRA","FW","MF",20,0,2,0,0,18,6,33.3,0.11,0.33,19.8,0,22,19,3,1,1,0
+"Lucas Da Cunha","Clermont Foot","FRA","FW","MF",20,0,2,0,0,18,6,33.3,0.11,0.33,19.8,0,23,14,9,1,1,0
+"Lucas Da Cunha","Nice","FRA","MF",NA,20,1,1,0,0,10,3,30,0,0,24.4,1,22,19,3,1,1,0
+"Lucas Da Cunha","Nice","FRA","MF",NA,20,1,1,0,0,10,3,30,0,0,24.4,1,23,14,9,1,1,0
+"Lucas Da Cunha","Nice","FRA","MF",NA,20,1,1,0,0,18,6,33.3,0.11,0.33,19.8,0,22,19,3,1,1,0
+"Lucas Da Cunha","Nice","FRA","MF",NA,20,1,1,0,0,18,6,33.3,0.11,0.33,19.8,0,23,14,9,1,1,0
+"Lucas Gourna-Douath","Saint-Étienne","FRA","MF",NA,17,0,1,0,0,12,2,16.7,0.08,0.5,17.2,0,28,24,4,1,0,1
+"Lucas Paquetá","Lyon","BRA","MF","FW",23,6,15,1,1,86,33,38.4,0.09,0.24,19.4,3,120,80,40,14,10,4
+"Lucas Perrin","Strasbourg","FRA","DF",NA,22,1,2,0,0,9,3,33.3,0.11,0.33,15.2,0,39,33,6,3,2,1
+"Lucien Agoume","Brest","FRA","MF",NA,19,0,0,0,0,15,1,6.7,0,0,11.9,0,35,28,7,2,2,0
+"Ludovic Ajorque","Strasbourg","FRA","FW",NA,27,8,20,3,3,56,24,42.9,0.16,0.38,13.5,0,84,63,21,10,6,4
+"Ludovic Blas","Nantes","FRA","MF","FW",23,5,15,5,5,85,32,37.6,0.06,0.16,20.6,1,107,77,30,17,12,5
+"Luis Henrique","Marseille","BRA","FW","MF",19,1,1,0,0,6,2,33.3,0,0,14.9,0,13,10,3,1,1,0
+"M'Baye Niang","Bordeaux","SEN","FW",NA,26,1,4,0,0,26,11,42.3,0.12,0.27,15.9,1,14,9,5,2,2,0
+"Maghnes Akliouche","Monaco","FRA","MF","FW",19,0,0,0,0,2,1,50,0,0,16,0,1,1,0,0,0,0
+"Mahame Siby","Strasbourg","MLI","DF",NA,25,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Mahdi Camara","Saint-Étienne","FRA","MF","DF",23,0,3,0,0,28,15,53.6,0.11,0.2,18.7,0,79,54,25,5,3,2
+"Malo Gusto","Lyon","FRA","DF",NA,18,4,4,0,0,NA,NA,NA,NA,NA,NA,NA,46,43,3,6,5,1
+"Mama Samba Baldé","Troyes","GNB","MF","FW",25,2,5,1,0,47,17,36.2,0.06,0.18,16.4,0,49,31,18,5,2,3
+"Mamadou Camara","Troyes","MLI","FW",NA,20,0,0,0,0,1,1,100,0,0,12.6,0,1,1,0,1,1,0
+"Mamadou Fofana","Metz","MLI","DF",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Mamadou Sakho","Montpellier","FRA","DF",NA,31,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,17,16,1,4,3,1
+"Marc-Aurèle Caillard","Metz","FRA","GK",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Marcelo","Bordeaux","BRA","DF",NA,34,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,9,7,2,1,0,1
+"Marcelo","Bordeaux","BRA","DF",NA,34,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Marcelo","Lyon","BRA","DF",NA,34,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,9,7,2,1,0,1
+"Marcelo","Lyon","BRA","DF",NA,34,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Marcin Bułka","Nice","POL","GK",NA,21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Marco Bizot","Brest","NED","GK",NA,30,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,6,6,0,2,2,0
+"Marco Verratti","Paris S-G","ITA","MF",NA,28,2,4,0,0,7,2,28.6,0.29,1,16.4,0,75,69,6,6,6,0
+"Marcus Coco","Nantes","FRA","MF","FW",25,1,2,0,0,12,3,25,0.08,0.33,17.4,0,17,11,6,2,2,0
+"Marin Jakoliš","Angers","CRO","FW",NA,24,0,0,0,0,9,3,33.3,0,0,15.5,0,8,4,4,0,0,0
+"Mario Lemina","Nice","GAB","MF",NA,27,0,2,0,0,16,4,25,0.13,0.5,15.5,0,33,26,7,2,1,1
+"Marquinhos","Paris S-G","BRA","DF",NA,27,0,5,0,0,21,7,33.3,0.24,0.71,10.1,0,22,19,3,2,2,0
+"Marshall Munetsi","Reims","ZIM","MF","DF",25,1,6,0,0,32,13,40.6,0.16,0.38,17,0,28,20,8,3,2,1
+"Martin Adeline","Reims","FRA","MF","FW",17,0,0,0,0,4,1,25,0,0,11.8,0,10,8,2,0,0,0
+"Martin Satriano","Brest","URU","FW",NA,20,0,4,0,0,24,10,41.7,0.17,0.4,15.7,0,6,3,3,0,0,0
+"Martin Terrier","Rennes","FRA","FW","MF",24,3,24,2,2,86,44,51.2,0.22,0.43,14.9,0,109,85,24,18,14,4
+"Massadio Haïdara","Lens","MLI","DF",NA,28,1,2,0,0,5,2,40,0.2,0.5,15.1,0,12,10,2,2,2,0
+"Matheus Thuler","Montpellier","BRA","DF",NA,22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Mathias Pereira Lage","Angers","POR","DF",NA,24,2,6,0,0,19,6,31.6,0.21,0.67,19.8,2,22,13,9,5,2,3
+"Mathieu Cafaro","Reims","FRA","MF","FW",24,0,0,0,0,6,2,33.3,0,0,22.5,1,4,4,0,0,0,0
+"Mathys Saban","Saint-Étienne","FRA","FW","MF",19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Mathys Tel","Rennes","FRA","FW","MF",16,0,0,0,0,3,1,33.3,0,0,17.5,1,2,1,1,0,0,0
+"Mattéo Guendouzi","Marseille","FRA","MF",NA,22,6,10,0,0,50,18,36,0.08,0.22,18.1,0,111,85,26,12,10,2
+"Matthieu Dreyer","Lorient","FRA","GK",NA,32,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Matthieu Udol","Metz","FRA","DF",NA,25,0,1,0,0,5,2,40,0.2,0.5,18,0,16,12,4,1,0,1
+"Matthis Abline","Rennes","FRA","FW",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Matz Sels","Strasbourg","BEL","GK",NA,29,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,1,3,0,0,0
+"Mauro Icardi","Paris S-G","ARG","FW",NA,28,0,4,0,0,28,9,32.1,0.14,0.44,10.8,0,21,16,5,4,1,3
+"Maxence Caqueret","Lyon","FRA","MF",NA,21,0,0,0,0,15,2,13.3,0,0,22.3,0,63,53,10,5,5,0
+"Maxence Rivera","Saint-Étienne","FRA","FW",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Maxime Busi","Reims","BEL","DF",NA,21,0,1,0,0,6,2,33.3,0.17,0.5,13.6,0,30,28,2,0,0,0
+"Maxime Estève","Montpellier","FRA","DF",NA,19,0,0,0,0,5,1,20,0,0,7.5,0,8,6,2,0,0,0
+"Maxime Le Marchand","Strasbourg","FRA","DF",NA,31,1,2,0,0,3,2,66.7,0.33,0.5,12.6,0,5,4,1,1,1,0
+"Maxwel Cornet","Lyon","CIV","DF",NA,24,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,1,1,0,0,0
+"Mehdi Chahiri","Strasbourg","MAR","DF",NA,25,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Mehdi Zerkane","Bordeaux","ALG","MF","DF",22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,5,3,2,0,0,0
+"Melvin Bard","Nice","FRA","DF",NA,20,2,4,0,0,5,2,40,0.4,1,17.2,0,45,40,5,4,4,0
+"Mexer","Bordeaux","MOZ","DF",NA,32,0,1,0,0,5,1,20,0.2,1,17.2,0,7,6,1,0,0,0
+"Mickael Nade","Saint-Étienne","FRA","DF",NA,22,0,1,0,0,7,1,14.3,0.14,1,10.1,0,20,14,6,1,1,0
+"Miguel Trauco","Saint-Étienne","PER","DF","MF",28,0,1,0,0,11,3,27.3,0.09,0.33,23.7,1,15,9,6,0,0,0
+"Mihailo Ristić","Montpellier","SRB","DF",NA,25,3,4,0,0,18,5,27.8,0.06,0.2,29,1,45,34,11,6,5,1
+"Mitchell van Bergen","Reims","NED","FW","MF",21,0,0,0,0,12,5,41.7,0,0,18,0,27,17,10,0,0,0
+"Mohamed Achi","Nantes","FRA","MF",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Mohamed Ali Cho","Angers","FRA","FW",NA,17,1,5,0,0,42,15,35.7,0.1,0.27,15.3,0,42,23,19,7,4,3
+"Mohamed Lamine Bayo","Clermont Foot","GUI","FW",NA,23,5,19,3,2,63,26,41.3,0.19,0.46,13.1,0,63,44,19,8,5,3
+"Moreto Cassamã","Reims","GNB","MF",NA,23,0,2,0,0,11,7,63.6,0.18,0.29,26.8,0,25,13,12,3,1,2
+"Morgan Schneiderlin","Nice","FRA","MF",NA,31,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,14,12,2,1,1,0
+"Moritz Jenz","Lorient","GER","DF",NA,22,0,1,0,0,9,1,11.1,0.11,1,8.9,0,9,7,2,0,0,0
+"Moses Simon","Nantes","NGA","FW","MF",26,8,14,0,0,42,16,38.1,0.14,0.38,15.9,2,102,56,46,12,6,6
+"Moussa Dembélé","Lyon","FRA","FW",NA,25,4,25,5,5,83,37,44.6,0.19,0.43,12.7,0,63,41,22,15,7,8
+"Moussa Doumbia","Reims","MLI","FW",NA,26,0,0,1,0,3,2,66.7,0,0,26.7,0,3,2,1,2,2,0
+"Moustapha Mbow","Reims","SEN","DF",NA,21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Mykola Kukharevych","Troyes","UKR","FW",NA,20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Myron Boadu","Monaco","NED","FW",NA,20,1,5,0,0,21,8,38.1,0.19,0.5,10.5,0,22,16,6,5,3,2
+"Myziane Maolida","Nice","COM","MF",NA,22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Nabil Bentaleb","Angers","ALG","MF",NA,26,0,1,0,0,15,7,46.7,0.07,0.14,22.9,1,18,15,3,1,1,0
+"Nassim Chadli","Troyes","FRA","MF","DF",20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,2,1,0,0,0
+"Nathan Bitumazala","Paris S-G","FRA","DF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Nathanael Mbuku","Reims","FRA","FW","MF",19,1,3,0,0,33,13,39.4,0.06,0.15,18.8,0,45,23,22,4,3,1
+"Nayef Aguerd","Rennes","MAR","DF",NA,25,2,4,0,0,25,7,28,0.08,0.29,9.4,0,15,10,5,4,3,1
+"Nelson Sissoko","Saint-Étienne","FRA","DF",NA,24,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Nemanja Radonjić","Marseille","SRB","FW",NA,25,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,1,1,0,0,0
+"Neymar","Paris S-G","BRA","FW","MF",29,6,19,4,3,50,25,50,0.2,0.4,19.2,8,127,84,43,16,15,1
+"Nicholas Gioacchini","Montpellier","USA","FW","MF",21,2,2,0,0,11,2,18.2,0,0,11,0,14,8,6,4,2,2
+"Nicolas Cozza","Montpellier","FRA","DF",NA,22,2,4,0,0,6,3,50,0.33,0.67,14.5,0,32,21,11,5,3,2
+"Nicolas de Préville","Metz","FRA","FW","MF",30,2,7,0,0,41,10,24.4,0.12,0.5,20.9,4,68,31,37,5,3,2
+"Nicolas Pallois","Nantes","FRA","DF",NA,33,0,1,0,0,8,2,25,0.13,0.5,12.5,0,13,12,1,1,1,0
+"Noah Fatar","Angers","FRA","DF","MF",19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Noah Guede-Nadje","Angers","FRA","MF",NA,17,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Nordine Kandil","Strasbourg","FRA","MF","FW",19,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,5,4,1,3,2,1
+"Nuno Mendes","Paris S-G","POR","DF",NA,19,1,1,0,0,7,1,14.3,0,0,20.6,0,44,31,13,8,6,2
+"Opa Nguette","Metz","SEN","FW","MF",27,2,4,0,0,23,7,30.4,0.09,0.29,16.7,0,28,18,10,6,4,2
+"Oriol Busquets","Clermont Foot","ESP","MF",NA,22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,4,0,0,0,0
+"Osman Bukari","Nantes","GHA","FW","MF",22,4,6,0,0,20,9,45,0.1,0.22,18.2,0,34,26,8,8,7,1
+"Otávio","Bordeaux","BRA","MF",NA,27,0,0,0,0,12,3,25,0,0,30.2,0,20,15,5,1,1,0
+"Oualid El Hajjam","Troyes","MAR","DF",NA,30,1,2,0,0,10,3,30,0.1,0.33,21.3,0,14,11,3,3,2,1
+"Ouparine Djoco","Clermont Foot","GNB","GK",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,2,0,0,0,0
+"Oussama Targhalline","Marseille","MAR","FW",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Pablo Rosario","Nice","NED","MF",NA,24,2,2,0,0,19,3,15.8,0,0,19.7,0,52,47,5,7,7,0
+"Pablo Sarabia","Paris S-G","ESP","FW",NA,29,0,1,0,0,1,1,100,1,1,3.6,0,0,0,0,0,0,0
+"Papa Ndiaga Yade","Metz","MTN","DF","FW",21,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,16,11,5,1,1,0
+"Pape Gueye","Marseille","SEN","MF",NA,22,1,1,0,0,30,4,13.3,0,0,22.8,0,29,21,8,2,1,1
+"Pape Matar Sarr","Metz","SEN","MF",NA,18,3,4,0,0,31,8,25.8,0.03,0.13,29.2,1,62,49,13,8,8,0
+"Patrick Berg","Lens","NOR","MF",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,5,4,1,1,1,0
+"Patrick Roberts","Troyes","ENG","MF",NA,24,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Pau López","Marseille","ESP","GK",NA,26,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,6,5,1,1,1,0
+"Paul Baysse","Bordeaux","FRA","MF","DF",33,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Paul Bernardoni","Angers","FRA","GK",NA,24,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Paul Bernardoni","Angers","FRA","GK",NA,24,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,0
+"Paul Bernardoni","Saint-Étienne","FRA","GK",NA,24,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Paul Bernardoni","Saint-Étienne","FRA","GK",NA,24,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,0
+"Paul Lasne","Brest","FRA","MF",NA,32,1,1,0,0,8,1,12.5,0,0,21.9,1,20,16,4,1,1,0
+"Paul Nardi","Lorient","FRA","GK",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Pedro Chirivella","Nantes","ESP","MF",NA,24,1,4,0,0,21,6,28.6,0.14,0.5,21.2,0,61,59,2,4,4,0
+"Pedro Mendes","Montpellier","POR","DF",NA,30,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Philippe Koffi","Reims","CIV","FW",NA,19,0,1,0,0,9,2,22.2,0.11,0.5,14,0,11,5,6,2,1,1
+"Philippe Sandler","Troyes","NED","DF",NA,24,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Pierre-Yves Hamel","Clermont Foot","FRA","FW",NA,27,0,0,0,0,13,4,30.8,0,0,16.3,0,2,2,0,0,0,0
+"Pierre-Yves Hamel","Clermont Foot","FRA","FW",NA,27,0,0,0,0,13,4,30.8,0,0,16.3,0,9,5,4,0,0,0
+"Pierre-Yves Hamel","Lorient","FRA","FW","MF",27,0,0,0,0,13,4,30.8,0,0,16.3,0,2,2,0,0,0,0
+"Pierre-Yves Hamel","Lorient","FRA","FW","MF",27,0,0,0,0,13,4,30.8,0,0,16.3,0,9,5,4,0,0,0
+"Pierrick Capelle","Angers","FRA","MF","DF",34,1,1,0,0,17,1,5.9,0,0,19.5,0,32,17,15,5,0,5
+"Pol Lirola","Marseille","ESP","DF","FW",23,2,3,0,0,13,2,15.4,0.08,0.5,20.9,0,56,51,5,4,4,0
+"Predrag Rajković","Reims","SRB","GK",NA,25,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,8,8,0,0,0,0
+"Presnel Kimpembe","Paris S-G","FRA","DF",NA,25,0,1,0,0,7,1,14.3,0.14,1,9.7,0,18,17,1,3,3,0
+"Przemysław Frankowski","Lens","POL","DF",NA,26,5,11,0,0,34,13,38.2,0.18,0.46,17.9,0,68,58,10,8,7,1
+"Quentin Boisgard","Lorient","FRA","MF","FW",24,1,2,0,0,16,8,50,0.06,0.13,24.6,1,27,17,10,2,2,0
+"Quentin Merlin","Nantes","FRA","DF","MF",19,3,5,0,0,11,4,36.4,0.18,0.5,23.1,1,62,35,27,5,5,0
+"Rafiki Said","Brest","COM","MF","FW",21,0,0,0,0,6,2,33.3,0,0,17.4,0,7,4,3,0,0,0
+"Rafinha","Paris S-G","BRA","FW","MF",28,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,8,4,4,0,0,0
+"Randal Kolo Muani","Nantes","FRA","FW","MF",22,4,16,0,0,54,26,48.1,0.22,0.46,11.7,0,83,53,30,13,7,6
+"Rayan Cherki","Lyon","FRA","FW","MF",17,1,1,0,0,14,3,21.4,0,0,21.2,0,22,14,8,1,0,1
+"Redwan Bourles","Lorient","FRA","MF","FW",18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Reinildo Mandava","Lille","MOZ","DF",NA,27,0,1,0,0,6,3,50,0.17,0.33,14.8,0,27,15,12,4,2,2
+"Remi Oudin","Bordeaux","FRA","MF","FW",24,5,9,0,0,57,16,28.1,0.07,0.25,21.6,2,50,33,17,9,8,1
+"Rémy Cabella","Montpellier","FRA","MF","FW",31,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,16,14,2,1,1,0
+"Renato Sanches","Lille","POR","MF","FW",23,5,7,0,0,22,4,18.2,0.09,0.5,25,3,88,69,19,10,7,3
+"Renaud Emond","Nantes","BEL","FW","MF",29,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Renaud Ripart","Troyes","FRA","MF","FW",28,2,4,0,0,41,13,31.7,0.05,0.15,16.1,0,51,34,17,3,2,1
+"Ricardo Mangas","Bordeaux","POR","DF",NA,23,1,4,0,0,17,5,29.4,0.18,0.6,13.1,0,38,31,7,2,2,0
+"Roli Pereira de Sa","Nantes","FRA","MF",NA,24,0,0,0,0,5,1,20,0,0,16.1,0,16,10,6,0,0,0
+"Romain Del Castillo","Rennes","FRA","MF","FW",25,0,0,0,0,12,3,25,0,0,20.9,0,34,23,11,10,7,3
+"Romain Del Castillo","Rennes","FRA","MF","FW",25,0,0,0,0,12,3,25,0,0,20.9,0,2,1,1,0,0,0
+"Romain Del Castillo","Brest","FRA","MF","FW",25,6,6,0,0,12,3,25,0,0,20.9,0,34,23,11,10,7,3
+"Romain Del Castillo","Brest","FRA","MF","FW",25,6,6,0,0,12,3,25,0,0,20.9,0,2,1,1,0,0,0
+"Romain Faivre","Lyon","FRA","FW","MF",23,0,3,0,0,20,6,30,0.15,0.5,18.4,1,82,43,39,9,3,6
+"Romain Faivre","Lyon","FRA","FW","MF",23,0,3,0,0,20,6,30,0.15,0.5,18.4,1,52,28,24,5,2,3
+"Romain Faivre","Lyon","FRA","FW","MF",23,0,3,0,0,32,12,37.5,0.06,0.17,23.1,5,82,43,39,9,3,6
+"Romain Faivre","Lyon","FRA","FW","MF",23,0,3,0,0,32,12,37.5,0.06,0.17,23.1,5,52,28,24,5,2,3
+"Romain Faivre","Brest","FRA","MF",NA,23,5,12,5,5,20,6,30,0.15,0.5,18.4,1,82,43,39,9,3,6
+"Romain Faivre","Brest","FRA","MF",NA,23,5,12,5,5,20,6,30,0.15,0.5,18.4,1,52,28,24,5,2,3
+"Romain Faivre","Brest","FRA","MF",NA,23,5,12,5,5,32,12,37.5,0.06,0.17,23.1,5,82,43,39,9,3,6
+"Romain Faivre","Brest","FRA","MF",NA,23,5,12,5,5,32,12,37.5,0.06,0.17,23.1,5,52,28,24,5,2,3
+"Romain Hamouma","Saint-Étienne","FRA","FW","MF",34,1,3,0,0,23,7,30.4,0.09,0.29,17.8,0,33,24,9,3,1,2
+"Romain Philippoteaux","Brest","FRA","MF",NA,33,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Romain Salin","Rennes","FRA","GK",NA,37,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Romain Thomas","Angers","FRA","DF",NA,33,0,2,0,0,14,4,28.6,0.14,0.5,8.2,0,16,15,1,0,0,0
+"Rominigue Kouamé","Troyes","MLI","MF",NA,24,2,3,0,0,37,11,29.7,0.03,0.09,22.7,1,64,48,16,8,6,2
+"Ronaël Pierre-Gabriel","Brest","FRA","DF",NA,23,1,1,0,0,5,2,40,0,0,17.7,0,49,39,10,3,3,0
+"Ruben Aguilar","Monaco","FRA","DF",NA,28,2,2,0,0,10,2,20,0,0,22.8,0,32,25,7,4,3,1
+"Rubén Pardo","Bordeaux","ESP","MF",NA,28,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Ryad Boudebouz","Saint-Étienne","ALG","MF","FW",31,4,7,1,1,27,9,33.3,0.07,0.22,24.7,7,96,75,21,6,4,2
+"Sacha Delaye","Montpellier","FRA","MF","FW",19,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,7,4,3,2,1,1
+"Sada Thioub","Saint-Étienne","SEN","DF","MF",26,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Sada Thioub","Saint-Étienne","SEN","DF","MF",26,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,25,20,5,3,3,0
+"Sada Thioub","Angers","SEN","FW",NA,26,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Sada Thioub","Angers","SEN","FW",NA,26,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,25,20,5,3,3,0
+"Saidou Sow","Saint-Étienne","GUI","DF",NA,19,1,3,0,0,3,2,66.7,0.67,1,7,0,4,4,0,1,1,0
+"Saîf-Eddine Khaoui","Clermont Foot","TUN","MF","FW",26,0,1,0,0,20,7,35,0.05,0.14,19.5,2,32,12,20,1,1,0
+"Salim Ben Seghir","Marseille","FRA","MF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Salis Abdul Samed","Clermont Foot","GHA","MF",NA,21,0,1,0,0,18,5,27.8,0.06,0.2,21.5,0,50,41,9,3,3,0
+"Sambou Sissoko","Reims","FRA","MF","DF",22,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,6,5,1,0,0,0
+"Sambou Soumano","Lorient","SEN","FW","MF",20,0,3,0,0,18,4,22.2,0.17,0.75,11.1,0,10,6,4,1,0,1
+"Samuel Kalu","Bordeaux","NGA","FW","MF",23,1,2,0,0,13,8,61.5,0.08,0.13,21.9,1,12,2,10,5,0,5
+"Samuel Koeberlé","Reims","FRA","FW",NA,16,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Samuel Loric","Lorient","FRA","DF",NA,21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,2,1,0,0,0
+"Samuel Moutoussamy","Nantes","COD","MF",NA,24,1,1,0,0,14,6,42.9,0,0,16.9,0,21,19,2,4,4,0
+"Sanjin Prcić","Strasbourg","BIH","MF",NA,27,0,1,0,0,46,11,23.9,0.02,0.09,25.5,1,64,45,19,4,4,0
+"Sead Kolašinac","Marseille","BIH","DF",NA,28,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,7,6,1,1,1,0
+"Sébastien Corchia","Nantes","FRA","DF",NA,30,3,3,0,0,11,3,27.3,0,0,27.7,4,27,15,12,4,2,2
+"Seko Fofana","Lens","CIV","MF",NA,26,1,9,0,0,97,32,33,0.08,0.25,21,0,118,89,29,9,7,2
+"Sekou Mara","Bordeaux","FRA","FW","MF",19,0,6,1,1,37,16,43.2,0.14,0.31,18.5,0,24,17,7,4,2,2
+"Sekou Yansané","Paris S-G","GUI","FW",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Sergio Ramos","Paris S-G","ESP","DF",NA,35,0,2,0,0,12,4,33.3,0.17,0.5,14.8,0,7,5,2,1,0,1
+"Sergio Rico","Paris S-G","ESP","GK",NA,27,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Serhou Guirassy","Rennes","GUI","FW",NA,25,0,9,0,0,46,17,37,0.2,0.53,13.1,0,23,15,8,1,1,0
+"Sikou Niakaté","Metz","MLI","DF",NA,22,0,0,0,0,4,1,25,0,0,17.1,0,6,4,2,0,0,0
+"Simon Banza","Lens","COD","FW",NA,24,1,2,0,0,6,4,66.7,0.17,0.25,15.5,0,4,3,1,2,1,1
+"Sinaly Diomande","Lyon","CIV","DF",NA,20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,3,1,0,0,0
+"Sofiane Alakouch","Metz","MAR","DF","MF",23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,2,2,0,0,0
+"Sofiane Boufal","Angers","MAR","FW","MF",27,4,12,3,3,60,24,40,0.08,0.21,21.7,10,137,61,76,15,7,8
+"Sofiane Diop","Monaco","FRA","MF","FW",21,4,10,0,0,37,13,35.1,0.16,0.46,17.2,2,78,50,28,11,9,2
+"Souleyman Doumbia","Angers","CIV","DF","FW",24,1,1,0,0,14,3,21.4,0,0,20.6,0,42,32,10,1,1,0
+"Stefan Bajic","Saint-Étienne","FRA","GK",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Stéphane Bahoken","Angers","CMR","FW",NA,29,1,4,0,0,24,14,58.3,0.13,0.21,17,0,15,13,2,1,1,0
+"Stéphane Diarra","Lorient","FRA","MF","FW",22,0,0,0,0,13,4,30.8,0,0,18.8,0,31,16,15,3,0,3
+"Stephy Mavididi","Montpellier","ENG","FW","MF",23,3,11,0,0,60,23,38.3,0.13,0.35,17.1,0,65,39,26,8,3,5
+"Steve Mandanda","Marseille","FRA","GK",NA,36,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,1,2,0,0,0
+"Steve Mounié","Brest","BEN","FW",NA,26,2,11,2,2,72,23,31.9,0.1,0.3,12.8,0,50,36,14,9,6,3
+"Steven Fortes","Lens","CPV","DF",NA,29,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Stian Rode Gregersen","Bordeaux","NOR","DF",NA,26,1,2,0,0,6,1,16.7,0.17,1,8.9,0,8,6,2,1,1,0
+"Strahinja Pavlović","Monaco","SRB","DF",NA,20,0,0,0,0,5,1,20,0,0,9.9,0,1,1,0,0,0,0
+"Suk Hyun-jun","Troyes","KOR","FW","MF",30,0,0,0,0,8,2,25,0,0,13.7,0,7,5,2,0,0,0
+"Sven Botman","Lille","NED","DF",NA,21,1,4,0,0,15,5,33.3,0.2,0.6,10.8,0,18,16,2,2,1,1
+"Tanguy Ndombele","Lyon","FRA","MF",NA,24,2,2,0,0,NA,NA,NA,NA,NA,NA,NA,20,19,1,2,2,0
+"Tanguy Zoukrou","Troyes","FRA","DF",NA,18,0,0,0,0,1,1,100,0,0,12.4,0,0,0,0,0,0,0
+"Téji Savanier","Montpellier","FRA","MF",NA,29,7,15,4,3,77,34,44.2,0.06,0.15,25.1,22,127,77,50,16,11,5
+"Terem Moffi","Lorient","NGA","FW",NA,22,4,12,2,2,58,20,34.5,0.1,0.3,16,0,68,51,17,10,6,4
+"Tetê","Lyon","BRA","FW","MF",21,5,7,0,0,17,7,41.2,0.12,0.29,16.1,0,32,21,11,8,6,2
+"Théo Le Bris","Lorient","FRA","MF",NA,18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Thiago Mendes","Lyon","BRA","MF","DF",29,1,2,0,0,16,4,25,0.06,0.25,25.5,4,36,28,8,3,3,0
+"Thibault Klidje","Bordeaux","TOG","MF","FW",20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,6,5,1,0,0,0
+"Thilo Kehrer","Paris S-G","GER","DF",NA,24,0,2,0,0,9,4,44.4,0.22,0.5,13.6,0,12,10,2,1,1,0
+"Thomas Delaine","Metz","FRA","DF",NA,29,2,3,0,0,18,5,27.8,0.06,0.2,25.5,0,50,41,9,2,2,0
+"Thomas Foket","Reims","BEL","DF","FW",26,0,1,0,0,8,3,37.5,0.13,0.33,13.6,0,35,29,6,1,0,1
+"Thomas Fontaine","Lorient","MAD","DF",NA,30,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Thomas Mangani","Angers","FRA","MF",NA,34,2,9,6,6,12,3,25,0.08,0.33,27.1,2,52,35,17,5,3,2
+"Thomas Monconduit","Lorient","FRA","MF",NA,30,2,5,0,0,36,12,33.3,0.08,0.25,25.6,0,67,45,22,3,2,1
+"Tiago Djaló","Lille","POR","DF",NA,21,1,2,0,0,12,5,41.7,0.08,0.2,12.6,0,24,17,7,3,1,2
+"Tiago Ribeiro","Monaco","POR","FW",NA,19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Timothée Kolodziejczak","Saint-Étienne","FRA","DF",NA,29,3,5,0,0,15,6,40,0.13,0.33,12.7,0,36,32,4,4,3,1
+"Timothee Pembele","Bordeaux","FRA","DF",NA,18,1,2,0,0,18,4,22.2,0.06,0.25,15.9,0,36,20,16,5,3,2
+"Timothy Weah","Lille","USA","MF","FW",21,4,7,0,0,34,9,26.5,0.09,0.33,18.2,0,53,37,16,9,5,4
+"Tino Kadewere","Lyon","ZIM","FW",NA,25,0,1,0,0,18,7,38.9,0.06,0.14,13.1,0,15,11,4,0,0,0
+"Tom Lacoux","Bordeaux","FRA","DF","MF",19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,13,8,5,3,1,2
+"Toma Bašić","Bordeaux","CRO","MF",NA,24,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,6,2,4,1,0,1
+"Tristan Dingomé","Troyes","CMR","MF","FW",30,4,6,0,0,20,4,20,0.1,0.5,22.8,1,40,24,16,6,3,3
+"Vagner Gonçalves","Metz","CPV","FW",NA,25,0,0,0,0,1,1,100,0,0,7.7,0,5,3,2,0,0,0
+"Valentin Rongier","Marseille","FRA","MF","DF",26,1,1,0,0,28,9,32.1,0,0,21.5,0,58,46,12,6,4,2
+"Valère Germain","Montpellier","FRA","FW",NA,31,3,7,0,0,32,16,50,0.13,0.25,12.5,0,29,25,4,5,4,1
+"Valon Berisha","Reims","KVX","MF","FW",28,1,1,0,0,NA,NA,NA,NA,NA,NA,NA,10,5,5,2,1,1
+"Vanderson","Monaco","BRA","FW","DF",20,1,3,0,0,14,6,42.9,0.14,0.33,19.8,0,29,26,3,6,6,0
+"Vincent Le Goff","Lorient","FRA","DF",NA,31,1,2,0,0,27,4,14.8,0.04,0.25,16.8,0,69,57,12,5,4,1
+"Vincent Manceau","Angers","FRA","DF",NA,32,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,12,12,0,4,4,0
+"Vincent Pajot","Metz","FRA","MF",NA,30,0,1,0,0,14,2,14.3,0.07,0.5,20,0,37,32,5,0,0,0
+"Vital N'Simba","Clermont Foot","COD","DF",NA,28,3,4,0,0,19,5,26.3,0.05,0.2,26.3,0,64,53,11,8,7,1
+"Wahbi Khazri","Saint-Étienne","TUN","FW","MF",30,0,10,4,4,69,18,26.1,0.09,0.33,23.6,9,82,53,29,6,4,2
+"Walter Benítez","Nice","ARG","GK",NA,28,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,3,0,1,1,0
+"Waniss Taibi","Angers","FRA","MF","FW",19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,1,0,1
+"Warmed Omari","Rennes","COM","DF",NA,21,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,18,17,1,3,3,0
+"Warren Tchimbembé","Metz","CGO","MF",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,4,4,0,0,0,0
+"Wesley Saïd","Lens","FRA","FW","MF",26,0,5,0,0,26,10,38.5,0.19,0.5,14,0,28,20,8,5,2,3
+"Willem Geubbels","Nantes","FRA","FW","MF",19,1,3,0,0,12,3,25,0.17,0.67,17,0,3,3,0,1,1,0
+"William Mikelbrencis","Metz","FRA","DF",NA,17,1,1,0,0,6,1,16.7,0,0,25.9,0,8,4,4,0,0,0
+"William Saliba","Marseille","FRA","DF",NA,20,0,0,0,0,17,4,23.5,0,0,10,0,29,26,3,3,2,1
+"Wilson Isidor","Monaco","FRA","FW","MF",20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Wissam Ben Yedder","Monaco","FRA","FW",NA,30,5,30,8,8,64,36,56.3,0.27,0.47,14.7,4,71,57,14,14,10,4
+"Wout Faes","Reims","BEL","DF",NA,23,0,4,0,0,22,9,40.9,0.18,0.44,13.6,0,23,20,3,0,0,0
+"Wuilker Faríñez","Lens","VEN","GK",NA,23,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,0,1,0,0,0
+"Wylan Cyprien","Nantes","FRA","MF",NA,26,3,5,0,0,20,8,40,0.1,0.25,24.4,2,61,34,27,9,4,5
+"Xavi Simons","Paris S-G","NED","MF","FW",18,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,2,2,0,0,0,0
+"Xavier Chavalerin","Troyes","FRA","MF",NA,30,2,7,0,0,31,10,32.3,0.16,0.5,19,0,5,5,0,0,0,0
+"Xavier Chavalerin","Troyes","FRA","MF",NA,30,2,7,0,0,31,10,32.3,0.16,0.5,19,0,57,40,17,8,6,2
+"Xavier Chavalerin","Reims","FRA","MF",NA,30,0,0,0,0,31,10,32.3,0.16,0.5,19,0,5,5,0,0,0,0
+"Xavier Chavalerin","Reims","FRA","MF",NA,30,0,0,0,0,31,10,32.3,0.16,0.5,19,0,57,40,17,8,6,2
+"Xeka","Lille","POR","MF",NA,26,0,3,0,0,22,5,22.7,0.14,0.6,24,2,31,20,11,3,0,3
+"Xherdan Shaqiri","Lyon","SUI","FW","MF",29,3,5,0,0,13,5,38.5,0.15,0.4,20.3,3,24,18,6,3,2,1
+"Yacine Adli","Bordeaux","FRA","MF","FW",21,7,8,0,0,32,15,46.9,0.03,0.07,21.2,4,121,81,40,18,13,5
+"Yadaly Diaby","Clermont Foot","GUI","FW","MF",20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,1,1,0,0,0,0
+"Yanis Guermouche","Montpellier","FRA","MF","FW",20,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+"Yanis Lhery","Saint-Étienne","FRA","FW","MF",18,0,0,0,0,2,1,50,0,0,16.3,0,3,0,3,0,0,0
+"Yannick Cahuzac","Lens","FRA","MF",NA,36,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,3,0,1,1,0
+"Yannis M'Bemba","Nantes","GAB","DF","FW",20,0,0,0,0,2,1,50,0,0,10,0,0,0,0,0,0,0
+"Yasser Larouci","Troyes","ALG","DF",NA,20,0,0,0,0,3,1,33.3,0,0,20.3,0,13,7,6,1,0,1
+"Yoann Salmier","Troyes","GUF","DF",NA,28,1,1,0,0,10,1,10,0,0,16.1,0,23,20,3,1,0,1
+"Yoann Touzghar","Troyes","TUN","FW",NA,34,0,4,0,0,28,12,42.9,0.14,0.33,13.2,0,33,25,8,2,1,1
+"Yohann Magnin","Clermont Foot","FRA","MF","DF",24,0,1,0,0,19,3,15.8,0.05,0.33,14.7,0,27,22,5,2,1,1
+"Youcef Atal","Nice","ALG","DF",NA,25,1,3,0,0,13,5,38.5,0.15,0.4,18.7,0,31,22,9,3,2,1
+"Youcef Belaïli","Brest","ALG","MF","FW",29,2,5,1,0,16,6,37.5,0.19,0.5,15.9,2,36,18,18,4,3,1
+"Youssouf Fofana","Monaco","FRA","MF",NA,22,4,4,0,0,30,6,20,0,0,26.4,2,53,43,10,8,7,1
+"Youssouf Koné","Troyes","MLI","DF",NA,26,1,1,0,0,9,3,33.3,0,0,26.8,0,13,10,3,1,1,0
+"Youssouph Badji","Brest","SEN","FW","MF",19,0,0,0,0,NA,NA,NA,NA,NA,NA,NA,3,3,0,0,0,0
+"Yunis Abdelhamid","Reims","MAR","DF",NA,33,0,2,0,0,18,6,33.3,0.11,0.33,18.3,0,22,17,5,1,1,0
+"Yusuf Yazıcı","Lille","TUR","MF","FW",24,1,2,0,0,10,6,60,0.1,0.17,22.1,0,19,7,12,1,0,1
+"Yvan Neyou","Saint-Étienne","CMR","MF",NA,24,0,0,0,0,6,2,33.3,0,0,30.7,1,19,15,4,0,0,0
+"Yvann Macon","Saint-Étienne","FRA","DF",NA,22,0,0,0,0,15,4,26.7,0,0,26.5,0,27,23,4,3,2,1
+"Zaydou Youssouf","Saint-Étienne","FRA","MF",NA,22,0,1,0,0,20,6,30,0.05,0.17,27.5,0,43,30,13,0,0,0
+"Zeki Çelik","Lille","TUR","DF",NA,24,3,5,0,0,23,3,13,0.09,0.67,19.5,0,52,45,7,8,6,2

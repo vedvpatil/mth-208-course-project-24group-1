@@ -1,0 +1,33 @@
+"Player","Squad","Nation","Pos","Pos2","Age","Wins","Draws","Losses","Goals_Conceded","Saves","Saves_Percentage","Clean_Sheets","Clean_Sheets_Percentage","Penalty_Kicks_Saves","Penalty_Kicks_Save_Percentage"
+"Doğan Alemdar","Rennes","TUR","GK",NA,19,2,0,2,8,7,56.3,1,25,1,50
+"Paul Bernardoni","Angers","FRA","GK",NA,25,1,5,21,62,84,62.2,3,11.1,0,0
+"Marco Bizot","Brest","NED","GK",NA,31,11,10,16,54,122,73.3,8,21.6,2,22.2
+"Lucas Chevalier","Lille","FRA","GK",NA,20,16,9,7,31,76,72.4,10,31.3,1,33.3
+"Benoît Costil","Auxerre","FRA","GK",NA,35,3,4,12,41,55,60.4,2,10.5,0,0
+"Mory Diaw","Clermont Foot","SEN","GK",NA,29,17,8,12,47,110,75.8,10,27,4,33.3
+"Yehvann Diouf","Reims","FRA","GK",NA,22,11,12,8,31,107,78.1,14,45.2,0,0
+"Gianluigi Donnarumma","Paris S-G","ITA","GK",NA,23,27,4,7,40,120,76.3,13,34.2,1,33.3
+"Maxime Dupé","Toulouse","FRA","GK",NA,29,13,9,16,57,122,70.4,9,23.7,3,42.9
+"Yahia Fofana","Angers","CIV","GK",NA,21,3,1,7,19,35,66.7,1,9.1,1,50
+"Gauthier Gallon","Troyes","FRA","GK",NA,29,3,9,18,65,114,66.1,0,0,0,0
+"Léo Jardim","Lille","BRA","GK",NA,27,3,1,2,13,4,35.3,0,0,0,0
+"Bingourou Kamara","Montpellier","SEN","GK",NA,25,0,1,3,11,13,60,0,0,1,50
+"Alban Lafont","Nantes","FRA","GK",NA,23,7,14,16,54,129,74.9,11,29.7,0,0
+"Benjamin Lecomte","Montpellier","FRA","GK",NA,31,10,3,6,22,72,79.2,8,42.1,2,50
+"Donovan Léon","Auxerre","GUF","GK",NA,29,1,1,0,2,9,90.9,0,0,0,0
+"Benjamin Leroy","Ajaccio","FRA","GK",NA,33,6,4,22,60,74,60.9,4,12.5,0,0
+"Mateusz Lis","Troyes","POL","GK",NA,25,1,3,4,16,34,72.5,1,12.5,1,33.3
+"Anthony Lopes","Lyon","POR","GK",NA,31,16,4,12,39,94,75.6,7,21.9,0,0
+"Pau López","Marseille","ESP","GK",NA,27,21,4,7,34,90,76.4,10,31.3,0,0
+"Steve Mandanda","Rennes","FRA","GK",NA,37,19,5,10,31,79,73.6,12,35.3,1,33.3
+"Vito Mannone","Lorient","ITA","GK",NA,34,4,6,7,24,60,72.6,5,29.4,0,0
+"Yvon Mvogo","Lorient","SUI","GK",NA,28,11,4,6,29,70,71.4,3,14.3,0,0
+"Alexander Nübel","Monaco","GER","GK",NA,25,19,8,11,58,140,72.8,9,23.7,0,0
+"Jonas Omlin","Montpellier","SUI","GK",NA,28,5,1,8,26,48,68.5,2,14.3,1,25
+"Patrick Pentz","Reims","AUT","GK",NA,25,1,3,3,14,16,58.6,0,0,0,0
+"Ionuț Radu","Auxerre","ROU","GK",NA,25,4,6,7,20,53,73,5,29.4,2,100
+"Rémy Riou","Lyon","FRA","GK",NA,34,2,4,0,8,17,83.3,1,16.7,0,0
+"Brice Samba","Lens","FRA","GK",NA,28,24,9,4,28,98,80,15,40.5,0,0
+"Kasper Schmeichel","Nice","DEN","GK",NA,35,15,12,9,35,105,77.3,11,30.6,1,25
+"Matz Sels","Strasbourg","BEL","GK",NA,30,9,13,16,59,115,71.8,6,15.8,0,0
+"François-Joseph Sollacaro","Ajaccio","FRA","GK",NA,28,1,1,4,14,11,45.8,1,16.7,0,0
