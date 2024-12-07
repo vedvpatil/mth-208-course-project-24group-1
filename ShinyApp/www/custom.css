@@ -1,0 +1,225 @@
+.navbar-brand {
+  font-size: xx-large;
+  color: #bfd8f3 !important;
+  font-weight: 700;
+  padding-top: 10px;
+}
+
+.navbar-nav {
+  display: flex;
+  flex-direction: row !important;
+  justify-content: space-around;  /* Ensures horizontal alignment */
+  width: 100%;
+  height: min-content;
+  font-size: medium;
+}
+
+.navbar-dark {
+  background-color: #171a1d !important;  /* Dark background color */
+}
+
+.nav-link {
+  color: #bfd8f3 !important;   /* Light text color for better contrast */
+}
+
+.nav-link:hover {
+  color: #8ca2b8 !important;    /* Slightly darker color on hover */
+}
+
+.nav-item {
+  margin-right: 25px;
+  /* height: 100px !important; */
+}
+
+/* Style for the navigation container */
+#navbar {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  /* background-color: #171a1d; Matches the dark background color of the theme */
+  border-radius: 8px; /* Rounded corners for the navbar */
+  overflow: hidden;
+}
+
+/* Style for each list item in the navbar */
+#navbar li {
+  flex: 1;
+}
+
+#navbar li a {
+  display: block;
+  padding: 12px 20px;
+  text-align: center;
+  font-weight: bold;
+  font-size: medium;
+  border-radius: 3%; /* Rounded corners for each link */
+  transition: background-color 0.4s, color 0.4s;
+}
+
+/* Hover effect for navbar links */
+#navbar li a:hover {
+  background-color: #333842; /* Slightly lighter dark color for hover effect */
+  color: #adb5bd; /* Subtle change in text color on hover */
+}
+
+/* Style specifically for the active item */
+#navbar li.active a {
+  background-color: #3a4750; /* Highlighted color for active tab */
+  color: #f8f9fa; /* Light text for active item */
+}
+
+/* Optional: for better alignment and spacing */
+.navbar-collapse {
+  padding: 10px;
+}
+
+/* ----------------------------------================================================================---------------------------- */
+
+/* Sidebar styling */
+#page1_sidebar, #page2_sidebar {
+  background-color: #0d0d14e5;
+  font-size: small;
+  padding: 15px;
+  /* color: #ffffff; */
+}
+
+/* Main panel styling */
+#page1_main, #page2_main {
+  justify-content: center;
+}
+
+/* Table styling in the main panel */
+#page1_main table,
+#datatables  {
+  width: auto;               /* Adjust width if needed */
+  margin: 20px auto;         /* Adds some space around the table */
+  font-weight: 400;
+  font-size: small;
+  text-align: center;        /* Centers text within the table cells */
+  border-collapse: collapse; /* Optional: removes spacing between cells */
+}
+
+#page1_main table th, #page1_main table td, #datatables  {
+  padding: 18px;             /* Adds padding to table cells */
+  border-width:thin;
+  border-style:dotted;
+}
+
+.dataTables_wrapper {
+  color: aliceblue !important;
+}
+
+/* ----------------------------------================================================================---------------------------- */
+
+#page2_main h3, #page2_main p {
+  text-align: center;
+}
+
+#page2_sidebar .control-label {
+  color: #a8bed1; /* Slightly lighter blue for labels */
+}
+
+#page2_sidebar .btn {
+  padding: auto;
+  margin: 5px;
+  /* background-color: #007acc; Light blue button color */
+  font-size: small;
+  border-radius: 5%;
+  /* color: #f1f1f1; */
+  border:mediumvioletred;
+}
+
+/* ----------------------------------================================================================---------------------------- */
+
+#radarPlot {
+  height: fit-content !important;
+}
+
+.shiny-plot-output img{
+  border-radius: 5px;
+}
+
+/* ----------------------------------================================================================---------------------------- */
+
+/* Style for each checkbox within the shiny-options-group container */
+.shiny-options-group {
+  display: flex;
+}
+
+.custom-checkbox {
+  margin: 8px -15px;
+  align-items: center;
+}
+
+/* Center alignment for each checkbox and label */
+.shiny-options-group .checkbox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto; /* Optional: adds vertical spacing between items */
+}
+
+/* Center alignment for the label text within each checkbox */
+.shiny-options-group .checkbox label {
+  display: flex;
+  flex-direction: column;  /* Stack checkbox and label text vertically */
+  align-items: center;
+}
+
+.shiny-options-group .checkbox label span {
+  font-size: 1.4 rem;
+  margin: 5px -5px;
+}
+
+/* Hide the default checkbox style */
+.shiny-options-group .checkbox input[type="checkbox"] {
+  appearance: none;              /* Remove default checkbox appearance */
+  -webkit-appearance: none;       /* For Safari */
+  width: 24px;                    /* Size of the circular checkbox */
+  height: 24px;
+  border-radius: 50%;             /* Make it circular */
+  background-color: #333333;      /* Background color for unchecked state */
+  border: 2px solid #666666;      /* Border color */
+  cursor: pointer;
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+  /* margin-right: 10px;             Space between checkbox and label */
+  position: relative;
+}
+
+/* Checked state styling */
+.shiny-options-group .checkbox input[type="checkbox"]:checked {
+  background-color: #40C9A2;      /* Background color when checked */
+  border-color: #40C9A2;
+}
+
+/* Inner checkmark style for checked state */
+.shiny-options-group .checkbox input[type="checkbox"]:checked::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 12px;                    /* Size of the inner dot */
+  height: 12px;
+  background-color: #5ed393;      /* Color of the inner dot */
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Style for the label text */
+.shiny-options-group .checkbox label {
+  font-size: 1.4s rem;
+  text-align: left;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+/* Hover effect */
+.shiny-options-group .checkbox input[type="checkbox"]:hover {
+  border-color: #40C9A2;
+}
+
+.shiny-input-select {
+  font-size: medium;
+  text-decoration-color: #171a1d;
+}
