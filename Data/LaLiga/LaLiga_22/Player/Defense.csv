@@ -1,0 +1,542 @@
+"Player","Squad","Nation","Pos","Pos2","Age","Tackles","Tackles_Won","Tackles_Win_Percentage","Challenges","Challenges_Won","Challenges_Percentage","Total_Blocks","Shots_Blocked","Passes_Blocked","Interceptions","Clearances","Errors"
+"Luis Abram","Granada","PER","DF",NA,25,6,3,50,4,4,50,6,5,1,5,37,1
+"Marcos Acuña","Sevilla","ARG","DF",NA,29,50,29,58,46,46,65.2,22,5,17,14,25,1
+"Martin Agirregabiria","Alavés","ESP","DF",NA,25,34,22,64.7058823529412,37,37,48.6,20,3,17,25,38,0
+"Sergio Agüero","Barcelona","ARG","FW",NA,33,1,1,100,2,2,0,0,0,0,0,0,0
+"Joseph Aidoo","Celta Vigo","GHA","DF",NA,25,39,26,66.6666666666667,31,31,54.8,23,13,10,38,96,3
+"Carlos Akapo","Cádiz","EQG","DF",NA,28,43,31,72.093023255814,37,37,56.8,26,7,19,51,61,0
+"Paul Akouokou","Betis","CIV","MF",NA,23,14,9,64.2857142857143,12,12,66.7,6,0,6,11,6,0
+"David Alaba","Real Madrid","AUT","DF",NA,29,23,13,56.5217391304348,19,19,47.4,26,15,11,22,70,1
+"Tomás Alarcón","Cádiz","CHI","MF",NA,22,31,20,64.5161290322581,31,31,32.3,19,7,12,30,31,0
+"Jordi Alba","Barcelona","ESP","DF",NA,32,47,34,72.3404255319149,47,47,57.4,26,6,20,33,41,1
+"Raúl Albiol","Villarreal","ESP","DF",NA,35,26,15,57.6923076923077,18,18,77.8,24,15,9,21,126,1
+"Paco Alcácer","Villarreal","ESP","FW",NA,27,9,3,33.3333333333333,5,5,20,7,0,7,6,1,0
+"Rubén Alcaraz","Cádiz","ESP","MF",NA,30,41,20,48.780487804878,45,45,48.9,10,2,8,13,14,0
+"Omar Alderete","Valencia","PAR","DF",NA,24,53,34,64.1509433962264,53,53,64.2,30,18,12,35,153,0
+"Iván Alejo","Cádiz","ESP","MF","FW",26,33,15,45.4545454545455,44,44,34.1,12,0,12,8,17,0
+"Carles Aleñá","Getafe","ESP","MF",NA,23,27,19,70.3703703703704,48,48,18.8,21,2,19,15,16,0
+"Yeray Álvarez","Athletic Club","ESP","DF",NA,26,24,14,58.3333333333333,18,18,55.6,21,16,5,45,97,0
+"Dani Alves","Barcelona","BRA","DF",NA,38,30,19,63.3333333333333,26,26,53.8,10,3,7,11,10,2
+"Emmanuel Amankwaa Akurugu","Getafe","GHA","DF",NA,19,0,0,NA,2,2,0,1,0,1,0,0,0
+"Amath","Mallorca","SEN","FW","MF",25,21,11,52.3809523809524,17,17,41.2,12,0,12,7,7,0
+"Florin Andone","Cádiz","ROU","FW",NA,28,1,1,100,1,1,0,2,0,2,0,1,0
+"Marcos André","Valencia","BRA","FW","MF",24,15,11,73.3333333333333,16,16,31.3,15,0,15,7,13,0
+"José Ángel","Osasuna","ESP","DF",NA,31,20,13,65,14,14,64.3,6,1,5,10,21,0
+"Mauro Arambarri","Getafe","URU","MF",NA,25,62,37,59.6774193548387,68,68,29.4,35,5,30,32,18,0
+"Néstor Araujo","Celta Vigo","MEX","DF",NA,29,22,14,63.6363636363636,21,21,42.9,17,10,7,27,105,2
+"Ronald Araújo","Barcelona","URU","DF",NA,22,41,23,56.0975609756098,25,25,84,37,20,17,23,66,1
+"Jesús Areso","Osasuna","ESP","DF",NA,22,3,3,100,2,2,0,0,0,0,0,2,1
+"Matias Arezo","Granada","URU","FW","MF",18,5,3,60,9,9,44.4,1,0,1,1,1,0
+"Santiago Arias","Granada","COL","DF",NA,29,12,5,41.6666666666667,9,9,44.4,8,4,4,5,10,0
+"Santiago Arzamendia","Cádiz","PAR","MF",NA,23,14,6,42.8571428571429,13,13,46.2,6,0,6,4,7,0
+"Sergio Asenjo","Villarreal","ESP","GK",NA,32,0,0,NA,1,1,0,0,0,0,1,6,0
+"Marco Asensio","Real Madrid","ESP","FW","MF",25,12,8,66.6666666666667,18,18,22.2,8,1,7,12,6,1
+"Iago Aspas","Celta Vigo","ESP","FW",NA,33,14,7,50,24,24,16.7,23,2,21,11,19,0
+"Pierre-Emerick Aubameyang","Barcelona","GAB","FW",NA,32,2,2,100,5,5,0,9,1,8,2,4,0
+"Ludwig Augustinsson","Sevilla","SWE","DF","FW",27,18,14,77.7777777777778,13,13,61.5,10,3,7,5,21,0
+"Serge Aurier","Villarreal","CIV","DF",NA,28,14,9,64.2857142857143,7,7,57.1,14,7,7,11,25,0
+"Ezequiel Ávila","Osasuna","ARG","FW","MF",27,17,7,41.1764705882353,21,21,33.3,14,2,12,13,15,1
+"Iddrisu Baba","Mallorca","GHA","MF",NA,25,57,30,52.6315789473684,43,43,58.1,19,5,14,24,34,1
+"Carlos Bacca","Granada","COL","FW",NA,34,4,4,100,3,3,0,5,0,5,1,5,0
+"Gareth Bale","Real Madrid","WAL","FW",NA,32,2,1,50,4,4,25,2,0,2,2,1,0
+"Mikel Balenziaga","Athletic Club","ESP","DF",NA,33,33,24,72.7272727272727,43,43,58.1,27,4,23,21,79,0
+"Iván Balliu","Rayo Vallecano","ALB","DF",NA,29,45,22,48.8888888888889,31,31,61.3,24,5,19,39,64,0
+"Enis Bardhi","Levante","MKD","MF","FW",26,29,12,41.3793103448276,35,35,34.3,13,2,11,10,7,0
+"Keidi Bare","Espanyol","ALB","MF",NA,23,27,17,62.962962962963,31,31,35.5,20,10,10,15,26,1
+"Kike Barja","Osasuna","ESP","MF","FW",24,15,11,73.3333333333333,22,22,36.4,10,1,9,9,4,0
+"Antonio Barragán","Elche","ESP","DF",NA,34,21,14,66.6666666666667,17,17,64.7,5,3,2,17,34,0
+"Ander Barrenetxea","Real Sociedad","ESP","FW","MF",19,15,10,66.6666666666667,18,18,44.4,7,0,7,2,2,0
+"Marc Bartra","Betis","ESP","DF",NA,30,39,14,35.8974358974359,35,35,54.3,39,22,17,33,105,1
+"Álvaro Bastida","Cádiz","ESP","MF",NA,17,7,4,57.1428571428571,5,5,80,1,0,1,3,1,0
+"Rodrigo Battaglia","Mallorca","ARG","MF",NA,30,32,16,50,30,30,50,21,10,11,10,36,0
+"Jon Bautista","Real Sociedad","ESP","MF",NA,26,3,0,0,1,1,0,1,0,1,1,1,0
+"Bebé","Rayo Vallecano","CPV","FW",NA,31,6,5,83.3333333333333,16,16,25,18,0,18,3,6,0
+"Héctor Bellerín","Betis","ESP","DF",NA,26,52,32,61.5384615384615,44,44,70.5,11,2,9,23,57,1
+"Fran Beltrán","Celta Vigo","ESP","MF",NA,22,56,41,73.2142857142857,68,68,41.2,29,5,24,32,39,0
+"Darío Benedetto","Elche","ARG","FW","MF",31,5,1,20,6,6,50,4,0,4,1,1,0
+"Iker Benito","Osasuna","ESP","FW","MF",18,2,1,50,1,1,0,2,0,2,0,2,0
+"Pedro Benito","Cádiz","ESP","FW",NA,21,0,0,NA,1,1,0,0,0,0,0,0,0
+"Karim Benzema","Real Madrid","FRA","FW",NA,33,11,9,81.8181818181818,9,9,22.2,10,0,10,4,13,0
+"Yuri Berchiche","Athletic Club","ESP","DF",NA,31,25,11,44,14,14,50,19,6,13,13,25,0
+"Álex Berenguer","Athletic Club","ESP","MF",NA,26,45,26,57.7777777777778,51,51,21.6,40,2,38,16,20,0
+"Pedro Bigas","Elche","ESP","DF",NA,30,24,10,41.6666666666667,20,20,45,21,16,5,18,77,1
+"Lucas Boyé","Elche","ARG","FW",NA,25,27,13,48.1481481481481,24,24,37.5,24,1,23,2,23,0
+"Darko Brašanac","Osasuna","SRB","MF",NA,29,35,22,62.8571428571429,40,40,35,25,8,17,25,15,0
+"Yan Brice Eteki","Granada","CMR","MF",NA,23,6,3,50,7,7,42.9,7,3,4,4,6,1
+"Ante Budimir","Osasuna","CRO","FW",NA,30,24,10,41.6666666666667,19,19,31.6,22,4,18,3,16,0
+"Sergio Busquets","Barcelona","ESP","MF",NA,33,93,49,52.6881720430108,83,83,55.4,44,8,36,45,31,0
+"Erick Cabaco","Getafe","URU","DF",NA,26,2,1,50,5,5,40,5,2,3,4,10,0
+"Leandro Cabrera","Espanyol","URU","DF",NA,30,37,24,64.8648648648649,34,34,61.8,32,23,9,44,222,2
+"Martín Cáceres","Levante","URU","DF",NA,34,2,2,100,5,5,20,2,2,0,11,16,1
+"Cala","Cádiz","ESP","DF",NA,31,9,4,44.4444444444444,17,17,47.1,12,6,6,12,56,0
+"Calderón","Betis","ESP","DF",NA,21,2,0,0,3,3,33.3,0,0,0,0,2,0
+"Fernando Calero","Espanyol","ESP","DF",NA,25,17,10,58.8235294117647,13,13,61.5,7,2,5,16,63,1
+"Víctor Camarasa","Betis","ESP","MF","FW",27,2,1,50,1,1,0,2,1,1,2,2,0
+"Eduardo Camavinga","Real Madrid","FRA","MF",NA,18,52,35,67.3076923076923,38,38,52.6,20,2,18,17,14,1
+"José Campaña","Levante","ESP","MF",NA,28,27,16,59.2592592592593,32,32,37.5,13,2,11,21,19,1
+"Sergio Canales","Betis","ESP","FW","MF",30,24,14,58.3333333333333,35,35,28.6,16,1,15,10,12,0
+"Álex Cantero","Levante","ESP","FW","MF",21,6,4,66.6666666666667,8,8,12.5,2,0,2,1,0,0
+"Étienne Capoue","Villarreal","FRA","MF",NA,33,44,26,59.0909090909091,28,28,53.6,17,5,12,35,51,0
+"Isaac Carcelen","Cádiz","ESP","DF","MF",28,43,29,67.4418604651163,56,56,50,25,6,19,34,42,0
+"Cárdenas","Levante","ESP","GK",NA,24,1,1,100,3,3,0,0,0,0,1,19,0
+"Diego Carlos","Sevilla","BRA","DF",NA,28,35,24,68.5714285714286,24,24,66.7,48,33,15,24,120,5
+"Yannick Carrasco","Atlético Madrid","BEL","FW","MF",27,34,19,55.8823529411765,44,44,43.2,26,5,21,19,12,2
+"Guido Carrillo","Elche","ARG","FW",NA,30,7,4,57.1428571428571,13,13,23.1,9,2,7,1,27,0
+"Dani Carvajal","Real Madrid","ESP","DF",NA,29,43,28,65.1162790697674,26,26,57.7,22,8,14,20,38,2
+"William Carvalho","Betis","POR","MF",NA,29,49,33,67.3469387755102,40,40,37.5,18,7,11,16,20,0
+"Casemiro","Real Madrid","BRA","MF",NA,29,79,51,64.5569620253165,67,67,44.8,65,19,46,38,65,3
+"Kiko Casilla","Elche","ESP","GK",NA,34,0,0,NA,1,1,0,0,0,0,1,2,2
+"Catena","Rayo Vallecano","ESP","DF",NA,26,39,23,58.974358974359,42,42,59.5,26,19,7,30,168,3
+"Dani Ceballos","Real Madrid","ESP","MF",NA,24,7,5,71.4285714285714,5,5,20,8,2,6,4,2,0
+"Franco Cervi","Celta Vigo","ARG","MF",NA,27,73,41,56.1643835616438,77,77,42.9,38,2,36,21,19,0
+"Chapela","Cádiz","ESP","MF","FW",22,4,2,50,4,4,50,6,1,5,4,5,0
+"Chema","Getafe","ESP","MF",NA,29,0,0,NA,1,1,0,0,0,0,0,0,0
+"Denis Cheryshev","Valencia","RUS","MF","FW",30,14,5,35.7142857142857,15,15,40,9,1,8,9,9,0
+"Samuel Chukwueze","Villarreal","NGA","MF","FW",22,13,9,69.2307692307692,6,6,50,7,0,7,5,4,0
+"Víctor Chust","Cádiz","ESP","DF",NA,21,19,10,52.6315789473684,17,17,64.7,20,8,12,16,87,0
+"Jasper Cillessen","Valencia","NED","GK",NA,32,0,0,NA,1,1,0,0,0,0,1,6,0
+"Pathé Ciss","Rayo Vallecano","SEN","MF",NA,27,31,15,48.3870967741936,26,26,46.2,16,6,10,30,27,0
+"Carlos Clerc","Levante","ESP","DF",NA,29,35,17,48.5714285714286,19,19,36.8,8,3,5,26,32,1
+"Coke","Levante","ESP","DF",NA,34,3,2,66.6666666666667,4,4,75,1,0,1,2,7,0
+"Álex Collado","Granada","ESP","MF","FW",22,27,12,44.4444444444444,31,31,38.7,28,2,26,6,11,0
+"Eray Cömert","Valencia","SUI","DF",NA,23,5,3,60,6,6,50,3,2,1,2,6,0
+"Santi Comesaña","Rayo Vallecano","ESP","MF",NA,24,87,56,64.367816091954,104,104,38.5,46,6,40,33,30,0
+"Francis Coquelin","Villarreal","FRA","MF",NA,30,26,17,65.3846153846154,20,20,55,15,5,10,19,11,0
+"Jesús Corona","Sevilla","MEX","FW","DF",28,12,7,58.3333333333333,6,6,50,4,0,4,8,6,0
+"Ángel Correa","Atlético Madrid","ARG","FW","MF",26,16,8,50,29,29,24.1,25,2,23,10,4,0
+"Thierry Correia","Valencia","POR","DF",NA,22,35,23,65.7142857142857,29,29,48.3,20,5,15,19,27,0
+"Hélder Costa","Valencia","ANG","MF","FW",27,27,16,59.2592592592593,41,41,34.1,12,1,11,3,9,0
+"Jaume Costa","Mallorca","ESP","DF",NA,33,35,26,74.2857142857143,31,31,74.2,22,7,15,23,55,0
+"Thibaut Courtois","Real Madrid","BEL","GK",NA,29,1,0,0,2,2,50,0,0,0,0,9,1
+"Philippe Coutinho","Barcelona","BRA","MF","FW",29,6,3,50,11,11,27.3,3,0,3,4,3,0
+"Juan Cruz Armada","Osasuna","ESP","DF",NA,29,28,21,75,16,16,50,15,12,3,16,58,1
+"Jorge Cuenca","Getafe","ESP","DF",NA,21,46,32,69.5652173913043,28,28,75,29,14,15,39,155,0
+"Matheus Cunha","Atlético Madrid","BRA","FW",NA,22,19,12,63.1578947368421,20,20,25,18,2,16,6,9,0
+"Arnaut Danjuma","Villarreal","NED","FW",NA,24,7,6,85.7142857142857,4,4,50,5,0,5,2,3,0
+"Sergi Darder","Espanyol","ESP","MF",NA,27,45,22,48.8888888888889,54,54,33.3,16,1,15,26,32,1
+"Rodrigo De Paul","Atlético Madrid","ARG","MF",NA,27,55,30,54.5454545454545,60,60,50,24,3,21,21,17,2
+"Thomas Delaney","Sevilla","DEN","MF",NA,29,41,24,58.5365853658537,30,30,53.3,19,10,9,13,35,0
+"Ousmane Dembélé","Barcelona","FRA","FW",NA,24,24,16,66.6666666666667,23,23,30.4,8,0,8,8,3,0
+"Yusuf Demir","Barcelona","AUT","FW",NA,18,3,1,33.3333333333333,5,5,40,1,0,1,2,1,0
+"Sergiño Dest","Barcelona","USA","DF","FW",20,32,15,46.875,18,18,72.2,22,4,18,2,18,0
+"Boulaye Dia","Villarreal","SEN","FW",NA,24,8,6,75,5,5,40,6,1,5,5,4,0
+"Mouctar Diakhaby","Valencia","GUI","DF",NA,24,35,24,68.5714285714286,23,23,56.5,29,17,12,30,87,3
+"Víctor Díaz","Granada","ESP","DF",NA,33,23,15,65.2173913043478,25,25,48,19,11,8,17,71,1
+"Landry Dimata","Espanyol","BEL","FW","MF",23,2,2,100,4,4,25,0,0,0,1,7,0
+"Djené","Getafe","TOG","DF",NA,29,44,26,59.0909090909091,34,34,67.6,24,5,19,59,109,2
+"Naïs Djouahra","Real Sociedad","FRA","FW","MF",21,7,3,42.8571428571429,8,8,50,3,0,3,2,2,0
+"Carlos Dominguez","Celta Vigo","ESP","DF",NA,20,4,1,25,6,6,66.7,2,1,1,4,21,0
+"John Donald","Elche","ESP","DF",NA,20,7,4,57.1428571428571,8,8,62.5,5,3,2,3,3,0
+"Domingos Duarte","Granada","POR","DF",NA,26,18,14,77.7777777777778,11,11,54.5,27,20,7,22,82,0
+"Óscar Duarte","Levante","CRC","DF",NA,32,18,8,44.4444444444444,23,23,34.8,18,9,9,24,102,0
+"Rubén Duarte","Alavés","ESP","DF",NA,25,76,47,61.8421052631579,85,85,50.6,40,6,34,57,82,0
+"Hugo Duro","Valencia","ESP","FW","MF",21,25,19,76,38,38,39.5,24,2,22,4,20,1
+"Aritz Elustondo","Real Sociedad","ESP","DF",NA,27,21,14,66.6666666666667,20,20,50,19,13,6,29,86,0
+"Adri Embarba","Espanyol","ESP","FW","MF",29,44,29,65.9090909090909,69,69,37.7,35,3,32,19,30,0
+"Emerson","Barcelona","BRA","DF",NA,22,3,3,100,2,2,50,1,0,1,2,1,0
+"Youssef En-Nesyri","Sevilla","MAR","FW",NA,24,10,5,50,11,11,36.4,9,1,8,4,18,0
+"Gonzalo Escalante","Alavés","ARG","MF",NA,28,30,14,46.6666666666667,34,34,38.2,27,2,25,21,28,0
+"Aarón Escandell","Granada","ESP","GK",NA,25,0,0,NA,1,1,0,0,0,0,0,4,0
+"Sergio Escudero","Granada","ESP","DF","MF",31,46,24,52.1739130434783,54,54,48.1,18,3,15,26,35,0
+"Alfonso Espino","Cádiz","URU","DF",NA,29,107,63,58.8785046728972,112,112,39.3,45,10,35,54,87,1
+"Estanis","Barcelona","ESP","FW",NA,17,1,1,100,1,1,100,0,0,0,0,0,0
+"Pervis Estupiñán","Villarreal","ECU","DF",NA,23,36,22,61.1111111111111,24,24,70.8,13,5,8,25,29,2
+"Abde Ezzalzouli","Barcelona","MAR","FW",NA,19,17,9,52.9411764705882,8,8,62.5,3,0,3,9,0,0
+"Radamel Falcao","Rayo Vallecano","COL","FW",NA,35,2,1,50,4,4,25,4,1,3,2,11,0
+"Fali","Cádiz","ESP","DF","MF",27,32,19,59.375,32,32,53.1,26,16,10,24,82,0
+"Omar Faraj","Levante","PLE","FW",NA,19,1,0,0,1,1,100,0,0,0,0,0,0
+"Ansu Fati","Barcelona","ESP","FW",NA,18,3,2,66.6666666666667,1,1,100,4,0,4,1,0,0
+"Aleix Febas","Mallorca","ESP","MF",NA,25,4,1,25,4,4,50,0,0,0,0,0,0
+"Nabil Fekir","Betis","FRA","MF",NA,28,43,29,67.4418604651163,36,36,19.4,14,0,14,7,7,0
+"Felipe","Atlético Madrid","BRA","DF",NA,32,20,15,75,18,18,44.4,17,11,6,28,77,0
+"João Félix","Atlético Madrid","POR","FW","MF",21,5,2,40,5,5,20,4,1,3,7,8,0
+"Aitor Fernández","Levante","ESP","GK",NA,30,2,1,50,2,2,100,0,0,0,0,7,0
+"Álex Fernández","Cádiz","ESP","MF",NA,28,47,31,65.9574468085106,61,61,34.4,30,7,23,30,31,0
+"Fernando","Sevilla","BRA","MF","DF",34,24,17,70.8333333333333,33,33,36.4,21,13,8,29,32,2
+"Fidel","Elche","ESP","MF",NA,31,44,23,52.2727272727273,57,57,24.6,9,1,8,7,20,0
+"José Fontán","Celta Vigo","ESP","DF",NA,21,5,3,60,5,5,20,3,1,2,10,10,0
+"Dimitri Foulquier","Granada","FRA","DF",NA,28,0,0,NA,1,1,0,2,1,1,1,2,0
+"Dimitri Foulquier","Valencia","FRA","DF",NA,28,36,17,47.2222222222222,34,34,61.8,19,3,16,29,49,0
+"Juan Foyth","Villarreal","ARG","DF",NA,23,69,49,71.0144927536232,47,47,74.5,29,7,22,20,50,0
+"Enric Franquesa","Levante","ESP","DF","FW",24,5,3,60,1,1,0,4,0,4,7,11,0
+"Jorge de Frutos","Levante","ESP","MF","FW",24,33,15,45.4545454545455,51,51,19.6,11,1,10,12,13,0
+"Javi Galán","Celta Vigo","ESP","DF",NA,26,108,66,61.1111111111111,99,99,42.4,48,8,40,45,52,0
+"Iñigo Ruiz de Galarreta","Mallorca","ESP","MF",NA,27,40,21,52.5,30,30,46.7,16,2,14,20,21,0
+"Thiago Galhardo","Celta Vigo","BRA","FW","MF",32,12,6,50,12,12,16.7,15,2,13,6,9,0
+"Álvaro García","Rayo Vallecano","ESP","FW","MF",28,42,23,54.7619047619048,35,35,22.9,27,3,24,42,24,0
+"Dani García","Athletic Club","ESP","MF",NA,31,36,22,61.1111111111111,47,47,29.8,27,10,17,24,41,1
+"David García","Osasuna","ESP","DF",NA,27,28,14,50,22,22,54.5,27,21,6,52,168,0
+"Eric García","Barcelona","ESP","DF",NA,20,27,18,66.6666666666667,26,26,42.3,22,12,10,44,53,3
+"Fran Garcia","Rayo Vallecano","ESP","DF",NA,21,60,35,58.3333333333333,73,73,53.4,34,8,26,45,53,0
+"Manu García","Alavés","ESP","MF",NA,23,18,9,50,27,27,33.3,8,2,6,13,4,0
+"Raúl García","Athletic Club","ESP","FW",NA,35,27,17,62.962962962963,36,36,22.2,30,4,26,9,21,0
+"Rubén García","Osasuna","ESP","MF","FW",28,43,26,60.4651162790698,49,49,32.7,31,4,27,24,16,0
+"Unai García","Osasuna","ESP","DF",NA,29,21,12,57.1428571428571,17,17,82.4,19,11,8,22,78,0
+"Mario Gaspar","Villarreal","ESP","DF",NA,30,10,4,40,10,10,60,6,3,3,6,15,0
+"Gavi","Barcelona","ESP","MF","FW",16,38,18,47.3684210526316,33,33,27.3,36,0,36,25,13,0
+"Bryan Gil","Valencia","ESP","MF","FW",20,13,8,61.5384615384615,13,13,15.4,13,0,13,1,4,0
+"Óscar Gil","Espanyol","ESP","DF",NA,24,52,35,67.3076923076923,46,46,54.3,33,9,24,19,33,2
+"Mario Gila","Real Madrid","ESP","DF",NA,20,1,0,0,1,1,0,0,0,0,1,1,0
+"Dani Gómez","Levante","ESP","FW",NA,23,7,4,57.1428571428571,12,12,33.3,3,0,3,3,5,0
+"Maxi Gómez","Valencia","URU","FW",NA,24,5,3,60,8,8,62.5,5,1,4,3,22,0
+"Moi Gómez","Villarreal","ESP","MF","FW",27,15,7,46.6666666666667,17,17,29.4,5,0,5,6,6,0
+"Papu Gómez","Sevilla","ARG","FW","MF",33,19,11,57.8947368421053,35,35,25.7,15,2,13,7,12,2
+"Sergi Gómez","Espanyol","ESP","DF",NA,29,33,24,72.7272727272727,27,27,66.7,33,23,10,40,125,2
+"Maxime Gonalons","Granada","FRA","MF",NA,32,43,28,65.1162790697674,39,39,35.9,33,10,23,18,29,0
+"Diego González","Elche","ESP","DF",NA,26,25,16,64,16,16,56.3,21,13,8,19,87,0
+"Édgar González","Betis","ESP","DF",NA,24,25,19,76,24,24,70.8,17,11,6,23,82,0
+"Giovanni González","Mallorca","URU","DF",NA,26,9,3,33.3333333333333,5,5,60,7,2,5,4,14,0
+"Nicolás González","Barcelona","ESP","MF",NA,19,31,20,64.5161290322581,27,27,40.7,12,0,12,6,12,0
+"Roberto González","Betis","ESP","FW","MF",20,5,4,80,6,6,66.7,5,0,5,1,1,0
+"Andoni Gorosabel","Real Sociedad","ESP","DF",NA,24,47,31,65.9574468085106,47,47,53.2,16,3,13,18,49,0
+"Jaume Grau","Osasuna","ESP","MF",NA,24,1,1,100,1,1,0,0,0,0,0,0,0
+"Antoine Griezmann","Barcelona","FRA","FW",NA,30,13,5,38.4615384615385,6,6,33.3,4,0,4,3,5,0
+"Antoine Griezmann","Atlético Madrid","FRA","FW","MF",30,30,14,46.6666666666667,32,32,37.5,18,1,17,7,18,0
+"Andrés Guardado","Betis","MEX","MF",NA,34,30,13,43.3333333333333,34,34,38.2,18,4,14,21,29,1
+"Sergi Guardiola","Rayo Vallecano","ESP","FW",NA,30,10,9,90,21,21,4.8,14,2,12,4,17,0
+"Nemanja Gudelj","Sevilla","SRB","DF","MF",29,16,7,43.75,8,8,62.5,14,9,5,22,37,0
+"Gonçalo Guedes","Valencia","POR","FW","MF",24,21,14,66.6666666666667,22,22,9.1,14,0,14,9,1,0
+"Ander Guevara","Real Sociedad","ESP","MF",NA,24,18,13,72.2222222222222,17,17,58.8,12,6,6,12,8,0
+"John Guidetti","Alavés","SWE","FW","MF",29,2,1,50,1,1,0,1,0,1,0,0,0
+"Hugo Guillamón","Valencia","ESP","MF","DF",21,43,27,62.7906976744186,44,44,40.9,26,10,16,30,53,1
+"Gerard Gumbau","Elche","ESP","MF",NA,26,46,19,41.304347826087,51,51,43.1,18,4,14,23,25,0
+"Jon Guridi","Real Sociedad","ESP","MF",NA,26,5,3,60,4,4,25,3,1,2,3,4,0
+"Raúl Guti","Elche","ESP","MF",NA,24,25,15,60,30,30,33.3,9,3,6,25,7,0
+"Marcos Mauro López Gutiérrez","Cádiz","ARG","DF",NA,30,1,0,0,2,2,0,2,1,1,1,9,0
+"Miguel Gutiérrez","Real Madrid","ESP","DF",NA,20,7,5,71.4285714285714,5,5,60,0,0,0,2,2,0
+"Munir El Haddadi","Sevilla","MAR","FW","MF",25,8,4,50,8,8,25,7,1,6,5,2,0
+"Varazdat Haroyan","Cádiz","ARM","DF",NA,28,31,21,67.741935483871,29,29,65.5,22,12,10,15,62,0
+"Eden Hazard","Real Madrid","BEL","FW","MF",30,6,3,50,7,7,42.9,3,0,3,2,0,0
+"Kike Hermoso","Betis","ESP","DF",NA,21,2,1,50,2,2,100,2,1,1,0,5,1
+"Mario Hermoso","Atlético Madrid","ESP","DF",NA,26,30,15,50,38,38,52.6,18,3,15,29,49,2
+"Aridane Hernández","Osasuna","ESP","DF",NA,32,12,9,75,13,13,23.1,11,9,2,20,71,0
+"Luis Hernández","Cádiz","ESP","DF",NA,32,9,5,55.5555555555556,8,8,62.5,5,3,2,16,34,0
+"Mario Hernández","Rayo Vallecano","ESP","DF","FW",22,10,4,40,9,9,55.6,1,0,1,4,7,0
+"Héctor Herrera","Atlético Madrid","MEX","MF",NA,31,16,8,50,20,20,35,13,2,11,12,16,0
+"Sergio Herrera","Osasuna","ESP","GK",NA,28,3,2,66.6666666666667,6,6,50,1,0,1,1,18,0
+"Yangel Herrera","Espanyol","VEN","MF",NA,23,41,31,75.609756097561,39,39,46.2,27,5,22,19,33,1
+"Matthew Hoppe","Mallorca","USA","FW","MF",20,1,0,0,3,3,0,0,0,0,0,0,0
+"Robert Ibáñez","Osasuna","ESP","MF","FW",28,3,3,100,2,2,50,1,0,1,1,1,0
+"Vicente Iborra","Villarreal","ESP","MF",NA,33,19,10,52.6315789473684,24,24,50,11,5,6,11,27,1
+"Oussama Idrissi","Sevilla","MAR","MF","FW",25,1,0,0,1,1,0,1,0,1,1,1,0
+"Oussama Idrissi","Cádiz","MAR","MF",NA,25,8,4,50,15,15,26.7,8,0,8,3,5,0
+"Iglesias","Getafe","ESP","DF",NA,23,19,10,52.6315789473684,17,17,41.2,8,2,6,10,28,0
+"Borja Iglesias","Betis","ESP","FW",NA,28,6,4,66.6666666666667,8,8,0,11,1,10,4,7,0
+"Asier Illarramendi","Real Sociedad","ESP","MF",NA,31,9,5,55.5555555555556,10,10,10,5,1,4,4,12,0
+"Alexander Isak","Real Sociedad","SWE","FW",NA,21,7,4,57.1428571428571,12,12,16.7,14,2,12,3,10,0
+"Isco","Real Madrid","ESP","MF","FW",29,9,5,55.5555555555556,12,12,41.7,1,0,1,2,1,0
+"Jakub Jankto","Getafe","CZE","DF","MF",25,11,7,63.6363636363636,17,17,58.8,4,0,4,4,7,0
+"Adnan Januzaj","Real Sociedad","BEL","FW","MF",26,17,11,64.7058823529412,24,24,37.5,15,3,12,12,15,0
+"Jason","Alavés","ESP","MF","FW",27,11,7,63.6363636363636,20,20,35,7,0,7,7,5,0
+"Jason","Valencia","ESP","MF","DF",27,4,1,25,1,1,0,2,0,2,1,1,0
+"Luis Javier Suárez","Granada","COL","FW",NA,23,26,14,53.8461538461538,27,27,29.6,25,3,22,6,23,0
+"Álvaro Jiménez","Cádiz","ESP","MF","FW",26,6,3,50,7,7,57.1,3,0,3,3,0,0
+"Joaquín","Betis","ESP","FW","MF",40,6,2,33.3333333333333,8,8,37.5,5,2,3,3,10,0
+"Jofre","Espanyol","ESP","MF","DF",20,1,1,100,1,1,100,0,0,0,0,0,0
+"Frenkie de Jong","Barcelona","NED","MF",NA,24,35,19,54.2857142857143,23,23,52.2,19,5,14,20,16,0
+"Luuk de Jong","Barcelona","NED","FW",NA,30,9,7,77.7777777777778,2,2,50,4,0,4,0,12,0
+"Joan Jordán","Sevilla","ESP","MF",NA,27,61,30,49.1803278688525,65,65,43.1,27,6,21,30,18,1
+"Josan","Elche","ESP","DF","MF",31,36,22,61.1111111111111,44,44,59.1,11,4,7,10,21,0
+"Willian José","Betis","BRA","FW",NA,29,15,13,86.6666666666667,8,8,25,10,2,8,3,16,0
+"Joselu","Alavés","ESP","FW",NA,31,16,11,68.75,25,25,28,21,4,17,7,45,0
+"Josema","Elche","ESP","DF",NA,25,3,2,66.6666666666667,2,2,0,1,1,0,0,11,0
+"Luka Jović","Real Madrid","SRB","FW",NA,23,1,1,100,1,1,0,3,0,3,1,4,0
+"José Juan Macías","Getafe","MEX","FW","MF",21,1,0,0,1,1,0,1,0,1,1,0,0
+"Juanmi","Betis","ESP","FW",NA,28,39,25,64.1025641025641,49,49,38.8,24,1,23,9,10,1
+"Lago Junior","Mallorca","CIV","FW","MF",30,3,2,66.6666666666667,5,5,60,0,0,0,2,2,0
+"Vinicius Júnior","Real Madrid","BRA","FW",NA,21,46,24,52.1739130434783,50,50,30,25,0,25,6,6,0
+"Ferran Jutglà","Barcelona","ESP","FW",NA,22,2,1,50,1,1,0,2,0,2,1,1,0
+"Jens Jønsson","Cádiz","DEN","MF",NA,28,40,29,72.5,35,35,48.6,17,7,10,34,32,0
+"Lee Kang-in","Mallorca","KOR","MF","FW",20,13,6,46.1538461538462,29,29,17.2,11,1,10,5,7,0
+"Kiké","Osasuna","ESP","FW",NA,31,11,7,63.6363636363636,23,23,13,10,1,9,3,12,0
+"Koba Koindredi","Valencia","FRA","MF",NA,19,4,3,75,6,6,33.3,3,0,3,4,5,0
+"Koke","Atlético Madrid","ESP","MF",NA,29,55,30,54.5454545454545,63,63,41.3,21,5,16,24,31,1
+"Geoffrey Kondogbia","Atlético Madrid","CTA","MF","DF",28,74,44,59.4594594594595,49,49,42.9,16,5,11,44,24,0
+"Jules Koundé","Sevilla","FRA","DF",NA,22,40,17,42.5,28,28,64.3,33,18,15,21,101,2
+"Toni Kroos","Real Madrid","GER","MF",NA,31,34,26,76.4705882352941,36,36,38.9,16,3,13,12,13,1
+"Takefusa Kubo","Mallorca","JPN","FW","MF",20,31,19,61.2903225806452,24,24,41.7,24,3,21,8,4,0
+"Víctor Laguardia","Alavés","ESP","DF",NA,31,29,16,55.1724137931034,30,30,63.3,36,24,12,27,151,1
+"Diego Lainez","Betis","MEX","FW",NA,21,1,1,100,3,3,0,3,0,3,1,0,0
+"Érik Lamela","Sevilla","ARG","FW","MF",29,31,18,58.0645161290323,29,29,34.5,11,0,11,5,3,0
+"Toni Lato","Valencia","ESP","DF",NA,23,17,12,70.5882352941177,16,16,56.3,6,0,6,8,14,0
+"Robin Le Normand","Real Sociedad","ESP","DF",NA,24,49,32,65.3061224489796,36,36,77.8,34,22,12,48,125,0
+"Jeremías Ledesma","Cádiz","ARG","GK",NA,28,3,1,33.3333333333333,4,4,75,0,0,0,1,21,4
+"Wu Lei","Espanyol","CHN","FW","MF",29,3,2,66.6666666666667,8,8,37.5,4,0,4,4,3,0
+"Florian Lejeune","Alavés","FRA","DF",NA,30,33,24,72.7272727272727,20,20,60,30,19,11,31,158,0
+"Iñigo Lekue","Athletic Club","ESP","DF",NA,28,32,23,71.875,44,44,50,37,12,25,23,63,0
+"Thomas Lemar","Atlético Madrid","FRA","MF",NA,25,24,14,58.3333333333333,23,23,34.8,18,0,18,8,11,0
+"Ruben Lendinez","Valencia","ESP","DF",NA,18,3,3,100,8,8,37.5,4,0,4,2,6,0
+"Clément Lenglet","Barcelona","FRA","DF",NA,26,20,11,55,13,13,61.5,7,3,4,13,21,0
+"Javier Llabrés","Mallorca","ESP","FW","MF",18,2,1,50,2,2,50,1,0,1,0,0,0
+"Marcos Llorente","Atlético Madrid","ESP","MF","DF",26,51,23,45.0980392156863,43,43,65.1,33,10,23,27,44,0
+"Giovani Lo Celso","Villarreal","ARG","FW","MF",25,22,12,54.5454545454545,22,22,40.9,4,0,4,5,3,0
+"Julen Lobete","Real Sociedad","ESP","FW","MF",20,4,3,75,2,2,50,6,1,5,1,1,0
+"Renan Lodi","Atlético Madrid","BRA","DF",NA,23,31,18,58.0645161290323,27,27,40.7,22,4,18,13,19,1
+"David López","Espanyol","ESP","MF","DF",31,18,13,72.2222222222222,16,16,56.3,10,8,2,10,25,2
+"Diego López","Espanyol","ESP","GK",NA,39,0,0,NA,2,2,0,0,0,0,1,21,1
+"Javi López","Alavés","ESP","DF",NA,19,8,6,75,6,6,66.7,7,1,6,4,15,0
+"Unai López","Rayo Vallecano","ESP","MF",NA,25,19,9,47.3684210526316,33,33,30.3,7,0,7,10,8,1
+"Mamadou Loum","Alavés","SEN","MF",NA,24,49,22,44.8979591836735,45,45,37.8,30,11,19,37,68,1
+"Anthony Lozano","Cádiz","HON","FW","MF",28,8,4,50,18,18,27.8,16,2,14,2,7,0
+"Florentino Luís","Getafe","POR","MF",NA,21,42,25,59.5238095238095,35,35,48.6,21,2,19,21,11,1
+"José Luis Gayà","Valencia","ESP","DF",NA,26,35,21,60,34,34,47.1,17,3,14,19,37,0
+"José Luis Morales","Levante","ESP","FW","MF",34,27,17,62.962962962963,42,42,28.6,29,0,29,4,7,0
+"Darwin Machís","Granada","VEN","MF","FW",28,23,13,56.5217391304348,23,23,39.1,10,0,10,15,17,0
+"Pablo Maffeo","Mallorca","ESP","DF",NA,24,84,47,55.952380952381,69,69,55.1,30,13,17,46,74,0
+"Nemanja Maksimović","Getafe","SRB","MF",NA,26,56,32,57.1428571428571,49,49,36.7,42,13,29,71,41,0
+"Hugo Mallo","Celta Vigo","ESP","DF",NA,30,45,25,55.5555555555556,31,31,51.6,23,9,14,20,53,0
+"Mickael Malsa","Levante","MTQ","MF",NA,25,37,17,45.9459459459459,42,42,35.7,20,8,12,18,15,0
+"Reinildo Mandava","Atlético Madrid","MOZ","DF",NA,27,45,25,55.5555555555556,30,30,73.3,18,9,9,21,38,0
+"Aïssa Mandi","Villarreal","ALG","DF",NA,29,11,5,45.4545454545455,6,6,50,17,14,3,13,49,3
+"Nikola Maraš","Rayo Vallecano","SRB","DF",NA,25,13,9,69.2307692307692,15,15,60,17,13,4,15,51,0
+"Marcelo","Real Madrid","BRA","DF",NA,33,8,4,50,10,10,50,7,2,5,1,11,0
+"Iván Marcone","Elche","ARG","MF",NA,31,24,14,58.3333333333333,24,24,50,8,3,5,12,13,0
+"Óscar de Marcos","Athletic Club","ESP","DF",NA,32,50,37,74,43,43,65.1,20,3,17,19,27,0
+"José Mari","Cádiz","ESP","MF",NA,33,14,7,50,8,8,87.5,4,1,3,7,2,0
+"José María Giménez","Atlético Madrid","URU","DF",NA,26,18,12,66.6666666666667,16,16,50,25,19,6,25,96,1
+"Roger Martí","Levante","ESP","FW",NA,30,23,14,60.8695652173913,30,30,26.7,14,0,14,2,8,0
+"Anthony Martial","Sevilla","FRA","FW","MF",25,2,1,50,6,6,33.3,4,0,4,0,3,0
+"Ander Martin","Real Sociedad","ESP","FW","MF",20,1,0,0,1,1,100,0,0,0,3,1,0
+"Andrés Martín","Rayo Vallecano","ESP","FW","MF",22,0,0,NA,1,1,0,1,0,1,0,0,0
+"Iván Martín","Alavés","ESP","MF","FW",22,1,1,100,1,1,0,2,0,2,1,1,0
+"Iñigo Martínez","Athletic Club","ESP","DF",NA,30,28,13,46.4285714285714,23,23,60.9,22,10,12,39,143,0
+"Javi Martínez","Osasuna","ESP","MF","FW",21,21,14,66.6666666666667,29,29,34.5,6,0,6,9,10,0
+"Pablo Martínez","Levante","ESP","MF",NA,23,15,8,53.3333333333333,13,13,30.8,6,3,3,15,5,0
+"Omar Mascarell","Elche","EQG","MF",NA,28,46,26,56.5217391304348,60,60,40,42,14,28,48,52,2
+"Jaime Mata","Getafe","ESP","FW",NA,32,7,5,71.4285714285714,9,9,11.1,4,1,3,1,5,0
+"Luís Maximiano","Granada","POR","GK",NA,22,3,1,33.3333333333333,6,6,50,0,0,0,1,16,2
+"Borja Mayoral","Getafe","ESP","FW",NA,24,7,5,71.4285714285714,2,2,50,10,4,6,4,3,0
+"Jordi Mboula","Mallorca","ESP","FW",NA,22,8,2,25,9,9,55.6,7,1,6,3,3,0
+"Óscar Melendo","Espanyol","ESP","MF","FW",23,11,5,45.4545454545455,13,13,23.1,4,1,3,1,10,0
+"Gonzalo Melero","Levante","ESP","MF",NA,27,29,16,55.1724137931034,36,36,44.4,21,8,13,7,22,0
+"Memphis","Barcelona","NED","FW",NA,27,10,4,40,13,13,23.1,9,1,8,3,4,0
+"Brais Méndez","Celta Vigo","ESP","MF",NA,24,68,35,51.4705882352941,87,87,29.9,52,6,46,37,30,0
+"Édgar Méndez","Alavés","ESP","FW","MF",31,25,14,56,34,34,32.4,16,0,16,4,17,0
+"Ferland Mendy","Real Madrid","FRA","DF",NA,26,24,14,58.3333333333333,14,14,57.1,8,2,6,18,27,3
+"Fran Mérida","Espanyol","ESP","MF",NA,31,7,3,42.8571428571429,10,10,40,1,0,1,6,1,0
+"Mikel Merino","Real Sociedad","ESP","MF",NA,25,71,38,53.5211267605634,67,67,38.8,50,10,40,21,56,2
+"Martín Merquelanz","Rayo Vallecano","ESP","FW","MF",26,2,1,50,6,6,33.3,2,0,2,0,1,0
+"Matt Miazga","Alavés","USA","DF",NA,26,7,7,100,7,7,28.6,14,12,2,11,55,1
+"Miguel","Alavés","ESP","FW","MF",21,7,3,42.8571428571429,15,15,13.3,6,0,6,1,7,0
+"Éder Militão","Real Madrid","BRA","DF",NA,23,50,32,64,39,39,51.3,42,20,22,52,107,3
+"Luis Milla","Granada","ESP","MF",NA,26,59,29,49.1525423728814,64,64,39.1,28,4,24,25,34,0
+"Pere Milla","Elche","ESP","MF","FW",28,20,15,75,44,44,18.2,21,1,20,5,21,0
+"Santi Mina","Celta Vigo","ESP","FW",NA,25,27,17,62.962962962963,32,32,15.6,28,2,26,6,22,0
+"Óscar Mingueza","Barcelona","ESP","DF",NA,22,25,11,44,23,23,69.6,5,0,5,9,22,1
+"Rafa Mir","Sevilla","ESP","FW",NA,24,4,3,75,11,11,0,4,3,1,0,17,0
+"Jorge Miramón","Levante","ESP","DF",NA,32,36,19,52.7777777777778,44,44,34.1,15,3,12,35,58,0
+"Juan Miranda","Betis","ESP","DF",NA,21,21,11,52.3809523809524,22,22,54.5,10,4,6,15,22,0
+"Stefan Mitrović","Getafe","SRB","DF",NA,31,16,8,50,13,13,61.5,28,18,10,22,114,1
+"Luka Modrić","Real Madrid","CRO","MF",NA,35,18,10,55.5555555555556,27,27,22.2,10,4,6,20,9,0
+"Johan Mojica","Elche","COL","DF",NA,28,46,25,54.3478260869565,31,31,74.2,22,3,19,25,61,3
+"Jorge Molina","Granada","ESP","FW",NA,39,4,2,50,18,18,11.1,13,2,11,6,11,0
+"Jon Moncayola","Osasuna","ESP","MF",NA,23,40,20,50,44,44,38.6,26,9,17,20,43,0
+"Monchu","Granada","ESP","MF",NA,21,15,6,40,10,10,50,8,3,5,4,4,0
+"Gonzalo Montiel","Sevilla","ARG","DF",NA,24,15,4,26.6666666666667,24,24,50,8,2,6,10,22,0
+"Ángel Montoro","Granada","ESP","MF",NA,33,26,13,50,27,27,63,11,1,10,11,29,1
+"Martín Montoya","Betis","ESP","DF",NA,30,20,12,60,26,26,57.7,6,0,6,11,20,0
+"Jon Morcillo","Athletic Club","ESP","MF","FW",22,3,0,0,4,4,75,1,0,1,0,0,0
+"Alberto Moreno","Villarreal","ESP","MF","DF",29,13,7,53.8461538461538,18,18,27.8,13,1,12,27,15,0
+"Álex Moreno","Betis","ESP","DF",NA,28,76,40,52.6315789473684,60,60,55,28,6,22,34,82,1
+"Gerard Moreno","Villarreal","ESP","FW",NA,29,5,2,40,7,7,14.3,6,1,5,6,14,0
+"Tete Morente","Elche","ESP","MF",NA,24,21,14,66.6666666666667,28,28,25,30,1,29,12,12,0
+"Ilaix Moriba","Valencia","GUI","MF",NA,18,26,18,69.2307692307692,35,35,40,15,0,15,12,14,0
+"Manu Morlanes","Espanyol","ESP","MF",NA,22,36,15,41.6666666666667,43,43,41.9,24,5,19,13,17,0
+"Loren Morón","Espanyol","ESP","FW","MF",27,6,4,66.6666666666667,12,12,0,11,1,10,2,9,0
+"Loren Morón","Betis","ESP","FW",NA,27,1,1,100,1,1,100,0,0,0,0,0,0
+"Cristhian Mosquera","Valencia","ESP","DF",NA,17,4,2,50,6,6,50,1,0,1,3,1,1
+"Toni Moya","Alavés","ESP","MF",NA,23,23,10,43.4782608695652,43,43,30.2,18,5,13,20,18,0
+"Iker Muniain","Athletic Club","ESP","MF",NA,28,32,10,31.25,40,40,30,20,1,19,17,8,1
+"Aihen Muñoz","Real Sociedad","ESP","DF",NA,23,28,17,60.7142857142857,29,29,62.1,11,1,10,17,34,0
+"Jeison Murillo","Celta Vigo","COL","DF",NA,29,15,10,66.6666666666667,13,13,69.2,11,8,3,17,37,0
+"Vedat Muriqi","Mallorca","KVX","FW",NA,27,6,3,50,7,7,14.3,12,0,12,6,29,0
+"Yunus Musah","Valencia","USA","MF","FW",18,23,13,56.5217391304348,20,20,30,19,1,18,14,11,0
+"Shkodran Mustafi","Levante","GER","DF",NA,29,9,6,66.6666666666667,9,9,55.6,6,3,3,15,40,0
+"Nacho","Real Madrid","ESP","DF",NA,31,18,14,77.7777777777778,22,22,54.5,22,15,7,34,50,0
+"Roberto Navarro","Real Sociedad","ESP","MF","FW",19,5,3,60,5,5,60,2,0,2,2,2,0
+"Ximo Navarro","Alavés","ESP","DF",NA,31,28,19,67.8571428571429,27,27,48.1,11,5,6,22,56,2
+"Jesús Navas","Sevilla","ESP","DF",NA,35,18,13,72.2222222222222,17,17,52.9,15,2,13,17,26,1
+"Álvaro Negredo","Cádiz","ESP","FW",NA,35,5,3,60,6,6,50,11,5,6,2,23,0
+"Carlos Neva","Granada","ESP","DF",NA,25,31,19,61.2903225806452,28,28,57.1,27,9,18,32,81,0
+"Saúl Ñíguez","Atlético Madrid","ESP","FW","MF",26,7,2,28.5714285714286,4,4,75,7,1,6,0,3,0
+"Fernando Niño","Mallorca","ESP","FW",NA,20,10,4,40,12,12,16.7,9,2,7,3,15,0
+"Nolito","Celta Vigo","ESP","MF",NA,34,25,15,60,47,47,27.7,20,1,19,9,5,0
+"Randy Nteka","Rayo Vallecano","ANG","FW","MF",23,24,13,54.1666666666667,19,19,42.1,21,1,20,8,12,0
+"Unai Núñez","Athletic Club","ESP","DF",NA,24,4,4,100,6,6,50,9,8,1,8,26,2
+"Allan Nyom","Getafe","CMR","DF",NA,33,3,1,33.3333333333333,2,2,100,2,1,1,2,7,0
+"Lucas Ocampos","Sevilla","ARG","FW",NA,27,45,24,53.3333333333333,55,55,41.8,35,1,34,9,24,1
+"Lucas Olaza","Elche","URU","DF",NA,27,5,3,60,1,1,100,5,1,4,4,6,0
+"Brian Oliván","Mallorca","ESP","DF",NA,27,33,20,60.6060606060606,23,23,52.2,17,7,10,28,63,0
+"Mathías Olivera","Getafe","URU","DF",NA,23,79,47,59.493670886076,69,69,58,45,4,41,55,67,1
+"Javier Ontiveros","Osasuna","ESP","FW","MF",23,0,0,NA,2,2,0,0,0,0,1,0,1
+"Mikel Oyarzabal","Real Sociedad","ESP","FW","MF",24,18,10,55.5555555555556,21,21,33.3,18,2,16,10,16,1
+"Fernando Pacheco","Alavés","ESP","GK",NA,29,2,1,50,2,2,100,0,0,0,0,18,1
+"Jon Pacheco","Real Sociedad","ESP","DF",NA,20,6,4,66.6666666666667,3,3,100,6,4,2,6,18,0
+"Helibelton Palacios","Elche","COL","DF",NA,28,69,38,55.0724637681159,55,55,67.3,21,8,13,18,61,0
+"Isaac Palazón Camacho","Rayo Vallecano","ESP","FW","MF",26,42,28,66.6666666666667,59,59,30.5,31,3,28,13,22,0
+"Daniel Parejo","Villarreal","ESP","MF",NA,32,43,29,67.4418604651163,52,52,38.5,32,7,25,29,19,1
+"Raúl Parra","Cádiz","ESP","DF",NA,21,2,1,50,3,3,33.3,0,0,0,0,5,0
+"Javier Pastore","Elche","ARG","MF","FW",32,7,3,42.8571428571429,12,12,25,5,1,4,4,2,0
+"Gabriel Paulista","Valencia","BRA","DF",NA,30,21,12,57.1428571428571,20,20,70,18,12,6,39,88,0
+"Alfonso Pedraza","Villarreal","ESP","DF",NA,25,34,16,47.0588235294118,28,28,35.7,12,3,9,31,32,0
+"Pedri","Barcelona","ESP","MF",NA,18,20,12,60,20,20,35,13,0,13,5,7,1
+"Adrià Pedrosa","Espanyol","ESP","DF",NA,23,58,30,51.7241379310345,57,57,45.6,25,7,18,25,92,2
+"Facundo Pellistri","Alavés","URU","MF","FW",19,9,5,55.5555555555556,10,10,10,13,2,11,6,7,0
+"Rubén Peña","Villarreal","ESP","MF","FW",30,2,0,0,6,6,33.3,1,0,1,5,2,0
+"Alberto Perea","Cádiz","ESP","MF",NA,30,19,9,47.3684210526316,20,20,30,15,1,14,9,4,0
+"Iñigo Pérez","Osasuna","ESP","MF",NA,33,3,2,66.6666666666667,4,4,50,1,0,1,0,3,0
+"Juan Pérez","Osasuna","ESP","GK",NA,25,0,0,NA,1,1,0,0,0,0,0,1,1
+"Kike Pérez","Elche","ESP","MF","FW",24,8,6,75,10,10,0,6,1,5,3,4,0
+"Lucas Pérez","Elche","ESP","FW",NA,32,4,1,25,10,10,30,2,0,2,3,4,0
+"Lucas Pérez","Cádiz","ESP","FW","MF",32,3,3,100,10,10,0,3,1,2,0,1,0
+"Njegoš Petrović","Granada","SRB","MF",NA,22,24,11,45.8333333333333,14,14,57.1,16,4,12,9,11,0
+"Alex Petxa","Athletic Club","ESP","DF","MF",24,12,9,75,8,8,50,8,2,6,4,6,0
+"Germán Pezzella","Betis","ARG","DF",NA,30,21,9,42.8571428571429,29,29,55.2,29,18,11,39,106,0
+"Pablo Piatti","Elche","ARG","MF","FW",32,9,4,44.4444444444444,8,8,37.5,5,1,4,2,3,0
+"Cristiano Piccini","Valencia","ITA","DF",NA,28,14,8,57.1428571428571,7,7,71.4,3,2,1,1,11,0
+"Tomás Pina Isla","Alavés","ESP","MF",NA,33,28,16,57.1428571428571,29,29,48.3,12,3,9,22,23,0
+"Orbelín Pineda","Celta Vigo","MEX","MF","FW",25,4,1,25,2,2,50,0,0,0,0,1,0
+"Yeremi Pino","Villarreal","ESP","MF","FW",18,32,14,43.75,24,24,41.7,33,4,29,6,12,1
+"Gerard Piqué","Barcelona","ESP","DF",NA,34,22,12,54.5454545454545,14,14,78.6,19,16,3,34,86,1
+"Ezequiel Ponce","Elche","ARG","FW",NA,24,5,4,80,10,10,30,5,0,5,1,7,0
+"Pere Pons","Alavés","ESP","MF",NA,28,26,18,69.2307692307692,21,21,33.3,10,1,9,6,11,0
+"Portu","Real Sociedad","ESP","FW","MF",29,16,7,43.75,19,19,15.8,21,3,18,7,8,0
+"Sergio Postigo","Levante","ESP","DF",NA,32,11,7,63.6363636363636,8,8,50,7,5,2,7,45,1
+"Darío Poveda","Getafe","ESP","FW","MF",24,2,0,0,5,5,0,7,1,6,1,1,0
+"José Pozo","Rayo Vallecano","ESP","MF","DF",25,2,2,100,3,3,66.7,1,0,1,0,1,0
+"Abdón Prats","Mallorca","ESP","FW",NA,28,2,2,100,5,5,20,5,0,5,1,6,0
+"Javi Puado","Espanyol","ESP","MF","FW",23,24,14,58.3333333333333,37,37,32.4,18,2,16,11,24,0
+"Marc Pubill","Levante","ESP","DF","MF",18,12,6,50,8,8,50,7,2,5,4,8,2
+"Antonio Puertas","Granada","ESP","MF","FW",29,34,20,58.8235294117647,44,44,38.6,33,3,30,11,36,0
+"Riqui Puig","Barcelona","ESP","MF",NA,21,6,3,50,14,14,14.3,5,0,5,3,0,0
+"Quini","Granada","ESP","DF",NA,31,73,34,46.5753424657534,79,79,53.2,28,10,18,36,62,0
+"Dani Raba","Villarreal","ESP","MF","FW",25,1,0,0,2,2,50,2,0,2,0,2,0
+"Dani Raba","Granada","ESP","MF","FW",25,2,2,100,3,3,66.7,0,0,0,1,0,0
+"Uroš Račić","Valencia","SRB","MF",NA,23,32,18,56.25,33,33,36.4,16,6,10,16,21,0
+"Nemanja Radoja","Levante","SRB","MF",NA,28,25,8,32,20,20,40,16,9,7,22,16,2
+"Rafinha","Real Sociedad","BRA","MF",NA,28,43,27,62.7906976744186,28,28,57.1,21,2,19,12,4,0
+"Antonio Raillo","Mallorca","ESP","DF",NA,29,16,7,43.75,6,6,83.3,17,14,3,18,81,0
+"Ivan Rakitić","Sevilla","CRO","MF",NA,33,40,22,55,40,40,32.5,31,8,23,23,35,0
+"Jonás Ramalho","Osasuna","ESP","DF",NA,28,4,2,50,3,3,66.7,4,1,3,3,9,0
+"Sandro Ramírez","Getafe","ESP","FW",NA,26,7,3,42.8571428571429,12,12,8.3,14,3,11,2,3,0
+"Lluís Recasens","Espanyol","ESP","DF",NA,19,2,0,0,1,1,100,0,0,0,2,2,0
+"Karim Rekik","Sevilla","NED","DF",NA,26,11,8,72.7272727272727,9,9,22.2,11,6,5,9,19,0
+"Nico Ribaudo","Espanyol","ESP","MF","FW",20,15,6,40,34,34,32.4,14,2,12,7,3,0
+"Diego Rico","Real Sociedad","ESP","DF",NA,28,41,20,48.780487804878,45,45,48.9,29,4,25,30,54,0
+"Luis Rioja","Alavés","ESP","MF","FW",27,28,15,53.5714285714286,58,58,24.1,22,1,21,25,20,0
+"Rober","Levante","ESP","DF",NA,26,36,20,55.5555555555556,39,39,59,25,15,10,30,90,1
+"Sergi Roberto","Barcelona","ESP","MF","DF",29,5,1,20,5,5,60,2,0,2,4,6,0
+"Rubén Rochina","Granada","ESP","MF","FW",30,21,13,61.9047619047619,28,28,28.6,11,1,10,6,5,1
+"Enzo Roco","Elche","CHI","DF",NA,28,36,20,55.5555555555556,24,24,62.5,38,27,11,28,110,3
+"Rodri","Betis","ESP","FW",NA,21,10,7,70,22,22,22.7,11,0,11,3,4,0
+"Kévin Rodrigues","Rayo Vallecano","POR","DF","FW",27,15,11,73.3333333333333,10,10,60,10,1,9,7,6,0
+"Ángel Rodríguez","Mallorca","ESP","FW","MF",34,15,9,60,21,21,19,15,1,14,3,13,0
+"Óscar Rodríguez Arnaiz","Getafe","ESP","MF","FW",23,16,11,68.75,12,12,33.3,7,1,6,11,6,0
+"Óscar Rodríguez Arnaiz","Sevilla","ESP","FW","MF",23,4,3,75,3,3,66.7,2,0,2,5,7,1
+"Dani Rodríguez","Mallorca","ESP","MF","FW",33,53,31,58.4905660377358,46,46,32.6,28,3,25,20,27,0
+"Guido Rodríguez","Betis","ARG","MF",NA,27,97,53,54.639175257732,98,98,55.1,55,12,43,31,56,0
+"Rodrygo","Real Madrid","BRA","FW",NA,20,18,14,77.7777777777778,18,18,16.7,21,0,21,11,3,0
+"Rubén","Espanyol","ESP","DF",NA,20,6,1,16.6666666666667,7,7,57.1,0,0,0,2,4,0
+"Aitor Ruibal","Betis","ESP","FW","DF",25,21,15,71.4285714285714,34,34,29.4,8,0,8,8,6,0
+"Isma Ruiz","Granada","ESP","MF",NA,20,3,1,33.3333333333333,9,9,11.1,5,2,3,3,2,0
+"Víctor Ruiz","Betis","ESP","DF",NA,32,11,9,81.8181818181818,9,9,66.7,18,13,5,29,71,1
+"Gerónimo Rulli","Villarreal","ARG","GK",NA,29,0,0,NA,4,4,0,0,0,0,1,15,5
+"Franco Russo","Mallorca","ARG","DF",NA,26,19,10,52.6315789473684,31,31,41.9,14,9,5,27,73,1
+"Youssouf Sabaly","Betis","SEN","DF",NA,28,12,10,83.3333333333333,13,13,53.8,11,4,7,13,16,1
+"Salvi","Cádiz","ESP","MF","FW",30,20,10,50,20,20,40,17,2,15,6,11,0
+"Fede San Emeterio","Cádiz","ESP","MF",NA,24,16,5,31.25,15,15,33.3,5,0,5,8,6,0
+"Oihan Sancet","Athletic Club","ESP","FW",NA,21,12,7,58.3333333333333,20,20,25,2,0,2,5,13,0
+"Antonio Sánchez","Mallorca","ESP","MF","FW",24,53,24,45.2830188679245,49,49,38.8,32,2,30,32,32,1
+"Germán Sánchez","Granada","ESP","DF",NA,34,27,19,70.3703703703704,20,20,55,19,16,3,28,137,0
+"Manu Sánchez","Osasuna","ESP","DF",NA,20,72,34,47.2222222222222,79,79,54.4,28,3,25,18,43,0
+"Oier Sanjurjo","Osasuna","ESP","MF",NA,35,10,6,60,19,19,10.5,8,3,5,1,9,0
+"Jesús Santiago","Valencia","ESP","MF",NA,17,2,2,100,2,2,0,1,0,1,0,1,0
+"Alvaro Sanz","Barcelona","ESP","MF",NA,20,0,0,NA,1,1,0,0,0,0,0,0,0
+"Marcelo Saracchi","Levante","URU","DF",NA,23,8,5,62.5,4,4,50,3,0,3,4,7,1
+"Joan Sastre Vanrell","Mallorca","ESP","DF",NA,24,6,3,50,4,4,75,3,0,3,2,10,0
+"Esteban Saveljich","Rayo Vallecano","MNE","DF",NA,30,18,11,61.1111111111111,15,15,60,20,12,8,16,69,0
+"Stefan Savić","Atlético Madrid","MNE","DF",NA,30,46,20,43.4782608695652,43,43,67.4,19,12,7,37,102,1
+"Aleksandar Sedlar","Mallorca","SRB","DF","MF",29,5,3,60,5,5,60,4,4,0,5,19,0
+"Javier Serrano","Atlético Madrid","ESP","MF",NA,18,3,1,33.3333333333333,4,4,50,0,0,0,3,2,0
+"Nicolás Serrano","Athletic Club","ESP","MF","FW",18,9,6,66.6666666666667,10,10,30,5,1,4,2,3,0
+"Salva Sevilla","Mallorca","ESP","MF",NA,37,18,12,66.6666666666667,17,17,35.3,12,6,6,14,11,0
+"David Silva","Real Sociedad","ESP","MF",NA,35,28,17,60.7142857142857,20,20,15,13,3,10,7,12,0
+"Jonathan Silva","Getafe","ARG","DF","FW",27,10,8,80,12,12,58.3,4,0,4,3,7,0
+"Rui Silva","Betis","POR","GK",NA,27,1,0,0,2,2,50,0,0,0,1,11,1
+"Antonio Sivera","Alavés","ESP","GK",NA,24,0,0,NA,1,1,0,0,0,0,0,0,0
+"Rubén Sobrino","Valencia","ESP","MF",NA,29,1,1,100,1,1,100,1,0,1,2,0,0
+"Rubén Sobrino","Cádiz","ESP","FW","MF",29,28,17,60.7142857142857,35,35,14.3,21,1,20,21,18,0
+"Alex Sola","Real Sociedad","ESP","DF","FW",22,1,1,100,3,3,33.3,1,0,1,2,3,0
+"Augusto Solari","Celta Vigo","ARG","MF","DF",29,24,12,50,32,32,37.5,14,4,10,7,10,1
+"Roberto Soldado","Levante","ESP","FW",NA,36,3,1,33.3333333333333,3,3,33.3,4,0,4,1,7,0
+"Carlos Soler","Valencia","ESP","MF",NA,24,29,19,65.5172413793103,37,37,29.7,19,4,15,14,28,0
+"Son","Levante","ESP","DF",NA,27,28,18,64.2857142857143,34,34,50,11,5,6,19,33,1
+"David Soria","Getafe","ESP","GK",NA,28,1,0,0,2,2,50,0,0,0,0,22,2
+"Alberto Soro","Granada","ESP","MF","FW",22,12,10,83.3333333333333,7,7,14.3,21,2,19,3,4,0
+"Damián Suárez","Getafe","URU","DF",NA,33,74,47,63.5135135135135,91,91,46.2,46,5,41,31,30,0
+"Denis Suárez","Celta Vigo","ESP","MF",NA,27,61,29,47.5409836065574,82,82,30.5,32,4,28,16,11,0
+"Luis Suárez","Atlético Madrid","URU","FW",NA,34,8,5,62.5,10,10,20,8,1,7,1,14,0
+"Mario Suárez","Rayo Vallecano","ESP","DF",NA,34,9,4,44.4444444444444,9,9,33.3,6,4,2,7,37,1
+"Suso","Sevilla","ESP","FW",NA,27,4,3,75,13,13,23.1,4,0,4,0,0,0
+"Mamadou Sylla","Alavés","SEN","FW","MF",27,2,2,100,1,1,0,0,0,0,1,5,0
+"Mamadou Sylla","Rayo Vallecano","SEN","FW",NA,27,1,1,100,1,1,0,2,0,2,4,3,0
+"Alexander Sørloth","Real Sociedad","NOR","FW",NA,25,20,7,35,17,17,41.2,14,1,13,4,15,0
+"Tachi","Alavés","ESP","DF",NA,23,6,3,50,7,7,71.4,4,3,1,1,9,0
+"Renato Tapia","Celta Vigo","PER","MF",NA,26,50,31,62,50,50,40,21,5,16,28,43,0
+"Cristian Tello","Betis","ESP","FW",NA,29,17,11,64.7058823529412,31,31,41.9,9,0,9,10,6,0
+"Nahuel Tenaglia","Alavés","ARG","DF",NA,25,42,27,64.2857142857143,37,37,64.9,10,2,8,26,42,0
+"Marc Tenas","Alavés","ESP","FW","MF",20,1,1,100,1,1,100,1,0,1,0,0,1
+"Marc-André ter Stegen","Barcelona","GER","GK",NA,29,0,0,NA,1,1,0,0,0,0,1,13,5
+"David Timor","Getafe","ESP","MF",NA,31,1,1,100,3,3,0,3,2,1,1,4,1
+"Raúl de Tomás","Espanyol","ESP","FW",NA,26,15,11,73.3333333333333,17,17,35.3,12,3,9,6,42,1
+"Raúl Torrente","Granada","ESP","DF",NA,19,31,21,67.741935483871,29,29,55.2,14,9,5,12,69,0
+"Ferrán Torres","Barcelona","ESP","FW",NA,21,10,5,50,7,7,42.9,12,3,9,6,7,0
+"Óliver Torres","Sevilla","ESP","MF","FW",26,22,12,54.5454545454545,25,25,32,10,1,9,6,4,0
+"Pau Torres","Villarreal","ESP","DF",NA,24,32,19,59.375,25,25,72,32,23,9,19,105,2
+"Roberto Torres","Osasuna","ESP","MF","FW",32,7,4,57.1428571428571,15,15,20,8,0,8,8,4,0
+"Lucas Torró","Osasuna","ESP","MF",NA,27,71,40,56.3380281690141,57,57,50.9,32,11,21,47,55,0
+"Adama Traoré","Barcelona","ESP","FW",NA,25,4,2,50,5,5,60,2,0,2,4,3,1
+"Óscar Trejo","Rayo Vallecano","ARG","MF",NA,33,42,24,57.1428571428571,50,50,30,26,1,25,13,11,0
+"Manu Trigueros","Villarreal","ESP","MF","FW",29,45,25,55.5555555555556,66,66,34.8,19,3,16,13,17,0
+"Kieran Trippier","Atlético Madrid","ENG","DF","FW",30,22,12,54.5454545454545,21,21,57.1,12,1,11,10,11,0
+"Beñat Turrientes","Real Sociedad","ESP","MF",NA,19,0,0,NA,4,4,0,1,0,1,2,2,0
+"Samuel Umtiti","Barcelona","FRA","DF",NA,27,2,2,100,2,2,50,1,1,0,0,4,0
+"Enes Ünal","Getafe","TUR","FW",NA,24,37,22,59.4594594594595,42,42,11.9,25,5,20,5,36,0
+"Myrto Uzuni","Granada","ALB","FW","MF",26,7,4,57.1428571428571,2,2,0,13,1,12,10,7,0
+"Álvaro Vadillo","Espanyol","ESP","DF","MF",26,1,1,100,2,2,50,0,0,0,0,1,0
+"Óscar Valentín","Rayo Vallecano","ESP","MF",NA,26,102,53,51.9607843137255,105,105,41.9,56,10,46,39,43,0
+"Germán Valera","Real Sociedad","ESP","FW",NA,19,3,2,66.6666666666667,1,1,100,0,0,0,0,1,0
+"Martin Valjent","Mallorca","SVK","DF",NA,25,31,19,61.2903225806452,24,24,54.2,34,26,8,31,173,1
+"Jesús Vallejo","Real Madrid","ESP","DF",NA,24,7,5,71.4285714285714,6,6,83.3,9,8,1,6,16,0
+"Manu Vallejo","Alavés","ESP","MF","FW",24,8,2,25,13,13,30.8,7,0,7,0,4,0
+"Manu Vallejo","Valencia","ESP","FW","MF",24,2,1,50,1,1,0,0,0,0,0,1,0
+"Federico Valverde","Real Madrid","URU","MF",NA,23,36,16,44.4444444444444,31,31,38.7,23,5,18,24,12,0
+"José Luis García Vayá","Levante","ESP","MF",NA,22,46,27,58.695652173913,41,41,39,24,5,19,38,30,0
+"Jesus Vazquez","Valencia","ESP","DF",NA,18,24,13,54.1666666666667,22,22,45.5,16,3,13,9,19,0
+"Kevin Vázquez","Celta Vigo","ESP","DF",NA,28,34,24,70.5882352941177,28,28,50,20,7,13,36,34,0
+"Lucas Vázquez","Real Madrid","ESP","DF",NA,30,43,22,51.1627906976744,35,35,48.6,25,7,18,20,41,1
+"Gabriel Veiga","Celta Vigo","ESP","MF",NA,19,5,4,80,12,12,25,2,0,2,4,1,0
+"Unai Vencedor Paris","Athletic Club","ESP","MF",NA,20,26,11,42.3076923076923,42,42,19,31,13,18,19,22,0
+"Gonzalo Verdú","Elche","ESP","DF",NA,32,19,9,47.3684210526316,16,16,50,20,14,6,13,59,1
+"Mikel Vesga","Athletic Club","ESP","MF",NA,28,27,14,51.8518518518519,31,31,35.5,16,5,11,20,34,2
+"Rúben Vezo","Levante","POR","DF",NA,27,41,29,70.7317073170732,41,41,63.4,41,25,16,36,105,1
+"Aleix Vidal","Espanyol","ESP","DF","MF",31,31,25,80.6451612903226,39,39,48.7,19,6,13,25,35,2
+"Nacho Vidal","Osasuna","ESP","DF",NA,26,83,47,56.6265060240964,77,77,50.6,32,14,18,58,79,0
+"Dídac Vilà","Espanyol","ESP","DF","MF",32,7,5,71.4285714285714,9,9,44.4,2,1,1,3,8,0
+"Tonny Vilhena","Espanyol","NED","MF","FW",26,16,6,37.5,21,21,33.3,10,2,8,8,17,0
+"Asier Villalibre","Athletic Club","ESP","FW",NA,23,4,3,75,2,2,50,3,1,2,1,7,0
+"Gonzalo Villar","Getafe","ESP","MF",NA,23,5,3,60,5,5,40,4,1,3,1,1,0
+"Vitolo","Getafe","ESP","MF",NA,31,3,2,66.6666666666667,5,5,40,3,0,3,1,1,0
+"Daniel Vivian","Athletic Club","ESP","DF",NA,22,32,21,65.625,24,24,70.8,20,15,5,26,107,1
+"Šime Vrsaljko","Atlético Madrid","CRO","DF",NA,29,27,17,62.962962962963,20,20,60,10,1,9,12,30,0
+"Nikola Vukčević","Levante","MNE","MF",NA,29,3,2,66.6666666666667,1,1,0,2,0,2,2,1,0
+"Daniel Wass","Valencia","DEN","MF",NA,32,23,13,56.5217391304348,31,31,25.8,13,2,11,13,19,0
+"Iñaki Williams","Athletic Club","GHA","FW",NA,27,14,5,35.7142857142857,17,17,29.4,18,3,15,3,20,0
+"Nico Williams","Athletic Club","ESP","MF",NA,19,20,10,50,31,31,32.3,18,2,16,5,9,0
+"Okay Yokuşlu","Getafe","TUR","DF","MF",27,9,8,88.8888888888889,5,5,100,7,5,2,5,17,0
+"Okay Yokuşlu","Celta Vigo","TUR","DF","MF",27,4,1,25,3,3,66.7,2,1,1,2,6,0
+"Joseba Zaldúa","Real Sociedad","ESP","DF",NA,29,31,22,70.9677419354839,22,22,72.7,14,4,10,13,35,0
+"Oier Zarraga","Athletic Club","ESP","MF",NA,22,13,5,38.4615384615385,28,28,10.7,17,10,7,19,10,0
+"Luca Zidane","Rayo Vallecano","FRA","GK",NA,23,0,0,NA,1,1,0,0,0,0,0,1,1
+"Igor Zubeldia","Real Sociedad","ESP","DF",NA,24,20,10,50,18,18,66.7,16,6,10,27,53,0
+"Martín Zubimendi","Real Sociedad","ESP","MF",NA,22,52,25,48.0769230769231,44,44,50,30,13,17,49,48,1

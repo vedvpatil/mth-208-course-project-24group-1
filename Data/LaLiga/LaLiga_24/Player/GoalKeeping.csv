@@ -1,0 +1,27 @@
+"Player","Squad","Nation","Pos","Pos2","Age","Wins","Draws","Losses","Goals_Conceded","Saves","Saves_Percentage","Clean_Sheets","Clean_Sheets_Percentage","Penalty_Kicks_Saves","Penalty_Kicks_Save_Percentage"
+"Stole Dimitrievski","Rayo Vallecano","MKD","GK",NA,29,8,14,15,47,104,69.3,13,35.1,1,50
+"Marko Dmitrović","Sevilla","SRB","GK",NA,31,2,2,9,25,44,66.2,2,15.4,0,0
+"Aitor Fernández","Osasuna","ESP","GK",NA,32,0,2,4,9,11,60,1,16.7,0,0
+"André Ferreira","Granada","POR","GK",NA,27,0,5,9,29,49,66.2,0,0,0,0
+"Paulo Gazzaniga","Girona","ARG","GK",NA,31,25,6,7,46,121,75.6,12,31.6,1,16.7
+"Vicente Guaita","Celta Vigo","ESP","GK",NA,36,8,7,11,39,83,70.8,6,23.1,0,0
+"Sergio Herrera","Osasuna","ESP","GK",NA,30,12,7,13,47,84,64.4,9,28.1,1,100
+"Filip Jørgensen","Villarreal","DEN","GK",NA,21,13,10,13,63,143,72.2,6,16.7,0,0
+"Jeremías Ledesma","Cádiz","ARG","GK",NA,30,6,12,16,47,104,70.2,9,26.5,0,0
+"Andriy Lunin","Real Madrid","UKR","GK",NA,24,16,5,0,17,48,75.4,10,47.6,0,0
+"Giorgi Mamardashvili","Valencia","GEO","GK",NA,22,13,10,14,41,103,73.8,13,35.1,3,50
+"Diego Mariño","Almería","ESP","GK",NA,33,0,0,1,2,2,100,0,0,0,0
+"Unai Marrero","Real Sociedad","ESP","GK",NA,21,0,0,1,3,2,60,0,0,0,0
+"Marc Martínez","Granada","ESP","GK",NA,33,0,0,3,11,12,60.9,0,0,0,0
+"Luís Maximiano","Almería","POR","GK",NA,24,2,11,20,63,111,66.3,6,18.2,1,20
+"Ørjan Nyland","Sevilla","NOR","GK",NA,32,8,9,7,27,78,76.9,6,25,0,0
+"Jan Oblak","Atlético Madrid","SVN","GK",NA,30,24,4,10,43,101,70.8,13,34.2,0,0
+"Predrag Rajković","Mallorca","SRB","GK",NA,27,7,15,14,43,95,71.7,9,25,1,20
+"Álex Remiro","Real Sociedad","ESP","GK",NA,28,16,12,9,36,94,76.2,15,40.5,1,16.7
+"Rui Silva","Betis","POR","GK",NA,29,10,9,9,36,85,75.8,9,32.1,1,12.5
+"Unai Simón","Athletic Club","ESP","GK",NA,26,18,11,7,33,90,73.8,16,44.4,3,75
+"Antonio Sivera","Alavés","ESP","GK",NA,26,11,8,15,38,87,75.6,10,29.4,0,0
+"David Soria","Getafe","ESP","GK",NA,30,10,13,15,52,118,72.5,10,26.3,1,16.7
+"Marc-André ter Stegen","Barcelona","GER","GK",NA,31,20,5,3,27,75,75.5,15,53.6,0,0
+"Álvaro Vallés","Las Palmas","ESP","GK",NA,26,10,10,17,44,108,74.3,8,21.6,3,37.5
+"Iván Villar","Celta Vigo","ESP","GK",NA,26,2,4,6,18,26,63.6,0,0,1,33.3
